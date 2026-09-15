@@ -1,0 +1,809 @@
+record_id,publication_year,paper_title,supplemental_match_method,supplemental_match_confidence,supplemental_title
+conf:3dim:0003WBCR20,2020,SMPLy Benchmarking 3D Human Pose Estimation in the Wild.,doi_exact,1.0,SMPLy Benchmarking 3D Human Pose Estimation in the Wild
+conf:3dim:AgarwalG20,2020,GAMesh: Guided and Augmented Meshing for Deep Point Networks.,doi_exact,1.0,GAMesh: Guided and Augmented Meshing for Deep Point Networks
+conf:3dim:AlhaijaMTJN0R20,2020,Intrinsic Autoencoders for Joint Deferred Neural Rendering and Intrinsic Image Decomposition.,doi_exact,1.0,Intrinsic Autoencoders for Joint Deferred Neural Rendering and Intrinsic Image Decomposition
+conf:3dim:ArshadB20,2020,A Progressive Conditional Generative Adversarial Network for Generating Dense and Colored 3D Point Clouds.,doi_exact,1.0,A Progressive Conditional Generative Adversarial Network for Generating Dense and Colored 3D Point Clouds
+conf:3dim:AsselinLL20,2020,Deep SVBRDF Estimation on Real Materials.,doi_exact,1.0,Deep SVBRDF Estimation on Real Materials
+conf:3dim:Aumentado-Armstrong20,2020,Cycle-Consistent Generative Rendering for 2D-3D Modality Translation.,doi_exact,1.0,Cycle-Consistent Generative Rendering for 2D-3D Modality Translation
+conf:3dim:AvrahamZD20,2020,Localising In Complex Scenes Using Balanced Adversarial Adaptation.,doi_exact,1.0,Localising In Complex Scenes Using Balanced Adversarial Adaptation
+conf:3dim:AygunLC20,2020,Unsupervised Dense Shape Correspondence using Heat Kernels.,doi_exact,1.0,Unsupervised Dense Shape Correspondence using Heat Kernels
+conf:3dim:BaileyG20,2020,A Novel Depth from Defocus Framework Based on a Thick Lens Camera Model.,doi_exact,1.0,A Novel Depth from Defocus Framework Based on a Thick Lens Camera Model
+conf:3dim:BenknerGT020,2020,Adiabatic Quantum Graph Matching with Permutation Matrix Constraints.,doi_exact,1.0,Adiabatic Quantum Graph Matching with Permutation Matrix Constraints
+conf:3dim:CaiM20,2020,Do End-to-end Stereo Algorithms Under-utilize Information?,doi_exact,1.0,Do End-to-end Stereo Algorithms Under-utilize Information?
+conf:3dim:CaiPMM20,2020,Matching-space Stereo Networks for Cross-domain Generalization.,doi_exact,1.0,Matching-space Stereo Networks for Cross-domain Generalization
+conf:3dim:CassidyMQLD20,2020,Refractive Multi-view Stereo.,doi_exact,1.0,Refractive Multi-view Stereo
+conf:3dim:ChandranBGB20,2020,Semantic Deep Face Models.,doi_exact,1.0,Semantic Deep Face Models
+conf:3dim:ChatonCHL20,2020,Torch-Points3D: A Modular Multi-Task Framework for Reproducible Deep Learning on 3D Point Clouds.,doi_exact,1.0,Torch-Points3D: A Modular Multi-Task Framework for Reproducible Deep Learning on 3D Point Clouds
+conf:3dim:ChenAN20,2020,Screen-space Regularization on Differentiable Rasterization.,doi_exact,1.0,Screen-space Regularization on Differentiable Rasterization
+conf:3dim:ChenLWWY20,2020,Restoration of Motion Blur in Time-of-Flight Depth Image Using Data Alignment.,doi_exact,1.0,Restoration of Motion Blur in Time-of-Flight Depth Image Using Data Alignment
+conf:3dim:ChenWHH20,2020,PanoNet3D: Combining Semantic and Geometric Understanding for LiDAR Point Cloud Detection.,doi_exact,1.0,PanoNet3D: Combining Semantic and Geometric Understanding for LiDAR Point Cloud Detection
+conf:3dim:DarmonAM20,2020,Learning to Guide Local Feature Matches.,doi_exact,1.0,Learning to Guide Local Feature Matches
+conf:3dim:DemmelGL0C20,2020,Distributed Photometric Bundle Adjustment.,doi_exact,1.0,Distributed Photometric Bundle Adjustment
+conf:3dim:DengBSF20,2020,Better Patch Stitching for Parametric Surface Reconstruction.,doi_exact,1.0,Better Patch Stitching for Parametric Surface Reconstruction
+conf:3dim:DengZ20,2020,Temporal LiDAR Frame Prediction for Autonomous Driving.,doi_exact,1.0,Temporal LiDAR Frame Prediction for Autonomous Driving
+conf:3dim:DEusanioSPBVC20,2020,A Transformer-Based Network for Dynamic Hand Gesture Recognition.,doi_exact,1.0,A Transformer-Based Network for Dynamic Hand Gesture Recognition
+conf:3dim:DuerrPWB20,2020,LiDAR-based Recurrent 3D Semantic Segmentation with Temporal Memory Alignment.,doi_exact,1.0,LiDAR-based Recurrent 3D Semantic Segmentation with Temporal Memory Alignment
+conf:3dim:DuZHCL20,2020,VIPNet: A Fast and Accurate Single-View Volumetric Reconstruction by Learning Sparse Implicit Point Guidance.,doi_exact,1.0,VIPNet: A Fast and Accurate Single-View Volumetric Reconstruction by Learning Sparse Implicit Point Guidance
+conf:3dim:FangZSJYZ20,2020,RotPredictor: Unsupervised Canonical Viewpoint Learning for Point Cloud Classification.,doi_exact,1.0,RotPredictor: Unsupervised Canonical Viewpoint Learning for Point Cloud Classification
+conf:3dim:FanKK20,2020,Differential Photometric Consistency.,doi_exact,1.0,Differential Photometric Consistency
+conf:3dim:FengYLV20,2020,Deep Depth Estimation on 360° Images with a Double Quaternion Loss.,doi_exact,1.0,Deep Depth Estimation on 360° Images with a Double Quaternion Loss
+conf:3dim:FragosoS20,2020,Generalized Pose-and-Scale Estimation using 4-Point Congruence Constraints.,doi_exact,1.0,Generalized Pose-and-Scale Estimation using 4-Point Congruence Constraints
+conf:3dim:GhoshGURBB20,2020,GIF: Generative Interpretable Faces.,doi_exact,1.0,GIF: Generative Interpretable Faces
+conf:3dim:GhoshVDSSJ20,2020,Depth Completion Using a View-constrained Deep Prior.,doi_exact,1.0,Depth Completion Using a View-constrained Deep Prior
+conf:3dim:GoelCGTTR20,2020,Shape from Tracing: Towards Reconstructing 3D Object Geometry and SVBRDF Material from Images via Differentiable Path Tracing.,doi_exact,1.0,Shape from Tracing: Towards Reconstructing 3D Object Geometry and SVBRDF Material from Images via Differentiable Path Tracing
+conf:3dim:GolkovSMDGMMC20,2020,3D Deep Learning for Biological Function Prediction from Physical Fields.,doi_exact,1.0,3D Deep Learning for Biological Function Prediction from Physical Fields
+conf:3dim:GolyanikJST20,2020,Intrinsic Dynamic Shape Prior for Dense Non-Rigid Structure from Motion.,doi_exact,1.0,Intrinsic Dynamic Shape Prior for Dense Non-Rigid Structure from Motion
+conf:3dim:GolyanikST20,2020,Fast Simultaneous Gravitational Alignment of Multiple Point Sets.,doi_exact,1.0,Fast Simultaneous Gravitational Alignment of Multiple Point Sets
+conf:3dim:GrahamN20,2020,RidgeSfM: Structure from Motion via Robust Pairwise Matching Under Depth Uncertainty.,doi_exact,1.0,RidgeSfM: Structure from Motion via Robust Pairwise Matching Under Depth Uncertainty
+conf:3dim:GuptaJSSZ20,2020,Improved Modeling of 3D Shapes with Multi-view Depth Maps.,doi_exact,1.0,Improved Modeling of 3D Shapes with Multi-view Depth Maps
+conf:3dim:HampiholiJMN20,2020,Depthwise Separable Temporal Convolutional Network for Action Segmentation.,doi_exact,1.0,Depthwise Separable Temporal Convolutional Network for Action Segmentation
+conf:3dim:Hidalgo-CarrioG20,2020,Learning Monocular Dense Depth from Events.,doi_exact,1.0,Learning Monocular Dense Depth from Events
+conf:3dim:HolynskiGFSS20,2020,Reducing Drift in Structure From Motion Using Extended Features.,doi_exact,1.0,Reducing Drift in Structure From Motion Using Extended Features
+conf:3dim:HolzschuhLC20,2020,Simulated Annealing for 3D Shape Correspondence.,doi_exact,1.0,Simulated Annealing for 3D Shape Correspondence
+conf:3dim:HugC20,2020,HyperSLAM: A Generic and Modular Approach to Sensor Fusion and Simultaneous Localization And Mapping in Continuous-Time.,doi_exact,1.0,HyperSLAM: A Generic and Modular Approach to Sensor Fusion and Simultaneous Localization And Mapping in Continuous-Time
+conf:3dim:HurtubiseR20,2020,Fast Discontinuity-Aware Subpixel Correspondence in Structured Light.,doi_exact,1.0,Fast Discontinuity-Aware Subpixel Correspondence in Structured Light
+conf:3dim:IshiharaAZS20,2020,Underwater Scene Recovery Using Wavelength-Dependent Refraction of Light.,doi_exact,1.0,Underwater Scene Recovery Using Wavelength-Dependent Refraction of Light
+conf:3dim:JiangCLGH20,2020,Joint Unsupervised Learning of Optical Flow and Egomotion with Bi-Level optimization.,doi_exact,1.0,Joint Unsupervised Learning of Optical Flow and Egomotion with Bi-Level optimization
+conf:3dim:JinkaCSN20,2020,PeeledHuman: Robust Shape Representation for Textured 3D Human Body Reconstruction.,doi_exact,1.0,PeeledHuman: Robust Shape Representation for Textured 3D Human Body Reconstruction
+conf:3dim:KarunratanakulY20,2020,Grasping Field: Learning Implicit Representations for Human Grasps.,doi_exact,1.0,Grasping Field: Learning Implicit Representations for Human Grasps
+conf:3dim:KatariaDH20,2020,Improving Structure from Motion with Reliable Resectioning.,doi_exact,1.0,Improving Structure from Motion with Reliable Resectioning
+conf:3dim:KaufmannA0PZH20,2020,Convolutional Autoencoders for Human Motion Infilling.,doi_exact,1.0,Convolutional Autoencoders for Human Motion Infilling
+conf:3dim:KawanoKK20,2020,Learning Wasserstein Isometric Embedding for Point Clouds.,doi_exact,1.0,Learning Wasserstein Isometric Embedding for Point Clouds
+conf:3dim:KayaT20,2020,Self-Supervised 2D Image to 3D Shape Translation with Disentangled Representations.,doi_exact,1.0,Self-Supervised 2D Image to 3D Shape Translation with Disentangled Representations
+conf:3dim:KlugEBL20,2020,Error Bounds of Projection Models in Weakly Supervised 3D Human Pose Estimation.,doi_exact,1.0,Error Bounds of Projection Models in Weakly Supervised 3D Human Pose Estimation
+conf:3dim:KohliSW20,2020,Semantic Implicit Neural Scene Representations With Semi-Supervised Training.,doi_exact,1.0,Semantic Implicit Neural Scene Representations With Semi-Supervised Training
+conf:3dim:KolosSL20,2020,TRANSPR: Transparency Ray-Accumulating Neural 3D Scene Point Renderer.,doi_exact,1.0,TRANSPR: Transparency Ray-Accumulating Neural 3D Scene Point Renderer
+conf:3dim:KuhnSREF20,2020,DeepC-MVS: Deep Confidence Prediction for Multi-View Stereo Reconstruction.,doi_exact,1.0,DeepC-MVS: Deep Confidence Prediction for Multi-View Stereo Reconstruction
+conf:3dim:LawinF20,2020,Registration Loss Learning for Deep Probabilistic Point Set Registration.,doi_exact,1.0,Registration Loss Learning for Deep Probabilistic Point Set Registration
+conf:3dim:LiuCBWSW20,2020,Dense Point Diffusion for 3D Object Detection.,doi_exact,1.0,Dense Point Diffusion for 3D Object Detection
+conf:3dim:LiuMM20,2020,RocNet: Recursive Octree Network for Efficient 3D Deep Representation.,doi_exact,1.0,RocNet: Recursive Octree Network for Efficient 3D Deep Representation
+conf:3dim:LivneAGBK20,2020,Do We Need Depth in State-Of-The-Art Face Authentication?,doi_exact,1.0,Do We Need Depth in State-Of-The-Art Face Authentication?
+conf:3dim:LiY0ZB20,2020,Saliency Guided Subdivision for Single-View Mesh Reconstruction.,doi_exact,1.0,Saliency Guided Subdivision for Single-View Mesh Reconstruction
+conf:3dim:LombardiOP20,2020,Scalable Point Cloud-based Reconstruction with Local Implicit Functions.,doi_exact,1.0,Scalable Point Cloud-based Reconstruction with Local Implicit Functions
+conf:3dim:LuoGYXS20,2020,Towards 3D VR-Sketch to 3D Shape Retrieval.,doi_exact,1.0,Towards 3D VR-Sketch to 3D Shape Retrieval
+conf:3dim:LuoKLMS20,2020,KeystoneDepth: History in 3D.,doi_exact,1.0,KeystoneDepth: History in 3D
+conf:3dim:MarinRCROM20,2020,Instant recovery of shape from spectrum via latent space connections.,doi_exact,1.0,Instant recovery of shape from spectrum via latent space connections
+conf:3dim:Mera-TrujilloSF20,2020,Efficient Scene Compression for Visual-based Localization.,doi_exact,1.0,Efficient Scene Compression for Visual-based Localization
+conf:3dim:MertanSDU20,2020,A New Distributional Ranking Loss With Uncertainty: Illustrated in Relative Depth Estimation.,doi_exact,1.0,A New Distributional Ranking Loss With Uncertainty: Illustrated in Relative Depth Estimation
+conf:3dim:NousiasLKOB20,2020,A Linear Approach to Absolute Pose Estimation for Light Fields.,doi_exact,1.0,A Linear Approach to Absolute Pose Estimation for Light Fields
+conf:3dim:OechsleNRMS020,2020,Learning Implicit Surface Light Fields.,doi_exact,1.0,Learning Implicit Surface Light Fields
+conf:3dim:PanLP20,2020,Compression and Completion of Animated Point Clouds using Topological Properties of the Manifold.,doi_exact,1.0,Compression and Completion of Animated Point Clouds using Topological Properties of the Manifold
+conf:3dim:PetitGG20,2020,Time Shifted IMU Preintegration for Temporal Calibration in Incremental Visual-Inertial Initialization.,doi_exact,1.0,Time Shifted IMU Preintegration for Temporal Calibration in Incremental Visual-Inertial Initialization
+conf:3dim:PionHCCS20,2020,Benchmarking Image Retrieval for Visual Localization.,doi_exact,1.0,Benchmarking Image Retrieval for Visual Localization
+conf:3dim:PittalugaTFTCK20,2020,Towards a MEMS-based Adaptive LIDAR.,doi_exact,1.0,Towards a MEMS-based Adaptive LIDAR
+conf:3dim:PontesHL20,2020,Scene Flow from Point Clouds with or without Learning.,doi_exact,1.0,Scene Flow from Point Clouds with or without Learning
+conf:3dim:PoursaeedJQXK20,2020,Self-Supervised Learning of Point Clouds via Orientation Estimation.,doi_exact,1.0,Self-Supervised Learning of Point Clouds via Orientation Estimation
+conf:3dim:PribanicPBBG20,2020,Smart Time-Multiplexing of Quads Solves the Multicamera Interference Problem.,doi_exact,1.0,Smart Time-Multiplexing of Quads Solves the Multicamera Interference Problem
+conf:3dim:QiuZKSY20,2020,Towards Geometry Guided Neural Relighting with Flash Photography.,doi_exact,1.0,Towards Geometry Guided Neural Relighting with Flash Photography
+conf:3dim:RichardCOPS20,2020,KAPLAN: A 3D Point Descriptor for Shape Completion.,doi_exact,1.0,KAPLAN: A 3D Point Descriptor for Shape Completion
+conf:3dim:RoldaoCV20,2020,LMSCNet: Lightweight Multiscale 3D Semantic Completion.,doi_exact,1.0,LMSCNet: Lightweight Multiscale 3D Semantic Completion
+conf:3dim:SalehDBNT20,2020,Graphite: Graph-Induced Feature Extraction for Point Cloud Registration.,doi_exact,1.0,Graphite: Graph-Induced Feature Extraction for Point Cloud Registration
+conf:3dim:SaltoriLS0G20,2020,SF-UDA3D: Source-Free Unsupervised Domain Adaptation for LiDAR-Based 3D Object Detection.,doi_exact,1.0,SF-UDA 3D : Source-Free Unsupervised Domain Adaptation for LiDAR-Based 3D Object Detection
+conf:3dim:SarasuaPW20,2020,Recalibration of Neural Networks for Point Cloud Analysis.,doi_exact,1.0,Recalibration of Neural Networks for Point Cloud Analysis
+conf:3dim:SarodeDSZLC20,2020,MaskNet: A Fully-Convolutional Network to Estimate Inlier Points.,doi_exact,1.0,MaskNet: A Fully-Convolutional Network to Estimate Inlier Points
+conf:3dim:ShabanovKCPKPYS20,2020,Self-supervised Depth Denoising Using Lower- and Higher-quality RGB-D sensors.,doi_exact,1.0,Self-supervised Depth Denoising Using Lower- and Higher-quality RGB-D sensors
+conf:3dim:SharmaCHT20,2020,Nighttime Stereo Depth Estimation using Joint Translation-Stereo Learning: Light Effects and Uninformative Regions.,doi_exact,1.0,Nighttime Stereo Depth Estimation using Joint Translation-Stereo Learning: Light Effects and Uninformative Regions
+conf:3dim:SockGAK20,2020,Introducing Pose Consistency and Warp-Alignment for Self-Supervised 6D Object Pose Estimation in Color Images.,doi_exact,1.0,Introducing Pose Consistency and Warp-Alignment for Self-Supervised 6D Object Pose Estimation in Color Images
+conf:3dim:SormannK0RPF20,2020,BP-MVSNet: Belief-Propagation-Layers for Multi-View-Stereo.,doi_exact,1.0,BP-MVSNet: Belief-Propagation-Layers for Multi-View-Stereo
+conf:3dim:SpezialettiTTTT20,2020,A Divide et Impera Approach for 3D Shape Reconstruction from Multiple Views.,doi_exact,1.0,A Divide et Impera Approach for 3D Shape Reconstruction from Multiple Views
+conf:3dim:StenborgSH20,2020,Using Image Sequences for Long-Term Visual Localization.,doi_exact,1.0,Using Image Sequences for Long-Term Visual Localization
+conf:3dim:StevsicH20,2020,Spatial Attention Improves Iterative 6D Object Pose Estimation.,doi_exact,1.0,Spatial Attention Improves Iterative 6D Object Pose Estimation
+conf:3dim:StumbergW0C20,2020,LM-Reloc: Levenberg-Marquardt Based Direct Visual Relocalization.,doi_exact,1.0,LM-Reloc: Levenberg-Marquardt Based Direct Visual Relocalization
+conf:3dim:SucarWD20,2020,NodeSLAM: Neural Object Descriptors for Multi-View Shape Reconstruction.,doi_exact,1.0,NodeSLAM: Neural Object Descriptors for Multi-View Shape Reconstruction
+conf:3dim:SunegardSS20,2020,Deep LiDAR localization using optical flow sensor-map correspondences.,doi_exact,1.0,Deep LiDAR localization using optical flow sensor-map correspondences
+conf:3dim:SuzukiOS20,2020,Rethinking PointNet Embedding for Faster and Compact Model.,doi_exact,1.0,Rethinking PointNet Embedding for Faster and Compact Model
+conf:3dim:SztrajmanNWS20,2020,High-Dynamic-Range Lighting Estimation From Face Portraits.,doi_exact,1.0,High-Dynamic-Range Lighting Estimation From Face Portraits
+conf:3dim:TanPXLHLHX20,2020,Deep Learning Based Single-Photon 3D Imaging with Multiple Returns.,doi_exact,1.0,Deep Learning Based Single-Photon 3D Imaging with Multiple Returns
+conf:3dim:TaubnerTNSF20,2020,LCD - Line Clustering and Description for Place Recognition.,doi_exact,1.0,LCD – Line Clustering and Description for Place Recognition
+conf:3dim:Thomas20,2020,Rotation-Invariant Point Convolution With Multiple Equivariant Alignments.,doi_exact,1.0,Rotation-Invariant Point Convolution With Multiple Equivariant Alignments
+conf:3dim:ThulTLP20,2020,Precomputed Radiance Transfer for Reflectance and Lighting Estimation.,doi_exact,1.0,Precomputed Radiance Transfer for Reflectance and Lighting Estimation
+conf:3dim:TishchenkoLOP20,2020,Self-Supervised Learning of Non-Rigid Residual Flow and Ego-Motion.,doi_exact,1.0,Self-Supervised Learning of Non-Rigid Residual Flow and Ego-Motion
+conf:3dim:TripathiRTA20,2020,PoseNet3D: Learning Temporally Consistent 3D Human Pose via Knowledge Distillation.,doi_exact,1.0,PoseNet3D: Learning Temporally Consistent 3D Human Pose via Knowledge Distillation
+conf:3dim:UzpakDS20,2020,Style Transfer for Keypoint Matching Under Adverse Conditions.,doi_exact,1.0,Style Transfer for Keypoint Matching Under Adverse Conditions
+conf:3dim:VasiljevicGAPBS20,2020,Neural Ray Surfaces for Self-Supervised Learning of Depth and Ego-motion.,doi_exact,1.0,Neural Ray Surfaces for Self-Supervised Learning of Depth and Ego-motion
+conf:3dim:WangCPLL20,2020,Learning 3D Faces from Photo-Realistic Facial Synthesis.,doi_exact,1.0,Learning 3D Faces from Photo-Realistic Facial Synthesis
+conf:3dim:WangLL20,2020,Deep NRSfM++: Towards Unsupervised 2D-3D Lifting in the Wild.,doi_exact,1.0,Deep NRSfM++: Towards Unsupervised 2D-3D Lifting in the Wild
+conf:3dim:WangLSM20,2020,DynOcc: Learning Single-View Depth from Dynamic Occlusion Cues.,doi_exact,1.0,DynOcc: Learning Single-View Depth from Dynamic Occlusion Cues
+conf:3dim:WeiLWXQDZL20,2020,Class-unbalanced domain adaptation for object detection via dynamic weighting mechanism.,doi_exact,1.0,Class-unbalanced domain adaptation for object detection via dynamic weighting mechanism
+conf:3dim:WeiSSRF20,2020,Learning to Infer Semantic Parameters for 3D Shape Editing.,doi_exact,1.0,Learning to Infer Semantic Parameters for 3D Shape Editing
+conf:3dim:WilsonW20,2020,Visualizing Spectral Bundle Adjustment Uncertainty.,doi_exact,1.0,Visualizing Spectral Bundle Adjustment Uncertainty
+conf:3dim:WuTNT20,2020,SCFusion: Real-time Incremental Scene Reconstruction with Semantic Completion.,doi_exact,1.0,SCFusion: Real-time Incremental Scene Reconstruction with Semantic Completion
+conf:3dim:XiangPWH20,2020,MonoClothCap: Towards Temporally Coherent Clothing Capture from Monocular RGB Video.,doi_exact,1.0,MonoClothCap: Towards Temporally Coherent Clothing Capture from Monocular RGB Video
+conf:3dim:XieMWXZ20,2020,FC-vSLAM: Integrating Feature Credibility in Visual SLAM.,doi_exact,1.0,FC-vSLAM: Integrating Feature Credibility in Visual SLAM
+conf:3dim:XuAVH20,2020,RANP: Resource Aware Neuron Pruning at Initialization for 3D CNNs.,doi_exact,1.0,RANP: Resource Aware Neuron Pruning at Initialization for 3D CNNs
+conf:3dim:XuCRJHKCSCR20,2020,Motion Annotation Programs: A Scalable Approach to Annotating Kinematic Articulations in Large 3D Shape Collections.,doi_exact,1.0,Motion Annotation Programs: A Scalable Approach to Annotating Kinematic Articulations in Large 3D Shape Collections
+conf:3dim:YinCCFKZ20,2020,COALESCE: Component Assembly by Learning to Synthesize Connections.,doi_exact,1.0,COALESCE: Component Assembly by Learning to Synthesize Connections
+conf:3dim:YuLNL20,2020,Two-Stage Relation Constraint for Semantic Segmentation of Point Clouds.,doi_exact,1.0,Two-Stage Relation Constraint for Semantic Segmentation of Point Clouds
+conf:3dim:ZhangHCTY20,2020,Global Context Aware Convolutions for 3D Point Cloud Understanding.,doi_exact,1.0,Global Context Aware Convolutions for 3D Point Cloud Understanding
+conf:3dim:ZhangYLSL20,2020,Learning Distribution Independent Latent Representation for 3D Face Disentanglement.,doi_exact,1.0,Learning Distribution Independent Latent Representation for 3D Face Disentanglement
+conf:3dim:ZhangYVJ20,2020,Learning Rotation-Invariant Representations of Point Clouds Using Aligned Edge Convolutional Neural Networks.,doi_exact,1.0,Learning Rotation-Invariant Representations of Point Clouds Using Aligned Edge Convolutional Neural Networks
+conf:3dim:ZhangZMBT20,2020,PLACE: Proximity Learning of Articulation and Contact in 3D Environments.,doi_exact,1.0,PLACE: Proximity Learning of Articulation and Contact in 3D Environments
+conf:3dim:ZhongG0S20,2020,Deep Sketch-Based Modeling: Tips and Tricks.,doi_exact,1.0,Deep Sketch-Based Modeling: Tips and Tricks
+conf:3dim:ZinsSB20,2020,3D-Aware Ellipse Prediction for Object-Based Camera Pose Estimation.,doi_exact,1.0,3D-Aware Ellipse Prediction for Object-Based Camera Pose Estimation
+conf:3dim:ZodageCSSC20,2020,Correspondence Matrices are Underrated.,doi_exact,1.0,Correspondence Matrices are Underrated
+conf:3dim:ZuanazziVBM20,2020,Adversarial Self-Supervised Scene Flow Estimation.,doi_exact,1.0,Adversarial Self-Supervised Scene Flow Estimation
+conf:3dim:AbdellaliFVK21,2021,L2D2: Learnable Line Detector and Descriptor.,doi_exact,1.0,L2D2: Learnable Line Detector and Descriptor
+conf:3dim:AbujbaraIH21,2021,Non-Linear Anisotropic Diffusion for Memory-Efficient Computed Tomography Super-Resolution Reconstruction.,doi_exact,1.0,Non-Linear Anisotropic Diffusion for Memory-Efficient Computed Tomography Super-Resolution Reconstruction
+conf:3dim:AksanKCH21,2021,A Spatio-temporal Transformer for 3D Human Motion Prediction.,doi_exact,1.0,A Spatio-temporal Transformer for 3D Human Motion Prediction
+conf:3dim:AleottiTRPSMS21,2021,Neural Disparity Refinement for Arbitrary Resolution Stereo.,doi_exact,1.0,Neural Disparity Refinement for Arbitrary Resolution Stereo
+conf:3dim:AttaikiPO21,2021,DPFM: Deep Partial Functional Maps.,doi_exact,1.0,DPFM: Deep Partial Functional Maps
+conf:3dim:BaradelGWBKR21,2021,Leveraging MoCap Data for Human Mesh Recovery.,doi_exact,1.0,Leveraging MoCap Data for Human Mesh Recovery
+conf:3dim:BarathDKL21,2021,Image Stitching with Locally Shared Rotation Axis.,doi_exact,1.0,Image Stitching with Locally Shared Rotation Axis
+conf:3dim:BassetBWMB21,2021,Neural Human Deformation Transfer.,doi_exact,1.0,Neural Human Deformation Transfer
+conf:3dim:BauerLOCPO21,2021,NVS-MonoDepth: Improving Monocular Depth Prediction with Novel View Synthesis.,doi_exact,1.0,NVS-MonoDepth: Improving Monocular Depth Prediction with Novel View Synthesis
+conf:3dim:BianZR21,2021,NVSS: High-quality Novel View Selfie Synthesis.,doi_exact,1.0,NVSS: High-quality Novel View Selfie Synthesis
+conf:3dim:BigalkeH21,2021,Fusing Posture and Position Representations for Point Cloud-Based Hand Gesture Recognition.,doi_exact,1.0,Fusing Posture and Position Representations for Point Cloud-Based Hand Gesture Recognition
+conf:3dim:BoulchLPM21,2021,NeeDrop: Self-supervised Shape Representation from Sparse Point Clouds using Needle Dropping.,doi_exact,1.0,NeeDrop: Self-supervised Shape Representation from Sparse Point Clouds using Needle Dropping
+conf:3dim:Bregier21,2021,Deep Regression on Manifolds: A 3D Rotation Case Study.,doi_exact,1.0,Deep Regression on Manifolds: A 3D Rotation Case Study
+conf:3dim:BrunelBSD21,2021,FLYBO: A Unified Benchmark Environment for Autonomous Flying Robots.,doi_exact,1.0,FLYBO: A Unified Benchmark Environment for Autonomous Flying Robots
+conf:3dim:CaraffaMBV21,2021,Efficiently Distributed Watertight Surface Reconstruction.,doi_exact,1.0,Efficiently Distributed Watertight Surface Reconstruction
+conf:3dim:CardaceSRSS21,2021,RefRec: Pseudo-labels Refinement via Shape Reconstruction for Unsupervised 3D Domain Adaptation.,doi_exact,1.0,RefRec: Pseudo-labels Refinement via Shape Reconstruction for Unsupervised 3D Domain Adaptation
+conf:3dim:CenYCWL21,2021,Open-set 3D Object Detection.,doi_exact,1.0,Open-set 3D Object Detection
+conf:3dim:ChatziagapiAMS21,2021,SIDER: Single-Image Neural Optimization for Facial Geometric Detail Recovery.,doi_exact,1.0,SIDER: Single-Image Neural Optimization for Facial Geometric Detail Recovery
+conf:3dim:ChenWP21,2021,Direct-PoseNet: Absolute Pose Regression with Photometric Consistency.,doi_exact,1.0,Direct-PoseNet: Absolute Pose Regression with Photometric Consistency
+conf:3dim:CuiXWH21,2021,Residual Geometric Feature Transform Network for 3D Surface Super-Resolution.,doi_exact,1.0,Residual Geometric Feature Transform Network for 3D Surface Super-Resolution
+conf:3dim:DabhiWSJFL21,2021,High Fidelity 3D Reconstructions with Limited Physical Views.,doi_exact,1.0,High Fidelity 3D Reconstructions with Limited Physical Views
+conf:3dim:DarmonBDMA21,2021,Deep Multi-View Stereo Gone Wild.,doi_exact,1.0,Deep Multi-View Stereo Gone Wild
+conf:3dim:DengSZS21,2021,SVMAC: Unsupervised 3D Human Pose Estimation from a Single Image with Single-view-multi-angle Consistency.,doi_exact,1.0,SVMAC: Unsupervised 3D Human Pose Estimation from a Single Image with Single-view-multi-angle Consistency
+conf:3dim:EhmCB21,2021,"Shortest Paths in Graphs with Matrix-Valued Edges: Concepts, Algorithm and Application to 3D Multi-Shape Analysis.",doi_exact,1.0,"Shortest Paths in Graphs with Matrix-Valued Edges: Concepts, Algorithm and Application to 3D Multi-Shape Analysis"
+conf:3dim:FanSKTBH21,2021,Learning To Disambiguate Strongly Interacting Hands via Probabilistic Per-Pixel Part Segmentation.,doi_exact,1.0,Learning To Disambiguate Strongly Interacting Hands via Probabilistic Per-Pixel Part Segmentation
+conf:3dim:FengCBTB21,2021,Collaborative Regression of Expressive Bodies using Moderation.,doi_exact,1.0,Collaborative Regression of Expressive Bodies using Moderation
+conf:3dim:GasperiniKDNBT21,2021,R4Dyn: Exploring Radar for Self-Supervised Monocular Depth Estimation of Dynamic Scenes.,doi_exact,1.0,R4Dyn: Exploring Radar for Self-Supervised Monocular Depth Estimation of Dynamic Scenes
+conf:3dim:GehrigMGS21,2021,E-RAFT: Dense Optical Flow from Event Cameras.,doi_exact,1.0,E-RAFT: Dense Optical Flow from Event Cameras
+conf:3dim:GenovaYKPCSBSF21,2021,Learning 3D Semantic Segmentation with only 2D Image Supervision.,doi_exact,1.0,Learning 3D Semantic Segmentation with only 2D Image Supervision
+conf:3dim:GeorgiouAKK21,2021,Projective Urban Texturing.,doi_exact,1.0,Projective Urban Texturing
+conf:3dim:GiebenhainG21,2021,AIR-Nets: An Attention-Based Framework for Locally Conditioned Implicit Representations.,doi_exact,1.0,AIR-Nets: An Attention-Based Framework for Locally Conditioned Implicit Representations
+conf:3dim:GinzburgR21,2021,Dual Geometric Graph Network (DG2N) Iterative Network for Deformable Shape Alignment.,doi_exact,1.0,Dual Geometric Graph Network (DG2N) Iterative Network for Deformable Shape Alignment
+conf:3dim:GriffithsBR21,2021,Curiosity-driven 3D Object Detection Without Labels.,doi_exact,1.0,Curiosity-driven 3D Object Detection Without Labels
+conf:3dim:GuoCSH21,2021,Human Performance Capture from Monocular Video in the Wild.,doi_exact,1.0,Human Performance Capture from Monocular Video in the Wild
+conf:3dim:HaefnerGOAGCNW21,2021,Recovering Real-World Reflectance Properties and Shading From HDR Imagery.,doi_exact,1.0,Recovering Real-World Reflectance Properties and Shading From HDR Imagery
+conf:3dim:HassonVSL21,2021,Towards Unconstrained Joint Hand-Object Reconstruction From RGB Videos.,doi_exact,1.0,Towards Unconstrained Joint Hand-Object Reconstruction From RGB Videos
+conf:3dim:HezroniDGA21,2021,DeepBBS: Deep Best Buddies for Point Cloud Registration.,doi_exact,1.0,DeepBBS: Deep Best Buddies for Point Cloud Registration
+conf:3dim:HiroseTKK21,2021,Variational Monocular Depth Estimation for Reliability Prediction.,doi_exact,1.0,Variational Monocular Depth Estimation for Reliability Prediction
+conf:3dim:HonzatkoTFD21,2021,Leveraging Spatial and Photometric Context for Calibrated Non-Lambertian Photometric Stereo.,doi_exact,1.0,Leveraging Spatial and Photometric Context for Calibrated Non-Lambertian Photometric Stereo
+conf:3dim:HoracheDG21,2021,3D Point Cloud Registration with Multi-Scale Architecture and Unsupervised Transfer Learning.,doi_exact,1.0,3D Point Cloud Registration with Multi-Scale Architecture and Unsupervised Transfer Learning
+conf:3dim:HuangLWF21,2021,3D-MetaConNet: Meta-learning for 3D Shape Classification and Segmentation.,doi_exact,1.0,3D-MetaConNet: Meta-learning for 3D Shape Classification and Segmentation
+conf:3dim:HuangSZW21,2021,Dynamic Multi-Person Mesh Recovery From Uncalibrated Multi-View Cameras.,doi_exact,1.0,Dynamic Multi-Person Mesh Recovery From Uncalibrated Multi-View Cameras
+conf:3dim:HuangYP21,2021,GASCN: Graph Attention Shape Completion Network.,doi_exact,1.0,GASCN: Graph Attention Shape Completion Network
+conf:3dim:HuynhPNMRH21,2021,Monocular Depth Estimation Primed by Salient Point Detection and Normalized Hessian Loss.,doi_exact,1.0,Monocular Depth Estimation Primed by Salient Point Detection and Normalized Hessian Loss
+conf:3dim:IqbalXGKM21,2021,KAMA: 3D Keypoint Aware Body Mesh Articulation.,doi_exact,1.0,KAMA: 3D Keypoint Aware Body Mesh Articulation
+conf:3dim:JainH21,2021,GenIcoNet: Generative Icosahedral Mesh Convolutional Network.,doi_exact,1.0,GenIcoNet: Generative Icosahedral Mesh Convolutional Network
+conf:3dim:JiangCZX21,2021,Neighborhood-based Neural Implicit Reconstruction from Point Clouds.,doi_exact,1.0,Neighborhood-based Neural Implicit Reconstruction from Point Clouds
+conf:3dim:JiangDHH21,2021,PLNet: Plane and Line Priors for Unsupervised Indoor Depth Estimation.,doi_exact,1.0,PLNet: Plane and Line Priors for Unsupervised Indoor Depth Estimation
+conf:3dim:JooNV21,2021,Exemplar Fine-Tuning for 3D Human Model Fitting Towards In-the-Wild 3D Human Pose Estimation.,doi_exact,1.0,Exemplar Fine-Tuning for 3D Human Model Fitting Towards In-the-Wild 3D Human Pose Estimation
+conf:3dim:JungBLNB21,2021,Wild ToFu: Improving Range and Quality of Indirect Time-of-Flight Depth with RGB Fusion in Challenging Environments.,doi_exact,1.0,Wild ToFu: Improving Range and Quality of Indirect Time-of-Flight Depth with RGB Fusion in Challenging Environments
+conf:3dim:KarunratanakulS21,2021,A Skeleton-Driven Neural Occupancy Representation for Articulated Hands.,doi_exact,1.0,A Skeleton-Driven Neural Occupancy Representation for Articulated Hands
+conf:3dim:KrahnBG21,2021,Convex Joint Graph Matching and Clustering via Semidefinite Relaxations.,doi_exact,1.0,Convex Joint Graph Matching and Clustering via Semidefinite Relaxations
+conf:3dim:LangGAR21,2021,DPC: Unsupervised Deep Point Correspondence via Cross and Self Construction.,doi_exact,1.0,DPC: Unsupervised Deep Point Correspondence via Cross and Self Construction
+conf:3dim:LangKA21,2021,Geometric Adversarial Attacks and Defenses on 3D Point Clouds.,doi_exact,1.0,Geometric Adversarial Attacks and Defenses on 3D Point Clouds
+conf:3dim:LeMK21,2021,Softmesh: Learning Probabilistic Mesh Connectivity via Image Supervision.,doi_exact,1.0,Softmesh: Learning Probabilistic Mesh Connectivity via Image Supervision
+conf:3dim:LeZ21,2021,Robust Fitting with Truncated Least Squares: A Bilevel Optimization Approach.,doi_exact,1.0,Robust Fitting with Truncated Least Squares: A Bilevel Optimization Approach
+conf:3dim:LiHTCBT21,2021,Deep Physics-aware Inference of Cloth Deformation for Monocular Human Performance Capture.,doi_exact,1.0,Deep Physics-aware Inference of Cloth Deformation for Monocular Human Performance Capture
+conf:3dim:LiISB21,2021,DurLAR: A High-Fidelity 128-Channel LiDAR Dataset with Panoramic Ambient and Reflectivity Imagery for Multi-Modal Autonomous Driving Applications.,doi_exact,1.0,DurLAR: A High-Fidelity 128-Channel LiDAR Dataset with Panoramic Ambient and Reflectivity Imagery for Multi-Modal Autonomous Driving Applications
+conf:3dim:LiKLCBW21,2021,Learning Local Recurrent Models for Human Mesh Recovery.,doi_exact,1.0,Learning Local Recurrent Models for Human Mesh Recovery
+conf:3dim:LiLZF21,2021,Learning Residue-Aware Correlation Filters and Refining Scale Estimates with the GrabCut for Real-Time UAV Tracking.,doi_exact,1.0,Learning Residue-Aware Correlation Filters and Refining Scale Estimates with the GrabCut for Real-Time UAV Tracking
+conf:3dim:LionarSCSC21,2021,NeuralBlox: Real-Time Neural Representation Fusion for Robust Volumetric Mapping.,doi_exact,1.0,NeuralBlox: Real-Time Neural Representation Fusion for Robust Volumetric Mapping
+conf:3dim:LipsonTD21,2021,RAFT-Stereo: Multilevel Recurrent Field Transforms for Stereo Matching.,doi_exact,1.0,RAFT-Stereo: Multilevel Recurrent Field Transforms for Stereo Matching
+conf:3dim:LiuYLWSDQ21,2021,MP-Mono: Monocular 3D Detection Using Multiple Priors for Autonomous Driving.,doi_exact,1.0,MP-Mono: Monocular 3D Detection Using Multiple Priors for Autonomous Driving
+conf:3dim:LiuYZCRT21,2021,4D Human Body Capture from Egocentric Video via 3D Scene Grounding.,doi_exact,1.0,4D Human Body Capture from Egocentric Video via 3D Scene Grounding
+conf:3dim:LiVCYKLZ21,2021,Task-Generic Hierarchical Human Motion Prior using VAEs.,doi_exact,1.0,Task-Generic Hierarchical Human Motion Prior using VAEs
+conf:3dim:LiYDR21,2021,PanoDepth: A Two-Stage Approach for Monocular Omnidirectional Depth Estimation.,doi_exact,1.0,PanoDepth: A Two-Stage Approach for Monocular Omnidirectional Depth Estimation
+conf:3dim:LiZGQ21,2021,Self-Supervised Light Field Depth Estimation Using Epipolar Plane Images.,doi_exact,1.0,Self-Supervised Light Field Depth Estimation Using Epipolar Plane Images
+conf:3dim:LoiseauMAL21,2021,Representing Shape Collections With Alignment-Aware Linear Models.,doi_exact,1.0,Representing Shape Collections With Alignment-Aware Linear Models
+conf:3dim:LombardiYFBZPC21,2021,LatentHuman: Shape-and-Pose Disentangled Latent Representation for Human Bodies.,doi_exact,1.0,LatentHuman: Shape-and-Pose Disentangled Latent Representation for Human Bodies
+conf:3dim:LuoGYXS21,2021,Fine-Grained VR Sketching: Dataset and Insights.,doi_exact,1.0,Fine-Grained VR Sketching: Dataset and Insights
+conf:3dim:MaLTG21,2021,Direct Dense Pose Estimation.,doi_exact,1.0,Direct Dense Pose Estimation
+conf:3dim:MelekhovLLWK21,2021,Digging Into Self-Supervised Learning of Feature Descriptors.,doi_exact,1.0,Digging Into Self-Supervised Learning of Feature Descriptors
+conf:3dim:MicheleBPBM21,2021,Generative Zero-Shot Learning for Semantic Segmentation of 3D Point Clouds.,doi_exact,1.0,Generative Zero-Shot Learning for Semantic Segmentation of 3D Point Clouds
+conf:3dim:MichelsK21,2021,Ray Tracing-Guided Design of Plenoptic Cameras.,doi_exact,1.0,Ray Tracing-Guided Design of Plenoptic Cameras
+conf:3dim:MuglikarGS21,2021,ESL: Event-based Structured Light.,doi_exact,1.0,ESL: Event-based Structured Light
+conf:3dim:MuglikarMS21,2021,Event Guided Depth Sensing.,doi_exact,1.0,Event Guided Depth Sensing
+conf:3dim:Nakano21,2021,Algebraic Constraint for Preserving Convexity of Planar Homography.,doi_exact,1.0,Algebraic Constraint for Preserving Convexity of Planar Homography
+conf:3dim:NekrasovSLLE21,2021,Mix3D: Out-of-Context Data Augmentation for 3D Scenes.,doi_exact,1.0,Mix3D: Out-of-Context Data Augmentation for 3D Scenes
+conf:3dim:NguyenKHRMH21,2021,RGBD-Net: Predicting Color and Depth Images for Novel Views Synthesis.,doi_exact,1.0,RGBD-Net: Predicting Color and Depth Images for Novel Views Synthesis
+conf:3dim:NiemeyerG21,2021,CAMPARI: Camera-Aware Decomposed Generative Neural Radiance Fields.,doi_exact,1.0,CAMPARI: Camera-Aware Decomposed Generative Neural Radiance Fields
+conf:3dim:OuyangR21,2021,Occlusion Guided Self-supervised Scene Flow Estimation on 3D Point Clouds.,doi_exact,1.0,Occlusion Guided Self-supervised Scene Flow Estimation on 3D Point Clouds
+conf:3dim:PanHCC21,2021,Multi-scale Space-time Registration of Growing Plants.,doi_exact,1.0,Multi-scale Space-time Registration of Growing Plants
+conf:3dim:PerssonHOF21,2021,Practical Pose Trajectory Splines With Explicit Regularization.,doi_exact,1.0,Practical Pose Trajectory Splines With Explicit Regularization
+conf:3dim:PerssonOOA21,2021,Parameterization of Ambiguity in Monocular Depth Prediction.,doi_exact,1.0,Parameterization of Ambiguity in Monocular Depth Prediction
+conf:3dim:PestanaM21,2021,Attacking Image Classifiers To Generate 3D Textures.,doi_exact,1.0,Attacking Image Classifiers To Generate 3D Textures
+conf:3dim:PialaC21,2021,TermiNeRF: Ray Termination Prediction for Efficient Neural Rendering.,doi_exact,1.0,TermiNeRF: Ray Termination Prediction for Efficient Neural Rendering
+conf:3dim:PostelsLSGT21,2021,Go with the Flows: Mixtures of Normalizing Flows for Point Cloud Generation and Reconstruction.,doi_exact,1.0,Go with the Flows: Mixtures of Normalizing Flows for Point Cloud Generation and Reconstruction
+conf:3dim:QiuWAL21,2021,Investigating Attention Mechanism in 3D Point Cloud Object Detection.,doi_exact,1.0,Investigating Attention Mechanism in 3D Point Cloud Object Detection
+conf:3dim:RendersBS21,2021,Mesh-Based Reconstruction of Dynamic Foam Images Using X-Ray CT.,doi_exact,1.0,Mesh-Based Reconstruction of Dynamic Foam Images Using X-Ray CT
+conf:3dim:RichSSH21,2021,3DVNet: Multi-View Depth Prediction and Volumetric Refinement.,doi_exact,1.0,3DVNet: Multi-View Depth Prediction and Volumetric Refinement
+conf:3dim:RiosSBSM21,2021,Point2FFD: Learning Shape Representations of Simulation-Ready 3D Models for Engineering Design Optimization.,doi_exact,1.0,Point2FFD: Learning Shape Representations of Simulation-Ready 3D Models for Engineering Design Optimization
+conf:3dim:RongWLL21,2021,Monocular 3D Reconstruction of Interacting Hands via Collision-Aware Factorized Refinements.,doi_exact,1.0,Monocular 3D Reconstruction of Interacting Hands via Collision-Aware Factorized Refinements
+conf:3dim:RuhkampGCNB21,2021,Attention meets Geometry: Geometry Guided Spatial-Temporal Attention for Consistent Self-Supervised Monocular Depth Estimation.,doi_exact,1.0,Attention meets Geometry: Geometry Guided Spatial-Temporal Attention for Consistent Self-Supervised Monocular Depth Estimation
+conf:3dim:SafadoustG21,2021,Self-Supervised Monocular Scene Decomposition and Depth Estimation.,doi_exact,1.0,Self-Supervised Monocular Scene Decomposition and Depth Estimation
+conf:3dim:Sanchez-RieraPM21,2021,PhysXNet: A Customizable Approach for Learning Cloth Dynamics on Dressed People.,doi_exact,1.0,PhysXNet: A Customizable Approach for Learning Cloth Dynamics on Dressed People
+conf:3dim:SarkarLGT21,2021,HumanGAN: A Generative Model of Human Images.,doi_exact,1.0,HumanGAN: A Generative Model of Human Images
+conf:3dim:SchambachSH21,2021,Spectral Reconstruction and Disparity from Spatio-Spectrally Coded Light Fields via Multi-Task Deep Learning.,doi_exact,1.0,Spectral Reconstruction and Disparity from Spatio-Spectrally Coded Light Fields via Multi-Task Deep Learning
+conf:3dim:SeeberPPO21,2021,RealisticHands: A Hybrid Model for 3D Hand Reconstruction.,doi_exact,1.0,RealisticHands: A Hybrid Model for 3D Hand Reconstruction
+conf:3dim:ShakibajahromiS21,2021,HyNet: 3D Segmentation Using Hybrid Graph Networks.,doi_exact,1.0,HyNet: 3D Segmentation Using Hybrid Graph Networks
+conf:3dim:ShenRAM21,2021,Stochastic Neural Radiance Fields: Quantifying Uncertainty in Implicit 3D Representations.,doi_exact,1.0,Stochastic Neural Radiance Fields: Quantifying Uncertainty in Implicit 3D Representations
+conf:3dim:ShiLML21,2021,Scalable Cluster-Consistency Statistics for Robust Multi-Object Matching.,doi_exact,1.0,Scalable Cluster-Consistency Statistics for Robust Multi-Object Matching
+conf:3dim:ShresthaFSDZT21,2021,MeshMVS: Multi-View Stereo Guided Mesh Reconstruction.,doi_exact,1.0,MeshMVS: Multi-View Stereo Guided Mesh Reconstruction
+conf:3dim:SidharthaG21,2021,It Is All In The Weights: Robust Rotation Averaging Revisited.,doi_exact,1.0,It Is All In The Weights: Robust Rotation Averaging Revisited
+conf:3dim:SimoniPVC21,2021,Multi-Category Mesh Reconstruction From Image Collections.,doi_exact,1.0,Multi-Category Mesh Reconstruction From Image Collections
+conf:3dim:StierRSH21,2021,VoRTX: Volumetric 3D Reconstruction With Transformers for Voxelwise View Selection and Fusion.,doi_exact,1.0,VoRTX: Volumetric 3D Reconstruction With Transformers for Voxelwise View Selection and Fusion
+conf:3dim:StreckeS21,2021,DiffSDFSim: Differentiable Rigid-Body Dynamics With Implicit Shapes.,doi_exact,1.0,DiffSDFSim: Differentiable Rigid-Body Dynamics With Implicit Shapes
+conf:3dim:TakmazPPCOG21,2021,Unsupervised Monocular Depth Reconstruction of Non-Rigid Scenes.,doi_exact,1.0,Unsupervised Monocular Depth Reconstruction of Non-Rigid Scenes
+conf:3dim:TankeZG21,2021,Intention-based Long-Term Human Motion Anticipation.,doi_exact,1.0,Intention-based Long-Term Human Motion Anticipation
+conf:3dim:ThaiSUR21,2021,3D Reconstruction of Novel Object Shapes from Single Images.,doi_exact,1.0,3D Reconstruction of Novel Object Shapes from Single Images
+conf:3dim:TschernezkiLV21,2021,NeuralDiff: Segmenting 3D objects that move in egocentric videos.,doi_exact,1.0,NeuralDiff: Segmenting 3D objects that move in egocentric videos
+conf:3dim:TurkogluBSBM21,2021,Visual Camera Re-Localization Using Graph Neural Networks and Relative Pose Supervision.,doi_exact,1.0,Visual Camera Re-Localization Using Graph Neural Networks and Relative Pose Supervision
+conf:3dim:UgrinovicRASM21,2021,Body Size and Depth Disambiguation in Multi-Person Reconstruction from Single Images.,doi_exact,1.0,Body Size and Depth Disambiguation in Multi-Person Reconstruction from Single Images
+conf:3dim:VermaBBV21,2021,Dual Mesh Convolutional Networks for Human Shape Correspondence.,doi_exact,1.0,Dual Mesh Convolutional Networks for Human Shape Correspondence
+conf:3dim:WaleckiT21,2021,GCSR: Gray Code Super-Resolution 3D Scanning.,doi_exact,1.0,GCSR: Gray Code Super-Resolution 3D Scanning
+conf:3dim:WangCSM21,2021,Dance In the Wild: Monocular Human Animation with Neural Dynamic Appearance Synthesis.,doi_exact,1.0,Dance In the Wild: Monocular Human Animation with Neural Dynamic Appearance Synthesis
+conf:3dim:WangGACH21,2021,Semi-supervised 3D Object Detection via Temporal Graph Neural Networks.,doi_exact,1.0,Semi-supervised 3D Object Detection via Temporal Graph Neural Networks
+conf:3dim:WangRA21,2021,DSP-SLAM: Object Oriented SLAM with Deep Shape Priors.,doi_exact,1.0,DSP-SLAM: Object Oriented SLAM with Deep Shape Priors
+conf:3dim:WangYN21,2021,SceneFormer: Indoor Scene Generation with Transformers.,doi_exact,1.0,SceneFormer: Indoor Scene Generation with Transformers
+conf:3dim:WangZL21,2021,SAFA: Structure Aware Face Animation.,doi_exact,1.0,SAFA: Structure Aware Face Animation
+conf:3dim:WengSNK21,2021,MaCal - Macro Lens Calibration and the Focus Stack Camera Model.,doi_exact,1.0,MaCal - Macro Lens Calibration and the Focus Stack Camera Model
+conf:3dim:WodtkoHBD21,2021,Globally Optimal Multi-Scale Monocular Hand-Eye Calibration Using Dual Quaternions.,doi_exact,1.0,Globally Optimal Multi-Scale Monocular Hand-Eye Calibration Using Dual Quaternions
+conf:3dim:WuASMD21,2021,Modality-Guided Subnetwork for Salient Object Detection.,doi_exact,1.0,Modality-Guided Subnetwork for Salient Object Detection
+conf:3dim:WuXN21,2021,Synergy between 3DMM and 3D Landmarks for Accurate 3D Facial Geometry.,doi_exact,1.0,Synergy between 3DMM and 3D Landmarks for Accurate 3D Facial Geometry
+conf:3dim:WuZZCCSHD21,2021,Object SLAM-Based Active Mapping and Robotic Grasping.,doi_exact,1.0,Object SLAM-Based Active Mapping and Robotic Grasping
+conf:3dim:XiaoDM21,2021,PoseContrast: Class-Agnostic Object Viewpoint Estimation in the Wild with Pose-Aware Contrastive Learning.,doi_exact,1.0,PoseContrast: Class-Agnostic Object Viewpoint Estimation in the Wild with Pose-Aware Contrastive Learning
+conf:3dim:XiePMB21,2021,FiG-NeRF: Figure-Ground Neural Radiance Fields for 3D Object Category Modelling.,doi_exact,1.0,FiG-NeRF: Figure-Ground Neural Radiance Fields for 3D Object Category Modelling
+conf:3dim:XuLNCMG21,2021,3D reconstruction of insects: an improved multifocus stacking and an evaluation of learning-based MVS approaches.,doi_exact,1.0,3D reconstruction of insects: an improved multifocus stacking and an evaluation of learning-based MVS approaches
+conf:3dim:XuWGLQXM21,2021,Exploring Versatile Prior for Human Motion via Motion Frequency Guidance.,doi_exact,1.0,Exploring Versatile Prior for Human Motion via Motion Frequency Guidance
+conf:3dim:YanZBJ21,2021,Channel-Wise Attention-Based Network for Self-Supervised Monocular Depth Estimation.,doi_exact,1.0,Channel-Wise Attention-Based Network for Self-Supervised Monocular Depth Estimation
+conf:3dim:YavartanooHNZL21,2021,PolyNet: Polynomial Neural Network for 3D Shape Recognition with PolyShape Representation.,doi_exact,1.0,PolyNet: Polynomial Neural Network for 3D Shape Recognition with PolyShape Representation
+conf:3dim:YewL21,2021,Learning Iterative Robust Transformation Synchronization.,doi_exact,1.0,Learning Iterative Robust Transformation Synchronization
+conf:3dim:YuBC21,2021,Joint 3D Human Shape Recovery and Pose Estimation from a Single Image with Bilayer Graph.,doi_exact,1.0,Joint 3D Human Shape Recovery and Pose Estimation from a Single Image with Bilayer Graph
+conf:3dim:YunCL21,2021,Conflicts between Likelihood and Knowledge Distillation in Task Incremental Learning for 3D Object Detection.,doi_exact,1.0,Conflicts between Likelihood and Knowledge Distillation in Task Incremental Learning for 3D Object Detection
+conf:3dim:ZhangBLC21,2021,Lifted Semantic Graph Embedding for Omnidirectional Place Recognition.,doi_exact,1.0,Lifted Semantic Graph Embedding for Omnidirectional Place Recognition
+conf:3dim:ZhangF21,2021,3D Lip Event Detection via Interframe Motion Divergence at Multiple Temporal Resolutions.,doi_exact,1.0,3D Lip Event Detection via Interframe Motion Divergence at Multiple Temporal Resolutions
+conf:3dim:ZhangYC21,2021,Learning Scale-Adaptive Representations for Point-Level LiDAR Semantic Segmentation.,doi_exact,1.0,Learning Scale-Adaptive Representations for Point-Level LiDAR Semantic Segmentation
+conf:3dim:ZhaoRW21,2021,SUPPLE: Extracting Hand Skeleton with Spherical Unwrapping Profiles.,doi_exact,1.0,SUPPLE: Extracting Hand Skeleton with Spherical Unwrapping Profiles
+conf:3dim:ZhaoWMF21,2021,EgoGlass: Egocentric-View Human Pose Estimation From an Eyeglass Frame.,doi_exact,1.0,EgoGlass: Egocentric-View Human Pose Estimation From an Eyeglass Frame
+conf:3dim:ZhouFBB21,2021,Spatio-Temporal Human Shape Completion With Implicit Function Networks.,doi_exact,1.0,Spatio-Temporal Human Shape Completion With Implicit Function Networks
+conf:3dim:ZhouSYFY21,2021,A Dataset-Dispersion Perspective on Reconstruction Versus Recognition in Single-View 3D Reconstruction Networks.,doi_exact,1.0,A Dataset-Dispersion Perspective on Reconstruction Versus Recognition in Single-View 3D Reconstruction Networks
+conf:3dim:ZinsXBWT21,2021,Data-Driven 3D Reconstruction of Dressed Humans From Sparse Views.,doi_exact,1.0,Data-Driven 3D Reconstruction of Dressed Humans From Sparse Views
+conf:3dim:AthanasiouPBV22,2022,TEACH: Temporal Action Composition for 3D Humans.,doi_exact,1.0,TEACH: Temporal Action Composition for 3D Humans
+conf:3dim:BhattadF22,2022,Cut-and-Paste Object Insertion by Enabling Deep Image Prior for Reshading.,doi_exact,1.0,Cut-and-Paste Object Insertion by Enabling Deep Image Prior for Reshading
+conf:3dim:BowenTZS22,2022,Dimensions of Motion: Monocular Prediction through Flow Subspaces.,doi_exact,1.0,Dimensions of Motion: Monocular Prediction through Flow Subspaces
+conf:3dim:CaiHR22,2022,SC6D: Symmetry-agnostic and Correspondence-free 6D Object Pose Estimation.,doi_exact,1.0,SC6D: Symmetry-agnostic and Correspondence-free 6D Object Pose Estimation
+conf:3dim:CharatanFK22,2022,Benchmarking Pedestrian Odometry: The Brown Pedestrian Odometry Dataset (BPOD).,doi_exact,1.0,Benchmarking Pedestrian Odometry: The Brown Pedestrian Odometry Dataset (BPOD)
+conf:3dim:ChenSYYSW22,2022,Efficient Human Pose Estimation via 3D Event Point Cloud.,doi_exact,1.0,Efficient Human Pose Estimation via 3D Event Point Cloud
+conf:3dim:ChoiMALLR22,2022,MonoNHR: Monocular Neural Human Renderer.,doi_exact,1.0,MonoNHR: Monocular Neural Human Renderer
+conf:3dim:ChowdhuryWCSG22,2022,Garment Ideation: Iterative View-Aware Sketch-Based Garment Modeling.,doi_exact,1.0,Garment Ideation: Iterative View-Aware Sketch-Based Garment Modeling
+conf:3dim:DastjerdiHEKL22,2022,Guided Co-Modulated GAN for 360° Field of View Extrapolation.,doi_exact,1.0,Guided Co-Modulated GAN for 360° Field of View Extrapolation
+conf:3dim:DellEvaOB22,2022,Arbitrary Point Cloud Upsampling with Spherical Mixture of Gaussians.,doi_exact,1.0,Arbitrary Point Cloud Upsampling with Spherical Mixture of Gaussians
+conf:3dim:DingJY22,2022,Polar-Photometric Stereo Under Natural Illumination.,doi_exact,1.0,Polar-Photometric Stereo Under Natural Illumination
+conf:3dim:DongWZKPC22,2022,Visual Localization via Few-Shot Scene Region Classification.,doi_exact,1.0,Visual Localization via Few-Shot Scene Region Classification
+conf:3dim:DuISKN22,2022,Push-the-Boundary: Boundary-aware Feature Propagation for Semantic Segmentation of 3D Point Clouds.,doi_exact,1.0,Push-the-Boundary: Boundary-aware Feature Propagation for Semantic Segmentation of 3D Point Clouds
+conf:3dim:DupontCKAAGA22,2022,CADOps-Net: Jointly Learning CAD Operation Types and Steps from Boundary-Representations.,doi_exact,1.0,CADOps-Net: Jointly Learning CAD Operation Types and Steps from Boundary-Representations
+conf:3dim:EfroniGR22,2022,Spectral Teacher for a Spatial Student: Spectrum-Aware Real-Time Dense Shape Correspondence.,doi_exact,1.0,Spectral Teacher for a Spatial Student: Spectrum-Aware Real-Time Dense Shape Correspondence
+conf:3dim:FuZCLZZGL22,2022,Panoptic NeRF: 3D-to-2D Label Transfer for Panoptic Urban Scene Segmentation.,doi_exact,1.0,Panoptic NeRF: 3D-to-2D Label Transfer for Panoptic Urban Scene Segmentation
+conf:3dim:HareshSJCS22,2022,Articulated 3D Human-Object Interactions From RGB Videos: An Empirical Analysis of Approaches and Challenges.,doi_exact,1.0,Articulated 3D Human-Object Interactions From RGB Videos: An Empirical Analysis of Approaches and Challenges
+conf:3dim:HuYZZLZ22,2022,HVTR: Hybrid Volumetric-Textural Rendering for Human Avatars.,doi_exact,1.0,HVTR: Hybrid Volumetric-Textural Rendering for Human Avatars
+conf:3dim:JinXL22,2022,SHRAG: Semantic Hierarchical Graph for Floorplan Representation.,doi_exact,1.0,SHRAG: Semantic Hierarchical Graph for Floorplan Representation
+conf:3dim:KarnewarWRM22,2022,3inGAN: Learning a 3D Generative Model from Images of a Self-similar Scene.,doi_exact,1.0,3inGAN: Learning a 3D Generative Model from Images of a Self-similar Scene
+conf:3dim:KicirogluWSF22,2022,Long Term Motion Prediction Using Keyposes.,doi_exact,1.0,Long Term Motion Prediction Using Keyposes
+conf:3dim:LaidlowD22,2022,Simultaneous Localisation and Mapping With Quadric Surfaces.,doi_exact,1.0,Simultaneous Localisation and Mapping With Quadric Surfaces
+conf:3dim:LiAO22,2022,SRFeat: Learning Locally Accurate and Globally Consistent Non-Rigid Shape Correspondence.,doi_exact,1.0,SRFeat: Learning Locally Accurate and Globally Consistent Non-Rigid Shape Correspondence
+conf:3dim:LiSSTG22,2022,MoCapDeform: Monocular 3D Human Motion Capture in Deformable Scenes.,doi_exact,1.0,MoCapDeform: Monocular 3D Human Motion Capture in Deformable Scenes
+conf:3dim:LiuLFJL22,2022,Point Discriminative Learning for Data-efficient 3D Point Cloud Analysis.,doi_exact,1.0,Point Discriminative Learning for Data-efficient 3D Point Cloud Analysis
+conf:3dim:LiV22,2022,Progressive Multi-Scale Light Field Networks.,doi_exact,1.0,Progressive Multi-Scale Light Field Networks
+conf:3dim:LiXGTG22,2022,LC-NAS: Latency Constrained Neural Architecture Search for Point Cloud Networks.,doi_exact,1.0,LC-NAS: Latency Constrained Neural Architecture Search for Point Cloud Networks
+conf:3dim:LuoGXS22,2022,Structure-Aware 3D VR Sketch to 3D Shape Retrieval.,doi_exact,1.0,Structure-Aware 3D VR Sketch to 3D Shape Retrieval
+conf:3dim:MagnetRSO22,2022,Smooth Non-Rigid Shape Matching via Effective Dirichlet Energy Optimization.,doi_exact,1.0,Smooth Non-Rigid Shape Matching via Effective Dirichlet Energy Optimization
+conf:3dim:MaoGLYG22,2022,Bidirectional Feature Globalization for Few-shot Semantic Segmentation of 3D Point Cloud Scenes.,doi_exact,1.0,Bidirectional Feature Globalization for Few-shot Semantic Segmentation of 3D Point Cloud Scenes
+conf:3dim:MarsotWFD22,2022,A Structured Latent Space for Human Body Motion Generation.,doi_exact,1.0,A Structured Latent Space for Human Body Motion Generation
+conf:3dim:MaTXWZX22,2022,HoW-3D: Holistic 3D Wireframe Perception from a Single Image.,doi_exact,1.0,HoW-3D: Holistic 3D Wireframe Perception from a Single Image
+conf:3dim:MaYBT22,2022,Neural Point-based Shape Modeling of Humans in Challenging Clothing.,doi_exact,1.0,Neural Point-based Shape Modeling of Humans in Challenging Clothing
+conf:3dim:MingFF22,2022,SDA-SNE: Spatial Discontinuity-Aware Surface Normal Estimation via Multi-Directional Dynamic Programming.,doi_exact,1.0,SDA-SNE: Spatial Discontinuity-Aware Surface Normal Estimation via Multi-Directional Dynamic Programming
+conf:3dim:MiyashitaTI22,2022,High-Speed and Low-Latency 3D Sensing with a Parallel-Bus Pattern.,doi_exact,1.0,High-Speed and Low-Latency 3D Sensing with a Parallel-Bus Pattern
+conf:3dim:MohamedA22,2022,GNPM: Geometric-Aware Neural Parametric Models.,doi_exact,1.0,GNPM: Geometric-Aware Neural Parametric Models
+conf:3dim:NgRBM22,2022,OoD-Pose: Camera Pose Regression From Out-of-Distribution Synthetic Views.,doi_exact,1.0,OoD-Pose: Camera Pose Regression From Out-of-Distribution Synthetic Views
+conf:3dim:NguyenDXRL22,2022,PIZZA: A Powerful Image-only Zero-Shot Zero-CAD Approach to 6 DoF Tracking.,doi_exact,1.0,PIZZA: A Powerful Image-only Zero-Shot Zero-CAD Approach to 6 DoF Tracking
+conf:3dim:PanTLT22,2022,GAN2X: Non-Lambertian Inverse Rendering of Image GANs.,doi_exact,1.0,GAN2X: Non-Lambertian Inverse Rendering of Image GANs
+conf:3dim:PoggiRTSMS22,2022,Cross-Spectral Neural Radiance Fields.,doi_exact,1.0,Cross-Spectral Neural Radiance Fields
+conf:3dim:PostelsDGT22,2022,ManiFlow: Implicitly Representing Manifolds with Normalizing Flows.,doi_exact,1.0,ManiFlow: Implicitly Representing Manifolds with Normalizing Flows
+conf:3dim:RegateiroB22,2022,Temporal Shape Transfer Network for 3D Human Motion.,doi_exact,1.0,Temporal Shape Transfer Network for 3D Human Motion
+conf:3dim:RockwellJF22,2022,The 8-Point Algorithm as an Inductive Bias for Relative Pose Prediction by ViTs.,doi_exact,1.0,The 8-Point Algorithm as an Inductive Bias for Relative Pose Prediction by ViTs
+conf:3dim:RoyCHF22,2022,On Triangulation as a Form of Self-Supervision for 3D Human Pose Estimation.,doi_exact,1.0,On Triangulation as a Form of Self-Supervision for 3D Human Pose Estimation
+conf:3dim:RTPET22,2022,gCoRF: Generative Compositional Radiance Fields.,doi_exact,1.0,gCoRF: Generative Compositional Radiance Fields
+conf:3dim:RuizBBALRB22,2022,Human Body Measurement Estimation with Adversarial Augmentation.,doi_exact,1.0,Human Body Measurement Estimation with Adversarial Augmentation
+conf:3dim:SchroppelBAB22,2022,A Benchmark and a Baseline for Robust Multi-view Depth Estimation.,doi_exact,1.0,A Benchmark and a Baseline for Robust Multi-view Depth Estimation
+conf:3dim:StollMG22,2022,There and Back Again: 3D Sign Language Generation from Text Using Back-Translation.,doi_exact,1.0,There and Back Again: 3D Sign Language Generation from Text Using Back-Translation
+conf:3dim:SuWPL22,2022,SVNet: Where SO(3) Equivariance Meets Binarization on Point Cloud Representation.,doi_exact,1.0,SVNet: Where SO(3) Equivariance Meets Binarization on Point Cloud Representation
+conf:3dim:ThaiSHR22,2022,The Surprising Positive Knowledge Transfer in Continual 3D Object Shape Reconstruction.,doi_exact,1.0,The Surprising Positive Knowledge Transfer in Continual 3D Object Shape Reconstruction
+conf:3dim:ToussaintGF22,2022,Fast Gradient Descent for Surface Capture Via Differentiable Rendering.,doi_exact,1.0,Fast Gradient Descent for Surface Capture Via Differentiable Rendering
+conf:3dim:TschernezkiLLV22,2022,Neural Feature Fusion Fields: 3D Distillation of Self-Supervised 2D Image Representations.,doi_exact,1.0,Neural Feature Fusion Fields: 3D Distillation of Self-Supervised 2D Image Representations
+conf:3dim:UnluSB22,2022,Interactive Sketching of Mannequin Poses.,doi_exact,1.0,Interactive Sketching of Mannequin Poses
+conf:3dim:VasuTLBDF22,2022,HybridSDF: Combining Deep Implicit Shapes and Geometric Primitives for 3D Shape Representation and Manipulation.,doi_exact,1.0,HybridSDF: Combining Deep Implicit Shapes and Geometric Primitives for 3D Shape Representation and Manipulation
+conf:3dim:WangBA22,2022,"GO-Surf: Neural Feature Grid Optimization for Fast, High-Fidelity RGB-D Surface Reconstruction.",doi_exact,1.0,"GO-Surf: Neural Feature Grid Optimization for Fast, High-Fidelity RGB-D Surface Reconstruction"
+conf:3dim:WangLKKAH22,2022,Reconstructing Action-Conditioned Human-Object Interactions Using Commonsense Knowledge Priors.,doi_exact,1.0,Reconstructing Action-Conditioned Human-Object Interactions Using Commonsense Knowledge Priors
+conf:3dim:WengWKY22,2022,Domain Adaptive 3D Pose Augmentation for In-the-Wild Human Mesh Recovery.,doi_exact,1.0,Domain Adaptive 3D Pose Augmentation for In-the-Wild Human Mesh Recovery
+conf:3dim:WuGTAPD22,2022,Robust RGB-D Fusion for Saliency Detection.,doi_exact,1.0,Robust RGB-D Fusion for Saliency Detection
+conf:3dim:WuJZG22,2022,Keypoint Cascade Voting for Point Cloud Based 6DoF Pose Estimation.,doi_exact,1.0,Keypoint Cascade Voting for Point Cloud Based 6DoF Pose Estimation
+conf:3dim:WuM22,2022,SO(3) Rotation Equivariant Point Cloud Completion using Attention-based Vector Neurons.,doi_exact,1.0,SO(3) Rotation Equivariant Point Cloud Completion using Attention-based Vector Neurons
+conf:3dim:XianCBSAP22,2022,Any-Shot GIN: Generalizing Implicit Networks for Reconstructing Novel Classes.,doi_exact,1.0,Any-Shot GIN: Generalizing Implicit Networks for Reconstructing Novel Classes
+conf:3dim:XuWZW22,2022,ACDet: Attentive Cross-view Fusion for LiDAR-based 3D Object Detection.,doi_exact,1.0,ACDet: Attentive Cross-view Fusion for LiDAR-based 3D Object Detection
+conf:3dim:YanWZLCD22,2022,SphereDepth: Panorama Depth Estimation from Spherical Domain.,doi_exact,1.0,SphereDepth: Panorama Depth Estimation from Spherical Domain
+conf:3dim:YinKG22,2022,Distortion-aware Depth Estimation with Gradient Priors from Panoramas of Indoor Scenes.,doi_exact,1.0,Distortion-aware Depth Estimation with Gradient Priors from Panoramas of Indoor Scenes
+conf:3dim:ZhangGFCFZ22,2022,A Flexible Multi-view Multi-modal Imaging System for Outdoor Scenes.,doi_exact,1.0,A Flexible Multi-view Multi-modal Imaging System for Outdoor Scenes
+conf:3dim:ZhangYKG22,2022,Pose Guided Human Motion Transfer by Exploiting 2D and 3D Information.,doi_exact,1.0,Pose Guided Human Motion Transfer by Exploiting 2D and 3D Information
+conf:3dim:ZhaoZPTGZHTM22,2022,MonoViT: Self-Supervised Monocular Depth Estimation with a Vision Transformer.,doi_exact,1.0,MonoViT: Self-Supervised Monocular Depth Estimation with a Vision Transformer
+conf:3dim:ZhiQYG22,2022,Dual-Space NeRF: Learning Animatable Avatars and Scene Lighting in Separate Spaces.,doi_exact,1.0,Dual-Space NeRF: Learning Animatable Avatars and Scene Lighting in Separate Spaces
+conf:3dim:ZhouBSP22,2022,Adjoint Rigid Transform Network: Task-conditioned Alignment of 3D Shapes.,doi_exact,1.0,Adjoint Rigid Transform Network: Task-conditioned Alignment of 3D Shapes
+conf:3dim:ZhuangMKS22,2022,Controllable Radiance Fields for Dynamic Face Synthesis.,doi_exact,1.0,Controllable Radiance Fields for Dynamic Face Synthesis
+conf:3dim:ZianiFKCH22,2022,TempCLR: Reconstructing Hands via Time-Coherent Contrastive Learning.,doi_exact,1.0,TempCLR: Reconstructing Hands via Time-Coherent Contrastive Learning
+conf:3dim:AinetterSFL24,2024,HOC-Search: Efficient CAD Model and Pose Retrieval From RGB-D Scans.,doi_exact,1.0,HOC-Search: Efficient CAD Model and Pose Retrieval From RGB-D Scans
+conf:3dim:AjisafeTSWR24,2024,Mirror-Aware Neural Humans.,doi_exact,1.0,Mirror-Aware Neural Humans
+conf:3dim:AnticTOMP24,2024,CloSe: A 3D Clothing Segmentation Dataset and Model.,doi_exact,1.0,CloSe: A 3D Clothing Segmentation Dataset and Model
+conf:3dim:AstermarkDLH24,2024,Fast Relative Pose Estimation using Relative Depth.,doi_exact,1.0,Fast Relative Pose Estimation using Relative Depth
+conf:3dim:AtharSXLBSS24,2024,Controllable Dynamic Appearance for Neural 3D Portraits.,doi_exact,1.0,Controllable Dynamic Appearance for Neural 3D Portraits
+conf:3dim:BartolomeiPCTM24,2024,Revisiting Depth Completion from a Stereo Matching Perspective for Cross-domain Generalization.,doi_exact,1.0,Revisiting Depth Completion from a Stereo Matching Perspective for Cross-domain Generalization
+conf:3dim:BazavanZSZAS24,2024,SPHEAR: Spherical Head Registration for Complete Statistical 3D Modeling.,doi_exact,1.0,SPHEAR: Spherical Head Registration for Complete Statistical 3D Modeling
+conf:3dim:BoittiauxMDAFH24,2024,SUCRe: Leveraging Scene Structure for Underwater Color Restoration.,doi_exact,1.0,SUCRe: Leveraging Scene Structure for Underwater Color Restoration
+conf:3dim:BonottoSEIP24,2024,CombiNeRF: A Combination of Regularization Techniques for Few-Shot Neural Radiance Field View Synthesis.,doi_exact,1.0,CombiNeRF: A Combination of Regularization Techniques for Few-Shot Neural Radiance Field View Synthesis
+conf:3dim:BraunCKAH24,2024,Physically Plausible Full-Body Hand-Object Interaction Synthesis.,doi_exact,1.0,Physically Plausible Full-Body Hand-Object Interaction Synthesis
+conf:3dim:BraunsteinIG24,2024,Quantum-Hybrid Stereo Matching With Nonlinear Regularization and Spatial Pyramids.,doi_exact,1.0,Quantum-Hybrid Stereo Matching With Nonlinear Regularization and Spatial Pyramids
+conf:3dim:BrennerS24,2024,Classical Photometric Stereo in Point Lighting Environments: Error Analysis and Mitigation.,doi_exact,1.0,Classical Photometric Stereo in Point Lighting Environments: Error Analysis and Mitigation
+conf:3dim:CanelaCMRGSTM24,2024,InstantAvatar: Efficient 3D Head Reconstruction via Surface Rendering.,doi_exact,1.0,InstantAvatar: Efficient 3D Head Reconstruction via Surface Rendering
+conf:3dim:CaoRB24,2024,Revisiting Map Relations for Unsupervised Non-Rigid Shape Matching.,doi_exact,1.0,Revisiting Map Relations for Unsupervised Non-Rigid Shape Matching
+conf:3dim:CerkeziF24,2024,Sparse 3D Reconstruction via Object-Centric Ray Sampling.,doi_exact,1.0,Sparse 3D Reconstruction via Object-Centric Ray Sampling
+conf:3dim:ChenCP24,2024,"GAPS: Geometry-Aware, Physics-Based, Self-Supervised Neural Garment Draping.",doi_exact,1.0,"GAPS: Geometry-Aware, Physics-Based, Self-Supervised Neural Garment Draping"
+conf:3dim:ChenNJZZH24,2024,Single-view 3D Scene Reconstruction with High-fidelity Shape and Texture.,doi_exact,1.0,Single-view 3D Scene Reconstruction with High-fidelity Shape and Texture
+conf:3dim:ChenPZGFZ24,2024,HumanReg: Self-supervised Non-rigid Registration of Human Point Cloud.,doi_exact,1.0,HumanReg: Self-supervised Non-rigid Registration of Human Point Cloud
+conf:3dim:ChenYKW24,2024,DehazeNeRF: Multi-image Haze Removal and 3D Shape Reconstruction using Neural Radiance Fields.,doi_exact,1.0,DehazeNeRF: Multi-image Haze Removal and 3D Shape Reconstruction using Neural Radiance Fields
+conf:3dim:ContiPCM24,2024,Range-Agnostic Multi-View Depth Estimation with Keyframe Selection.,doi_exact,1.0,Range-Agnostic Multi-View Depth Estimation with Keyframe Selection
+conf:3dim:CuevasVelasquezHAB24,2024,SimpleEgo: Predicting Probabilistic Body Pose from Egocentric Cameras.,doi_exact,1.0,SimpleEgo: Predicting Probabilistic Body Pose from Egocentric Cameras
+conf:3dim:DengLLY24,2024,Physics-based Indirect Illumination for Inverse Rendering.,doi_exact,1.0,Physics-based Indirect Illumination for Inverse Rendering
+conf:3dim:DengWW24,2024,LumiGAN: Unconditional Generation of Relightable 3D Human Faces.,doi_exact,1.0,LumiGAN: Unconditional Generation of Relightable 3D Human Faces
+conf:3dim:DoS24,2024,Improved Scene Landmark Detection for Camera Localization.,doi_exact,1.0,Improved Scene Landmark Detection for Camera Localization
+conf:3dim:DuCZN24,2024,Select-Sliced Wasserstein Distance for Point Cloud Learning.,doi_exact,1.0,Select-Sliced Wasserstein Distance for Point Cloud Learning
+conf:3dim:DwivediSYBT24,2024,POCO: 3D Pose and Shape Estimation with Confidence.,doi_exact,1.0,POCO: 3D Pose and Shape Estimation with Confidence
+conf:3dim:EdstedtBWF24,2024,"DeDoDe: Detect, Don't Describe - Describe, Don't Detect for Local Feature Matching.",doi_exact,1.0,"DeDoDe: Detect, Don’t Describe — Describe, Don’t Detect for Local Feature Matching"
+conf:3dim:EhmREGBC24,2024,Geometrically Consistent Partial Shape Matching.,doi_exact,1.0,Geometrically Consistent Partial Shape Matching
+conf:3dim:FeiD24,2024,Incorporating Rotation Invariance with Non-invariant Networks for Point Clouds.,doi_exact,1.0,Incorporating Rotation Invariance with Non-invariant Networks for Point Clouds
+conf:3dim:FengCJLXY24,2024,MC-Stereo: Multi-Peak Lookup and Cascade Search Range for Stereo Matching.,doi_exact,1.0,MC-Stereo: Multi-Peak Lookup and Cascade Search Range for Stereo Matching
+conf:3dim:GanapathiDJAW24,2024,3D-TexSeg: Unsupervised Segmentation of 3D Texture Using Mutual Transformer Learning.,doi_exact,1.0,3D-TexSeg: Unsupervised Segmentation of 3D Texture Using Mutual Transformer Learning
+conf:3dim:GaoCZWSZBH24,2024,Cloth2Tex: A Customized Cloth Texture Generation Pipeline for 3D Virtual Try-On.,doi_exact,1.0,Cloth2Tex: A Customized Cloth Texture Generation Pipeline for 3D Virtual Try-On
+conf:3dim:GaurPM24,2024,Oriented-grid Encoder for 3D Implicit Representations.,doi_exact,1.0,Oriented-grid Encoder for 3D Implicit Representations
+conf:3dim:GeorgoulisRBELG24,2024,Out of the Room: Generalizing Event-Based Dynamic Motion Segmentation for Complex Scenes.,doi_exact,1.0,Out of the Room: Generalizing Event-Based Dynamic Motion Segmentation for Complex Scenes
+conf:3dim:GorlitzMK24,2024,Coherent Enhancement of Depth Images and Normal Maps Using Second-Order Geometric Models on Weighted Finite Graphs.,doi_exact,1.0,Coherent Enhancement of Depth Images and Normal Maps Using Second-Order Geometric Models on Weighted Finite Graphs
+conf:3dim:GsaxnerMSEPBK24,2024,DeepDR: Deep Structure-Aware RGB-D Inpainting for Diminished Reality.,doi_exact,1.0,DeepDR: Deep Structure-Aware RGB-D Inpainting for Diminished Reality
+conf:3dim:GuGZCLS24,2024,Control3Diff: Learning Controllable 3D Diffusion Models from Single-view Images.,doi_exact,1.0,Control3Diff: Learning Controllable 3D Diffusion Models from Single-view Images
+conf:3dim:GuoPXRWPSS24,2024,Diffusion Shape Prior for Wrinkle-Accurate Cloth Registration.,doi_exact,1.0,Diffusion Shape Prior for Wrinkle-Accurate Cloth Registration
+conf:3dim:GuzovCMHSSP24,2024,Interaction Replica: Tracking Human-Object Interaction and Scene Changes From Human Motion.,doi_exact,1.0,Interaction Replica: Tracking Human–Object Interaction and Scene Changes From Human Motion
+conf:3dim:HahnerAGO24,2024,Unsupervised Representation Learning for Diverse Deformable Shape Collections.,doi_exact,1.0,Unsupervised Representation Learning for Diverse Deformable Shape Collections
+conf:3dim:HaylerWMRC24,2024,S4C: Self-Supervised Semantic Scene Completion With Neural Fields.,doi_exact,1.0,S4C: Self-Supervised Semantic Scene Completion With Neural Fields
+conf:3dim:HonariZSF24,2024,Unsupervised 3D Keypoint Discovery with Multi-View Geometry.,doi_exact,1.0,Unsupervised 3D Keypoint Discovery with Multi-View Geometry
+conf:3dim:HrubyLPPB24,2024,Handbook on Leveraging Lines for Two-View Relative Pose Estimation.,doi_exact,1.0,Handbook on Leveraging Lines for Two-View Relative Pose Estimation
+conf:3dim:HuangYXLTCT24,2024,TeCH: Text-Guided Reconstruction of Lifelike Clothed Humans.,doi_exact,1.0,TeCH: Text-Guided Reconstruction of Lifelike Clothed Humans
+conf:3dim:IbrahimliKN24,2024,MuVieCAST: Multi-View Consistent Artistic Style Transfer.,doi_exact,1.0,MuVieCAST: Multi-View Consistent Artistic Style Transfer
+conf:3dim:IchimaruITIK24,2024,ActiveNeuS: Neural Signed Distance Fields for Active Stereo.,doi_exact,1.0,ActiveNeuS: Neural Signed Distance Fields for Active Stereo
+conf:3dim:JainSR24,2024,Learning Based Infinite Terrain Generation with Level of Detailing.,doi_exact,1.0,Learning Based Infinite Terrain Generation with Level of Detailing
+conf:3dim:JakabLWRV24,2024,Farm3D: Learning Articulated 3D Animals by Distilling 2D Diffusion.,doi_exact,1.0,Farm3D: Learning Articulated 3D Animals by Distilling 2D Diffusion
+conf:3dim:JiangJGZ24,2024,Few-View Object Reconstruction with Unknown Categories and Camera Poses.,doi_exact,1.0,Few-View Object Reconstruction with Unknown Categories and Camera Poses
+conf:3dim:JinBPA24,2024,Q-REG: End-to-End Trainable Point Cloud Registration with Surface Curvature.,doi_exact,1.0,Q-REG: End-to-End Trainable Point Cloud Registration with Surface Curvature
+conf:3dim:JoungLCSKLKY24,2024,Stable Surface Regularization for Fast Few-Shot NeRF.,doi_exact,1.0,Stable Surface Regularization for Fast Few-Shot NeRF
+conf:3dim:KabadayiZBPT24,2024,GAN-Avatar: Controllable Personalized GAN-based Human Head Avatar.,doi_exact,1.0,GAN-Avatar: Controllable Personalized GAN-based Human Head Avatar
+conf:3dim:KandukuriSS24,2024,Physics-Based Rigid Body Object Tracking and Friction Filtering From RGB-D Videos.,doi_exact,1.0,Physics-Based Rigid Body Object Tracking and Friction Filtering From RGB-D Videos
+conf:3dim:KarpurPMZA24,2024,LFM-3D: Learnable Feature Matching Across Wide Baselines Using 3D Signals.,doi_exact,1.0,LFM-3D: Learnable Feature Matching Across Wide Baselines Using 3D Signals
+conf:3dim:KatariaLDH24,2024,Addressing Low-Shot MVS by Detecting and Completing Planar Surfaces.,doi_exact,1.0,Addressing Low-Shot MVS by Detecting and Completing Planar Surfaces
+conf:3dim:KienzleLLL24,2024,Towards Learning Monocular 3D Object Localization from 2D Labels Using the Physical Laws of Motion.,doi_exact,1.0,Towards Learning Monocular 3D Object Localization from 2D Labels Using the Physical Laws of Motion
+conf:3dim:KlenkMKC24,2024,Deep Event Visual Odometry.,doi_exact,1.0,Deep Event Visual Odometry
+conf:3dim:KloepferHC24,2024,SCENES: Subpixel Correspondence EstimationWith Epipolar Supervision.,doi_exact,1.0,SCENES: Subpixel Correspondence Estimation With Epipolar Supervision
+conf:3dim:KocabasYMGBHKI24,2024,PACE: Human and Camera Motion Estimation from in-the-wild Videos.,doi_exact,1.0,PACE: Human and Camera Motion Estimation from in-the-wild Videos
+conf:3dim:KochHVCR24,2024,Lang3DSG: Language-based contrastive pre-training for 3D Scene Graph prediction.,doi_exact,1.0,Lang3DSG: Language-based contrastive pre-training for 3D Scene Graph prediction
+conf:3dim:LevyMSWL24,2024,MELON: NeRF with Unposed Images in SO(3).,doi_exact,1.0,MELON: NeRF with Unposed Images in SO(3)
+conf:3dim:LiaoYXTHTB24,2024,TADA! Text to Animatable Digital Avatars.,doi_exact,1.0,TADA! Text to Animatable Digital Avatars
+conf:3dim:LichySBKG24,2024,FoVA-Depth: Field-of-View Agnostic Depth Estimation for Cross-Dataset Generalization.,doi_exact,1.0,FoVA-Depth: Field-of-View Agnostic Depth Estimation for Cross-Dataset Generalization
+conf:3dim:LiGLG24,2024,Practical Measurement and Neural Encoding of Hyperspectral Skin Reflectance.,doi_exact,1.0,Practical Measurement and Neural Encoding of Hyperspectral Skin Reflectance
+conf:3dim:LiJS24,2024,MonoLSS: Learnable Sample Selection For Monocular 3D Detection.,doi_exact,1.0,MonoLSS: Learnable Sample Selection For Monocular 3D Detection
+conf:3dim:LiLL24,2024,GHuNeRF: Generalizable Human NeRF from a Monocular Video.,doi_exact,1.0,GHuNeRF: Generalizable Human NeRF from a Monocular Video
+conf:3dim:LinPGZ24,2024,FastHuman: Reconstructing High-Quality Clothed Human in Minutes.,doi_exact,1.0,FastHuman: Reconstructing High-Quality Clothed Human in Minutes
+conf:3dim:LinZRT24,2024,RelPose++: Recovering 6D Poses from Sparse-view Observations.,doi_exact,1.0,RelPose++: Recovering 6D Poses from Sparse-view Observations
+conf:3dim:LiSZHL24,2024,Hyper-SNBRDF: Hypernetwork for Neural BRDF Using Sinusoidal Activation.,doi_exact,1.0,Hyper-SNBRDF: Hypernetwork for Neural BRDF Using Sinusoidal Activation
+conf:3dim:LiuYWCSG24,2024,Dynamic Prototype Adaptation with Distillation for Few-shot Point Cloud Segmentation.,doi_exact,1.0,Dynamic Prototype Adaptation with Distillation for Few-shot Point Cloud Segmentation
+conf:3dim:LiWVL24,2024,MixRT: Mixed Neural Representations For Real-Time NeRF Rendering.,doi_exact,1.0,MixRT: Mixed Neural Representations For Real-Time NeRF Rendering
+conf:3dim:LiYK24,2024,Relative Pose for Nonrigid Multi-Perspective Cameras: The Static Case.,doi_exact,1.0,Relative Pose for Nonrigid Multi-Perspective Cameras: The Static Case
+conf:3dim:LuitenKLR24,2024,Dynamic 3D Gaussians: Tracking by Persistent Dynamic View Synthesis.,doi_exact,1.0,Dynamic 3D Gaussians: Tracking by Persistent Dynamic View Synthesis
+conf:3dim:MajiNMP24,2024,YOLO-6D-Pose: Enhancing YOLO for Single-Stage Monocular Multi-Object 6D Pose Estimation.,doi_exact,1.0,YOLO-6D-Pose: Enhancing YOLO for Single-Stage Monocular Multi-Object 6D Pose Estimation
+conf:3dim:ManamG24,2024,Fusing Directions and Displacements in Translation Averaging.,doi_exact,1.0,Fusing Directions and Displacements in Translation Averaging
+conf:3dim:MartinsC24,2024,Ray-Patch: An Efficient Querying for Light Field Transformers.,doi_exact,1.0,Ray-Patch: An Efficient Querying for Light Field Transformers
+conf:3dim:MezghanniBO24,2024,RIVQ-VAE: Discrete Rotation-Invariant 3D Representation Learning.,doi_exact,1.0,RIVQ-VAE: Discrete Rotation-Invariant 3D Representation Learning
+conf:3dim:MicheleBPVMC24,2024,SALUDA: Surface-based Automotive Lidar Unsupervised Domain Adaptation.,doi_exact,1.0,SALUDA: Surface-based Automotive Lidar Unsupervised Domain Adaptation
+conf:3dim:MillerduraiLRJWTG24,2024,3D Pose Estimation of Two Interacting Hands from a Monocular Event Camera.,doi_exact,1.0,3D Pose Estimation of Two Interacting Hands from a Monocular Event Camera
+conf:3dim:MirPKP24,2024,Generating Continual Human Motion in Diverse 3D Scenes.,doi_exact,1.0,Generating Continual Human Motion in Diverse 3D Scenes
+conf:3dim:MiyanishiAKK24,2024,Cross3DVG: Cross-Dataset 3D Visual Grounding on Different RGB-D Scans.,doi_exact,1.0,Cross3DVG: Cross-Dataset 3D Visual Grounding on Different RGB-D Scans
+conf:3dim:MohamedA24,2024,DynamicSurf: Dynamic Neural RGB-D Surface Reconstruction With an Optimizable Feature Grid.,doi_exact,1.0,DynamicSurf: Dynamic Neural RGB-D Surface Reconstruction With an Optimizable Feature Grid
+conf:3dim:MonaciACW24,2024,Zero-BEV: Zero-shot Projection of Any First-Person Modality to BEV Maps.,doi_exact,1.0,Zero-BEV: Zero-shot Projection of Any First-Person Modality to BEV Maps
+conf:3dim:MoninKE24,2024,Continuous Cost Aggregation for Dual-Pixel Disparity Extraction.,doi_exact,1.0,Continuous Cost Aggregation for Dual-Pixel Disparity Extraction
+conf:3dim:MuralikrishnanHCM24,2024,BLiSS: Bootstrapped Linear Shape Space.,doi_exact,1.0,BLiSS: Bootstrapped Linear Shape Space
+conf:3dim:NakathWSK24,2024,Visual Tomography: Physically Faithful Volumetric Models of Partially Translucent Objects.,doi_exact,1.0,Visual Tomography: Physically Faithful Volumetric Models of Partially Translucent Objects
+conf:3dim:OuasfiB24,2024,Mixing-Denoising Generalizable Occupancy Networks.,doi_exact,1.0,Mixing-Denoising Generalizable Occupancy Networks
+conf:3dim:PanFFWLW24,2024,"Learning to Estimate 6DoF Pose from Limited Data: A Few-Shot, Generalizable Approach using RGB Images.",doi_exact,1.0,"Learning to Estimate 6DoF Pose from Limited Data: A Few-Shot, Generalizable Approach using RGB Images"
+conf:3dim:PangBT24,2024,PIVOT-Net: Heterogeneous Point-Voxel-Tree-based Framework for Point Cloud Compression.,doi_exact,1.0,PIVOT-Net: Heterogeneous Point-Voxel-Tree-based Framework for Point Cloud Compression
+conf:3dim:PanWHZWTW24,2024,Synthesizing Physically Plausible Human Motions in 3D Scenes.,doi_exact,1.0,Synthesizing Physically Plausible Human Motions in 3D Scenes
+conf:3dim:PanXX24,2024,PU-SDF: Arbitrary-Scale Uniformly Upsampling Point Clouds via Signed Distance Functions.,doi_exact,1.0,PU-SDF: Arbitrary-Scale Uniformly Upsampling Point Clouds via Signed Distance Functions
+conf:3dim:ParkS24,2024,"Split, Merge, and Refine: Fitting Tight Bounding Boxes via Over-Segmentation and Iterative Search.",doi_exact,1.0,"Split, Merge, and Refine: Fitting Tight Bounding Boxes via Over-Segmentation and Iterative Search"
+conf:3dim:PietrantoniCHS24,2024,Self-Supervised Learning of Neural Implicit Feature Fields for Camera Pose Refinement.,doi_exact,1.0,Self-Supervised Learning of Neural Implicit Feature Fields for Camera Pose Refinement
+conf:3dim:PoW24,2024,Compositional 3D Scene Generation using Locally Conditioned Diffusion.,doi_exact,1.0,Compositional 3D Scene Generation using Locally Conditioned Diffusion
+conf:3dim:QianHZG24,2024,Pix4Point: Image Pretrained Standard Transformers for 3D Point Cloud Understanding.,doi_exact,1.0,Pix4Point: Image Pretrained Standard Transformers for 3D Point Cloud Understanding
+conf:3dim:QiaoKZ24,2024,Depth Reconstruction with Neural Signed Distance Fields in Structured Light Systems.,doi_exact,1.0,Depth Reconstruction with Neural Signed Distance Fields in Structured Light Systems
+conf:3dim:QiWWZ24,2024,OCBEV: Object-Centric BEV Transformer for Multi-View 3D Object Detection.,doi_exact,1.0,OCBEV: Object-Centric BEV Transformer for Multi-View 3D Object Detection
+conf:3dim:RakotosaonaMANKT24,2024,NeRFMeshing: Distilling Neural Radiance Fields into Geometrically-Accurate 3D Meshes.,doi_exact,1.0,NeRFMeshing: Distilling Neural Radiance Fields into Geometrically-Accurate 3D Meshes
+conf:3dim:RaWMLYL24,2024,Exploit Spatiotemporal Contextual Information for 3D Single Object Tracking via Memory Networks.,doi_exact,1.0,Exploit Spatiotemporal Contextual Information for 3D Single Object Tracking via Memory Networks
+conf:3dim:RekikMOFW24,2024,Correspondence-Free Online Human Motion Retargeting.,doi_exact,1.0,Correspondence-Free Online Human Motion Retargeting
+conf:3dim:RobertRL24,2024,Scalable 3D Panoptic Segmentation As Superpoint Graph Clustering.,doi_exact,1.0,Scalable 3D Panoptic Segmentation As Superpoint Graph Clustering
+conf:3dim:RoyBHF24,2024,Occlusion Resilient 3D Human Pose Estimation.,doi_exact,1.0,Occlusion Resilient 3D Human Pose Estimation
+conf:3dim:SautierPBML24,2024,BEVContrast: Self-Supervision in BEV Space for Automotive Lidar Point Clouds.,doi_exact,1.0,BEVContrast: Self-Supervision in BEV Space for Automotive Lidar Point Clouds
+conf:3dim:Selvaraju24,2024,Developability Approximation for Neural Implicits Through Rank Minimization.,doi_exact,1.0,Developability Approximation for Neural Implicits Through Rank Minimization
+conf:3dim:SheshappanavarAKWK24,2024,A Benchmark Grocery Dataset of Realworld Point Clouds From Single View.,doi_exact,1.0,A Benchmark Grocery Dataset of Realworld Point Clouds From Single View
+conf:3dim:ShiLJWWYY24,2024,PanoSSC: Exploring Monocular Panoptic 3D Scene Reconstruction for Autonomous Driving.,doi_exact,1.0,PanoSSC: Exploring Monocular Panoptic 3D Scene Reconstruction for Autonomous Driving
+conf:3dim:ShimadaMBDBTGTTB24,2024,MACS: Mass Conditioned 3D Hand and Object Motion Synthesis.,doi_exact,1.0,MACS: Mass Conditioned 3D Hand and Object Motion Synthesis
+conf:3dim:SongRO24,2024,Joint Spatial-Temporal Calibration for Camera and Global Pose Sensor.,doi_exact,1.0,Joint Spatial-Temporal Calibration for Camera and Global Pose Sensor
+conf:3dim:StaderiniGMGSK24,2024,Photometric visibility matrix for the automatic selection of optimal viewpoints.,doi_exact,1.0,Photometric visibility matrix for the automatic selection of optimal viewpoints
+conf:3dim:SunJSC24,2024,OPDMulti: Openable Part Detection for Multiple Objects.,doi_exact,1.0,OPDMulti: Openable Part Detection for Multiple Objects
+conf:3dim:SunTBLXIKBFZLWPH24,2024,Partial-View Object View Synthesis via Filtering Inversion.,doi_exact,1.0,Partial-View Object View Synthesis via Filtering Inversion
+conf:3dim:SunZDL24,2024,IS-NEAR: Implicit Semantic Neural Engine and Multi-Sensor Data Rendering With 3D Global Feature.,doi_exact,1.0,IS-NEAR: Implicit Semantic Neural Engine and Multi-Sensor Data Rendering With 3D Global Feature
+conf:3dim:TaheriZTZCPB24,2024,GRIP: Generating Interaction Poses Using Spatial Cues and Latent Consistency.,doi_exact,1.0,GRIP: Generating Interaction Poses Using Spatial Cues and Latent Consistency
+conf:3dim:TaianaTJB24,2024,PRAGO: Differentiable Multi-View Pose Optimization From Objectness Detections.,doi_exact,1.0,PRAGO: Differentiable Multi-View Pose Optimization From Objectness Detections*
+conf:3dim:TiradoGarinWC24,2024,DAC: Detector-Agnostic Spatial Covariances for Deep Local Features.,doi_exact,1.0,DAC: Detector-Agnostic Spatial Covariances for Deep Local Features
+conf:3dim:TretschkGZBLT24,2024,SceNeRFlow: Time-Consistent Reconstruction of General Dynamic Scenes.,doi_exact,1.0,SceNeRFlow: Time-Consistent Reconstruction of General Dynamic Scenes
+conf:3dim:TsalicoglouMTNT24,2024,TextMesh: Generation of Realistic 3D Meshes From Text Prompts.,doi_exact,1.0,TextMesh: Generation of Realistic 3D Meshes From Text Prompts
+conf:3dim:UgrinovicLBWRM24,2024,Purposer: Putting Human Motion Generation in Context.,doi_exact,1.0,Purposer: Putting Human Motion Generation in Context
+conf:3dim:UmmenhoferASLZCRWR24,2024,Objects With Lighting: A Real-World Dataset for Evaluating Reconstruction and Rendering for Object Relighting.,doi_exact,1.0,Objects With Lighting: A Real-World Dataset for Evaluating Reconstruction and Rendering for Object Relighting
+conf:3dim:VidanapathiranaCLL24,2024,Multi-Body Neural Scene Flow.,doi_exact,1.0,Multi-Body Neural Scene Flow
+conf:3dim:VoEVD24,2024,Neural Field Regularization by Denoising for 3D Sparse-View X-Ray Computed Tomography.,doi_exact,1.0,Neural Field Regularization by Denoising for 3D Sparse-View X-Ray Computed Tomography
+conf:3dim:VuSZHY24,2024,Test-Time Augmentation for 3D Point Cloud Classification and Segmentation.,doi_exact,1.0,Test-Time Augmentation for 3D Point Cloud Classification and Segmentation
+conf:3dim:VutukurBBBHI24,2024,NeRF-Feat: 6D Object Pose Estimation using Feature Rendering.,doi_exact,1.0,NeRF-Feat: 6D Object Pose Estimation using Feature Rendering
+conf:3dim:WangLPBRT24,2024,PlaNeRF: SVD Unsupervised 3D Plane Regularization for NeRF Large-Scale Urban Scene Reconstruction.,doi_exact,1.0,PlaNeRF: SVD Unsupervised 3D Plane Regularization for NeRF Large-Scale Urban Scene Reconstruction
+conf:3dim:WangNBCSZH24,2024,A Local Appearance Model for Volumetric Capture of Diverse Hairstyles.,doi_exact,1.0,A Local Appearance Model for Volumetric Capture of Diverse Hairstyles
+conf:3dim:WangTNT24,2024,RaNeuS: Ray-adaptive Neural Surface Reconstruction.,doi_exact,1.0,RaNeuS: Ray-adaptive Neural Surface Reconstruction
+conf:3dim:WangZL24,2024,Enhancing Generalizability of Representation Learning for Data-Efficient 3D Scene Understanding.,doi_exact,1.0,Enhancing Generalizability of Representation Learning for Data-Efficient 3D Scene Understanding
+conf:3dim:WederBEP24,2024,LABELMAKER: Automatic Semantic Label Generation from RGB-D Trajectories.,doi_exact,1.0,LABELMAKER: Automatic Semantic Label Generation from RGB-D Trajectories
+conf:3dim:WengSY24,2024,Diffusion-HPC: Synthetic Data Generation for Human Mesh Recovery in Challenging Domains.,doi_exact,1.0,Diffusion-HPC: Synthetic Data Generation for Human Mesh Recovery in Challenging Domains
+conf:3dim:WuCZLZY24,2024,UAVD4L: A Large-Scale Dataset for UAV 6-DoF Localization.,doi_exact,1.0,UAVD4L: A Large-Scale Dataset for UAV 6-DoF Localization
+conf:3dim:WuHJPB24,2024,A Cross Branch Fusion-Based Contrastive Learning Framework for Point Cloud Self-supervised Learning.,doi_exact,1.0,A Cross Branch Fusion-Based Contrastive Learning Framework for Point Cloud Self-supervised Learning
+conf:3dim:WuRSC24,2024,Generalizing Single-View 3D Shape Retrieval to Occlusions and Unseen Objects.,doi_exact,1.0,Generalizing Single-View 3D Shape Retrieval to Occlusions and Unseen Objects
+conf:3dim:WuT24,2024,NeVRF: Neural Video-Based Radiance Fields for Long-Duration Sequences.,doi_exact,1.0,NeVRF: Neural Video-Based Radiance Fields for Long-Duration Sequences
+conf:3dim:WuWLXKLC24,2024,PathFusion: Path-Consistent Lidar-Camera Deep Feature Fusion.,doi_exact,1.0,PathFusion: Path-Consistent Lidar-Camera Deep Feature Fusion
+conf:3dim:WuYFLW24,2024,Fast High Dynamic Range Radiance Fields for Dynamic Scenes.,doi_exact,1.0,Fast High Dynamic Range Radiance Fields for Dynamic Scenes
+conf:3dim:XuYBCZW24,2024,Efficient 3D Articulated Human Generation with Layered Surface Volumes.,doi_exact,1.0,Efficient 3D Articulated Human Generation with Layered Surface Volumes
+conf:3dim:XuZCPK24,2024,Event-Based Visual Odometry on Non-Holonomic Ground Vehicles.,doi_exact,1.0,Event-Based Visual Odometry on Non-Holonomic Ground Vehicles
+conf:3dim:YamashitaNN24,2024,DeepShaRM: Multi-View Shape and Reflectance Map Recovery Under Unknown Lighting.,doi_exact,1.0,DeepShaRM: Multi-View Shape and Reflectance Map Recovery Under Unknown Lighting
+conf:3dim:YeWLSW24,2024,Consistent-1-to-3: Consistent Image to 3D View Synthesis via Geometry-aware Diffusion Models.,doi_exact,1.0,Consistent-1-to-3: Consistent Image to 3D View Synthesis via Geometry-aware Diffusion Models
+conf:3dim:YuanZ24,2024,SlimmeRF: Slimmable Radiance Fields.,doi_exact,1.0,SlimmeRF: Slimmable Radiance Fields
+conf:3dim:ZanfirAS24,2024,PhoMoH: Implicit Photorealistic 3D Models of Human Heads.,doi_exact,1.0,PhoMoH: Implicit Photorealistic 3D Models of Human Heads
+conf:3dim:ZhangCFZHSH24,2024,ArtiGrasp: Physically Plausible Synthesis of Bi-Manual Dexterous Grasping and Articulation.,doi_exact,1.0,ArtiGrasp: Physically Plausible Synthesis of Bi-Manual Dexterous Grasping and Articulation
+conf:3dim:ZhangDLGHT24,2024,ROAM: Robust and Object-Aware Motion Generation Using Neural Pose Descriptors.,doi_exact,1.0,ROAM: Robust and Object-Aware Motion Generation Using Neural Pose Descriptors
+conf:3dim:ZhangFKWTB24,2024,TECA: Text-Guided Generation and Editing of Compositional 3D Avatars.,doi_exact,1.0,TECA: Text-Guided Generation and Editing of Compositional 3D Avatars
+conf:3dim:ZhangFS24,2024,CoARF: Controllable 3D Artistic Style Transfer for Radiance Fields.,doi_exact,1.0,CoARF: Controllable 3D Artistic Style Transfer for Radiance Fields
+conf:3dim:ZhangSPZCL24,2024,NCRF: Neural Contact Radiance Fields for Free-Viewpoint Rendering of Hand-Object Interaction.,doi_exact,1.0,NCRF: Neural Contact Radiance Fields for Free-Viewpoint Rendering of Hand-Object Interaction
+conf:3dim:ZhaoHS24,2024,LocPoseNet: Robust Location Prior for Unseen Object Pose Estimation.,doi_exact,1.0,LocPoseNet: Robust Location Prior for Unseen Object Pose Estimation
+conf:3dim:ZhaoS24,2024,3DRef: 3D Dataset and Benchmark for Reflection Detection in RGB and Lidar Data.,doi_exact,1.0,3DRef: 3D Dataset and Benchmark for Reflection Detection in RGB and Lidar Data
+conf:3dim:ZhaoZLDG24,2024,RoomDesigner: Encoding Anchor-latents for Style-consistent and Shape-compatible Indoor Scene Generation.,doi_exact,1.0,RoomDesigner: Encoding Anchor-latents for Style-consistent and Shape-compatible Indoor Scene Generation
+conf:3dim:ZhengLRL24,2024,Robust Point Cloud Processing Through Positional Embedding.,doi_exact,1.0,Robust Point Cloud Processing Through Positional Embedding
+conf:3dim:ZhongYLZHL24,2024,Color-NeuS: Reconstructing Neural Implicit Surfaces with Color.,doi_exact,1.0,Color-NeuS: Reconstructing Neural Implicit Surfaces with Color
+conf:3dim:ZhuCC24,2024,Self-Supervised Learning of Skeleton-Aware Morphological Representation for 3D Neuron Segments.,doi_exact,1.0,Self-Supervised Learning of Skeleton-Aware Morphological Representation for 3D Neuron Segments
+conf:3dim:ZhuPLCOGP24,2024,NICER-SLAM: Neural Implicit Scene Encoding for RGB SLAM.,doi_exact,1.0,NICER-SLAM: Neural Implicit Scene Encoding for RGB SLAM
+conf:3dim:ZhuWQSJW24,2024,ContactArt: Learning 3D Interaction Priors for Category-level Articulated Object and Hand Poses Estimation.,doi_exact,1.0,ContactArt: Learning 3D Interaction Priors for Category-level Articulated Object and Hand Poses Estimation
+conf:3dim:ArdeleanOE25,2025,Gen3DSR: Generalizable 3D Scene Reconstruction Via Divide and Conquer From a Single View.,title_exact,0.99,Gen3DSR: Generalizable 3D Scene Reconstruction via Divide and Conquer from a Single View
+conf:3dim:BaiHGGLG25,2025,360-GS: Layout-Guided Panoramic Gaussian Splatting for Indoor Roaming.,title_exact,0.99,360-GS: Layout-guided Panoramic Gaussian Splatting For Indoor Roaming
+conf:3dim:BaoCC25,2025,PIR: Photometric Inverse Rendering with Shading Cues Modeling and Surface Reflectance Regularization.,title_exact,0.99,PIR: Photometric Inverse Rendering with Shading Cues Modeling and Surface Reflectance Regularization
+conf:3dim:BhattacharjeeC25,2025,Learning Assisted Interactive Modelling with Rough Freehand 3D Sketch Strokes.,title_exact,0.99,Learning assisted Interactive Modelling with Rough Freehand 3D Sketch Strokes
+conf:3dim:BianWV25,2025,CatFree3D: Category-Agnostic 3D Object Detection with Diffusion.,title_exact,0.99,CatFree3D: Category-Agnostic 3D Object Detection With Diffusion
+conf:3dim:BoederGR25,2025,LangOcc: Open Vocabulary Occupancy Estimation via Volume Rendering.,title_exact,0.99,LangOcc: Open Vocabulary Occupancy Estimation via Volume Rendering
+conf:3dim:BoyneC25,2025,FOCUS - Multi-View Foot Reconstruction from Synthetically Trained Dense Correspondences.,title_exact,0.99,FOCUS - Multi-View Foot Reconstruction From Synthetically Trained Dense Correspondences
+conf:3dim:CaiHR25,2025,GS-Pose: Generalizable Segmentation-Based 6D Object Pose Estimation with 3D Gaussian Splatting.,title_exact,0.99,GS-Pose: Generalizable Segmentation-Based 6D Object Pose Estimation With 3D Gaussian Splatting
+conf:3dim:CaoJVN25,2025,Lightplane: Highly-Scalable Components for Neural 3D Fields.,title_exact,0.99,Lightplane: Highly-Scalable Components for Neural 3D Fields
+conf:3dim:ChabalCPS25,2025,Online 3D Scene Reconstruction Using Neural Object Priors.,title_exact,0.99,Online 3D Scene Reconstruction Using Neural Object Priors
+conf:3dim:ChaudhuryVZGANA25,2025,Incorporating Dense Metric Depth into Neural 3D Representations for View Synthesis and Relighting.,title_exact,0.99,Incorporating dense metric depth into neural 3D representations for view synthesis and relighting
+conf:3dim:ChelaniBKSK25,2025,Obfuscation Based Privacy Preserving Representations Are Recoverable Using Neighborhood Information.,title_exact,0.99,Obfuscation Based Privacy Preserving Representations are Recoverable Using Neighborhood Information
+conf:3dim:ChengH25,2025,HoleGest: Decoupled Diffusion and Motion Priors for Generating Holisticly Expressive Co-Speech Gestures.,title_exact,0.99,HoleGest: Decoupled Diffusion and Motion Priors for Generating Holisticly Expressive Co-speech Gestures
+conf:3dim:ChengWSZXOCS25,2025,Learning Naturally Aggregated Appearance for Efficient 3D Editing.,title_exact,0.99,Learning Naturally Aggregated Appearance for Efficient 3D Editing
+conf:3dim:ChenLZ25,2025,OpticFusion: Multi-Modal Neural Implicit 3D Reconstruction of Microstructures by Fusing White Light Interferometry and Optical Microscopy.,title_exact,0.99,OpticFusion: Multi-Modal Neural Implicit 3D Reconstruction of Microstructures by Fusing White Light Interferometry and Optical Microscopy
+conf:3dim:ChenWCTGFQZ25,2025,Geometry-Aware Feature Matching for Large-Scale Structure from Motion.,title_exact,0.99,Geometry-Aware Feature Matching for Large-Scale Structure from Motion
+conf:3dim:ChodoshMLR25,2025,SMORE: Simultaneous Map and Object REconstruction.,title_exact,0.99,SMORE: Simultaneous Map and Object REconstruction
+conf:3dim:ComiTTYBLLA25,2025,"Snap-it, Tap-it, Splat-it: Tactile-Informed 3D Gaussian Splatting for Reconstructing Challenging Surfaces.",title_exact,0.99,"Snap-it, Tap-it, Splat-it: Tactile-Informed 3D Gaussian Splatting for Reconstructing Challenging Surfaces"
+conf:3dim:CoriglianoMHCT25,2025,ViSkin: Physics-Based Simulation of Virtual Skin on Personalized Avatars.,title_exact,0.99,ViSkin: Physics-based Simulation of Virtual Skin on Personalized Avatars
+conf:3dim:DhimanSPBBB25,2025,Reflecting Reality: Enabling Diffusion Models to Produce Faithful Mirror Reflections.,title_exact,0.99,Reflecting Reality: Enabling Diffusion Models to Produce Faithful Mirror Reflections
+conf:3dim:DingJXH25,2025,CFPNet: Improving Lightweight ToF Depth Completion via Cross-Zone Feature Propagation.,title_exact,0.99,CFPNet: Improving Lightweight ToF Depth Completion via Cross-zone Feature Propagation
+conf:3dim:DuisterhofZWLCR25,2025,MASt3R-SfM: A Fully-Integrated Solution for Unconstrained Structure-from-Motion.,title_exact,0.99,MASt3R-SfM: a Fully-Integrated Solution for Unconstrained Structure-from-Motion
+conf:3dim:EngstlerVLR25,2025,Invisible Stitch: Generating Smooth 3D Scenes with Depth Inpainting.,title_exact,0.99,Invisible Stitch: Generating Smooth 3D Scenes with Depth Inpainting
+conf:3dim:FangDLHST25,2025,Ctrl-Room: Controllable Text-to-3D Room Meshes Generation with Layout Constraints.,title_exact,0.99,Ctrl-Room: Controllable Text-to-3D Room Meshes Generation with Layout Constraints
+conf:3dim:FuscoCDL25,2025,Object Agnostic 3D Lifting in Space and Time.,title_exact,0.99,Object Agnostic 3D Lifting in Space and Time
+conf:3dim:GomezGO25,2025,FourieRF: Few-Shot NeRFs via Progressive Fourier Frequency Control.,title_exact,0.99,FourieRF: Few-Shot NeRFs via Progressive Fourier Frequency Control
+conf:3dim:GopalDGT25,2025,Betsu-Betsu: Multi-View Separable 3D Reconstruction of Two Interacting Objects.,not_found,0.8098,
+conf:3dim:GuanKLPJAV25,2025,INRet: A General Framework for Accurate Retrieval of INRs for Shapes.,title_exact,0.99,INRet: A General Framework for Accurate Retrieval of INRs for Shapes
+conf:3dim:GuiziliniTDA25,2025,GRIN: Zero-Shot Metric Depth with Pixel-Level Diffusion.,title_exact,0.99,GRIN: Zero-Shot Metric Depth with Pixel-Level Diffusion
+conf:3dim:GuzovJHPNLYM25,2025,HMD2: Environment-Aware Motion Generation from Single Egocentric Head-Mounted Device.,title_fuzzy,0.994,HMD^2: Environment-aware Motion Generation from Single Egocentric Head-Mounted Device
+conf:3dim:HahlbohmFKCESM25,2025,INPC: Implicit Neural Point Clouds for Radiance Field Rendering.,title_exact,0.99,INPC: Implicit Neural Point Clouds for Radiance Field Rendering
+conf:3dim:HartshornePSC25,2025,"ARC-Flow: Articulated, Resolution-Agnostic, Correspondence-Free Matching and Interpolation of 3D Shapes Under Flow Fields.",title_exact,0.99,"ARC-Flow : Articulated, Resolution-Agnostic, Correspondence-Free Matching and Interpolation of 3D Shapes under Flow Fields"
+conf:3dim:HassenaMFYSMH25,2025,"ObjectCarver: Semi-Automatic Segmentation, Reconstruction and Separation of 3D Objects.",title_exact,0.99,"ObjectCarver: Semi-automatic segmentation, reconstruction and separation of 3D objects"
+conf:3dim:HeoHWY25,2025,DeforHMR: Vision Transformer with Deformable Cross-Attention for 3D Human Mesh Recovery.,title_exact,0.99,DeforHMR: Vision Transformer with Deformable Cross-Attention for 3D Human Mesh Recovery
+conf:3dim:HeRH25,2025,A Robust Translation Synchronization Algorithm.,not_found,0.764,
+conf:3dim:HsuLZXW25,2025,AutoVFX: Physically Realistic Video Editing from Natural Language Instructions.,title_exact,0.99,AutoVFX: Physically Realistic Video Editing from Natural Language Instructions
+conf:3dim:HuangLQYY25,2025,Reason3D: Searching and Reasoning 3D Segmentation via Large Language Model.,title_exact,0.99,Reason3D: Searching and Reasoning 3D Segmentation via Large Language Model
+conf:3dim:HuYXL25,2025,Particle Rendering: Implicitly Aggregating Incident and Outgoing Light Fields for Novel View Synthesis.,title_exact,0.99,Particle Rendering: Implicitly Aggregating Incident and Outgoing Light Fields for Novel View Synthesis
+conf:3dim:IkneAW25,2025,AG-MAE: Anatomically Guided Spatio-Temporal Masked Auto-Encoder for Online Hand Gesture Recognition.,title_exact,0.99,AG-MAE: Anatomically Guided Spatio-Temporal Masked Auto-Encoder for Online Hand Gesture Recognition
+conf:3dim:JiangKZQSY25,2025,4D-Editor: Interactive Object-Level Editing in Dynamic Neural Radiance Fields via Semantic Distillation.,title_exact,0.99,4D-Editor: Interactive Object-level Editing in Dynamic Neural Radiance Fields via Semantic Distillation
+conf:3dim:JiWLL25,2025,JADE: Joint-Aware Latent Diffusion for 3D Human Generative Modeling.,title_exact,0.99,JADE: Joint-aware Latent Diffusion for 3D Human Generative Modeling
+conf:3dim:KimLAGKH25,2025,MeshUp: Multi-Target Mesh Deformation via Blended Score Distillation.,title_exact,0.99,MeshUp: Multi-Target Mesh Deformation via Blended Score Distillation
+conf:3dim:KompanowskiH25,2025,Dream-in-Style: Text-to-3D Generation Using Stylized Score Distillation.,title_exact,0.99,Dream-in-Style: Text-to-3D Generation using Stylized Score Distillation
+conf:3dim:KumarCK25,2025,Geometric Correspondence Consistency in RGB-D Relative Pose Estimation.,title_exact,0.99,Geometric Correspondence Consistency in RGB-D Relative Pose Estimation
+conf:3dim:LeeWZHW25,2025,Plenoptic PNG: Real-Time Neural Radiance Fields in 150 KB.,title_exact,0.99,Plenoptic PNG: Real-Time Neural Radiance Fields in 150 KB
+conf:3dim:LeeYKL25,2025,Deep Polycuboid Fitting for Compact 3D Representation of Indoor Scenes.,title_exact,0.99,Deep Polycuboid Fitting for Compact 3D Representation of Indoor Scenes
+conf:3dim:LeviG25,2025,Robustifying Point Cloud Networks by Refocusing.,title_exact,0.99,Robustifying Point Cloud Networks by Refocusing
+conf:3dim:LiCHPGP25,2025,Unimotion: Unifying 3D Human Motion Synthesis and Understanding.,title_exact,0.99,UniMotion: Unifying 3D Human Motion Synthesis and Understanding
+conf:3dim:LiCZL25,2025,Controllable Text-to-3D Generation via Surface-Aligned Gaussian Splatting.,title_exact,0.99,Controllable Text-to-3D Generation via Surface-Aligned Gaussian Splatting
+conf:3dim:LiGXWC25,2025,VXP: Voxel-Cross-Pixel Large-Scale Camera-LiDAR Place Recognition.,title_exact,0.99,VXP: Voxel-Cross-Pixel Large-Scale Camera-LiDAR Place Recognition
+conf:3dim:LiHMSAGSTJ25,2025,DreamBeast: Distilling 3D Fantastical Animals with Part-Aware Knowledge Transfer.,title_fuzzy,0.9872,DreamBeast: Distilling 3D Fantastic Animals with Part-Aware Knowledge Transfer
+conf:3dim:LiLJXGWYJ25,2025,GarmentDreamer: 3DGS Guided Garment Synthesis with Diverse Geometry and Texture Details.,title_exact,0.99,GarmentDreamer: 3DGS Guided Garment Synthesis with Diverse Geometry and Texture Details
+conf:3dim:LinLCCFHBW25,2025,UrbanIR: Large-Scale Urban Scene Inverse Rendering from a Single Video.,title_exact,0.99,UrbanIR: Large-Scale Urban Scene Inverse Rendering from a Single Video
+conf:3dim:LinWSPVL25,2025,Geometry-Guided Cross-View Diffusion for One-to-Many Cross-View Image Synthesis.,title_exact,0.99,Geometry-guided Cross-view Diffusion for One-to-many Cross-view Image Synthesis
+conf:3dim:LiSCNZZG25,2025,Mipmap-GS: Let Gaussians Deform with Scale-Specific Mipmap for Anti-Aliasing Rendering.,title_exact,0.99,Mipmap-GS: Let Gaussians Deform with Scale-specific Mipmap for Anti-aliasing Rendering
+conf:3dim:LiSGXRYT25,2025,NoKSR: Kernel-Free Neural Surface Reconstruction via Point Cloud Serialization.,title_exact,0.99,NoKSR: Kernel-Free Neural Surface Reconstruction via Point Cloud Serialization
+conf:3dim:LiSXEK25,2025,WaterSplatting: Fast Underwater 3D Scene Reconstruction Using Gaussian Splatting.,title_exact,0.99,WaterSplatting: Fast Underwater 3D Scene Reconstruction using Gaussian Splatting
+conf:3dim:LitmanPDAZTT25,2025,MaterialFusion: Enhancing Inverse Rendering with Material Diffusion Priors.,title_exact,0.99,MaterialFusion: Enhancing Inverse Rendering with Material Diffusion Priors
+conf:3dim:LiuGLBZ25,2025,BiGS: Bidirectional Primitives for Relightable 3D Gaussian Splatting.,title_exact,0.99,BiGS: Bidirectional Primitives for Relightable 3D Gaussian Splatting
+conf:3dim:LiuLLZLYT25,2025,Gaussianavatar-Editor: Photorealistic Animatable Gaussian Head Avatar Editor.,title_exact,0.99,GaussianAvatar-Editor: Photorealistic Animatable Gaussian Head Avatar Editor
+conf:3dim:LiuSZTHTLX25,2025,GaussianStyle: Gaussian Head Avatar via StyleGAN.,title_exact,0.99,GaussianStyle: Gaussian Head Avatar via StyleGAN
+conf:3dim:LiWYZZSFDZW25,2025,XLD: A Cross-Lane Dataset for Benchmarking Novel Driving View Synthesis.,title_exact,0.99,XLD: A Cross-Lane Dataset for Benchmarking Novel Driving View Synthesis
+conf:3dim:LuCYWCW25,2025,SSRFlow: Semantic-Aware Fusion with Spatial Temporal Re-Embedding for Real-World Scene Flow.,title_exact,0.99,SSRFlow: Semantic-aware Fusion with Spatial Temporal Re-embedding for Real-world Scene Flow
+conf:3dim:MaJYCC25,2025,LSSInst: Improving Geometric Modeling in LSS-Based BEV Perception with Instance Representation.,title_exact,0.99,LSSInst: Improving Geometric Modeling in LSS-Based BEV Perception with Instance Representation
+conf:3dim:MaLRSKGGP25,2025,A Large-Scale Dataset of Gaussian Splats and Their Self-Supervised Pretraining.,title_exact,0.99,A Large-scale Dataset of Gaussian Splats and Their Self-Supervised Pretraining
+conf:3dim:MaRLD25,2025,Mesh Extraction for Unbounded Scenes Using Camera-Aware Octrees.,title_exact,0.99,Mesh Extraction for Unbounded Scenes Using Camera-Aware Octrees
+conf:3dim:MeiRWP25,2025,Vocabulary-Free 3D Instance Segmentation with Vision-Language Assistant.,title_exact,0.99,Vocabulary-Free 3D Instance Segmentation with Vision-Language Assistant
+conf:3dim:NiDHWY25,2025,Para-Lane: Multi-Lane Dataset Registering Parallel Scans for Benchmarking Novel View Synthesis.,title_exact,0.99,Para-Lane: Multi-Lane Dataset Registering Parallel Scans for Benchmarking Novel View Synthesis
+conf:3dim:NiemeyerMRODGTBKT25,2025,RadSplat: Radiance Field-Informed Gaussian Splatting for Robust Real- Time Rendering with 900+ FPS.,title_exact,0.99,RadSplat: Radiance Field-Informed Gaussian Splatting for Robust Real-Time Rendering with 900+ FPS
+conf:3dim:OnghenaVM25,2025,MorphoSkel3D: Morphological Skeletonization of 3D Point Clouds for Informed Sampling in Object Classification and Retrieval.,title_exact,0.99,MorphoSkel3D: Morphological Skeletonization of 3D Point Clouds for Informed Sampling in Object Classification and Retrieval
+conf:3dim:PaschalidisWATT25,2025,3D Whole-Body Grasp Synthesis with Directional Controllability.,title_exact,0.99,3D Whole-body Grasp Synthesis with Directional Controllability
+conf:3dim:PatelB25,2025,CameraHMR: Aligning People with Perspective.,title_exact,0.99,CameraHMR: Aligning People with Perspective
+conf:3dim:PatwardhanRBD25,2025,U-ARE-ME: Uncertainty-Aware Rotation Estimation in Manhattan Environments.,title_exact,0.99,U–ARE–ME: Uncertainty-Aware Rotation Estimation in Manhattan Environments
+conf:3dim:PetzschRLB25,2025,Approximate 2D-3D Shape Matching for Interactive Applications.,title_exact,0.99,Approximate 2D-3D Shape Matching for Interactive Applications
+conf:3dim:PlizzariGPCKD25,2025,"Spatial Cognition from Egocentric Video: Out of Sight, Not Out of Mind.",title_exact,0.99,"Spatial Cognition from Egocentric Video: Out of Sight, Not Out of Mind"
+conf:3dim:PopovRKLFR25,2025,CamCtrl3D: Single-Image Scene Exploration with Precise 3D Camera Control.,title_exact,0.99,CamCtrl3D: Single-Image Scene Exploration With Precise 3D Camera Control
+conf:3dim:PrinzlerZSKT25,2025,Joker: Conditional 3D Head Synthesis with Extreme Facial Expressions.,title_exact,0.99,Joker: Conditional 3D Head Synthesis With Extreme Facial Expressions
+conf:3dim:RajWYIL25,2025,Spurfies: Sparse-View Surface Reconstruction Using Local Geometry Priors.,title_exact,0.99,Spurfies: Sparse-View Surface Reconstruction using Local Geometry Priors
+conf:3dim:RamakrishnanLJ25,2025,Rigid Body Adversarial Attacks.,title_exact,0.99,Rigid Body Adversarial Attacks
+conf:3dim:RanadePWNMR25,2025,SurfR: Surface Reconstruction with Multi-Scale Attention.,title_exact,0.99,SurfR: Surface Reconstruction with Multi-scale Attention
+conf:3dim:RenTWSMKR25,2025,AGS-Mesh: Adaptive Gaussian Splatting and Meshing with Geometric Priors for Indoor Room Reconstruction Using Smartphones.,title_exact,0.99,AGS-Mesh: Adaptive Gaussian Splatting and Meshing with Geometric Priors for Indoor Room Reconstruction Using Smartphones
+conf:3dim:RiveroASS25,2025,Rig3DGS: Creating Controllable Portraits From Casual Monocular Videos.,title_exact,0.99,Rig3DGS: Creating Controllable Portraits from Casual Monocular Videos
+conf:3dim:RongGWBTTH25,2025,Gaussian Garments: Reconstructing Simulation-Ready Clothing with Photorealistic Appearance from Multi-View Video.,title_exact,0.99,Gaussian Garments: Reconstructing Simulation-Ready Clothing with Photorealistic Appearance from Multi-View Video
+conf:3dim:RPET25,2025,GVP: Generative Volumetric Primitives.,title_exact,0.99,GVP: Generative Volumetric Primitives
+conf:3dim:SarafianosSXLPR25,2025,Garment3DGen: 3D Garment Stylization and Texture Generation.,title_exact,0.99,Garment3DGen: 3D Garment Stylization and Texture Generation
+conf:3dim:SautierPBML25,2025,UNIT: Unsupervised Online Instance Segmentation Through Time.,title_exact,0.99,UNIT: Unsupervised Online Instance Segmentation through Time
+conf:3dim:SeidenschwarzZDRL25,2025,DynOMo: Online Point Tracking by Dynamic Online Monocular Gaussian Reconstruction.,title_exact,0.99,DynOMo: Online Point Tracking by Dynamic Online Monocular Gaussian Reconstruction
+conf:3dim:SevastopolskyGGAVN25,2025,HeadCraft: Modeling High-Detail Shape Variations for Animated 3DMMs.,title_exact,0.99,HeadCraft: Modeling High-Detail Shape Variations for Animated 3DMMs
+conf:3dim:ShaoWTYMCDZZW25,2025,DEGAS: Detailed Expressions on Full-Body Gaussian Avatars.,title_exact,0.99,DEGAS: Detailed Expressions on Full-body Gaussian Avatars
+conf:3dim:ShiMGO25,2025,LapisGS: Layered Progressive 3D Gaussian Splatting for Adaptive Streaming.,title_exact,0.99,LapisGS: Layered Progressive 3D Gaussian Splatting for Adaptive Streaming
+conf:3dim:ShriramTLR25,2025,RealmDreamer: Text-Driven 3D Scene Generation with Inpainting and Depth Diffusion.,title_exact,0.99,RealmDreamer: Text-Driven 3D Scene Generation with Inpainting and Depth Diffusion
+conf:3dim:SmithCTS25,2025,"FlowMap: High-Quality Camera Poses, Intrinsics, and Depth via Gradient Descent.",title_exact,0.99,"FlowMap: High-Quality Camera Poses, Intrinsics, and Depth via Gradient Descent"
+conf:3dim:SunagadZMKTH25,2025,TEDRA: Text-Based Editing of Dynamic and Photoreal Actors.,title_exact,0.99,TEDRA: Text-based Editing of Dynamic and Photoreal Actors
+conf:3dim:SunHDWQG25,2025,3D-GPT: Procedural 3D Modeling with Large Language Models.,title_exact,0.99,3D-GPT: Procedural 3D modeling with large language models
+conf:3dim:SunZZZZJZGBC25,2025,VividTalk: One-Shot Audio-Driven Talking Head Generation Based on 3D Hybrid Prior.,title_exact,0.99,VividTalk: One-Shot Audio-Driven Talking Head Generation Based on 3D Hybrid Prior
+conf:3dim:SuzukiDKCLN25,2025,Open-Vocabulary Semantic Part Segmentation of 3D Human.,title_exact,0.99,Open-Vocabulary Semantic Part Segmentation of 3D Human
+conf:3dim:SzymanowiczIZCHRV25,2025,Flash3D: Feed-Forward Generalisable 3D Scene Reconstruction from a Single Image.,title_exact,0.99,Flash3D: Feed-Forward Generalisable 3D Scene Reconstruction from a Single Image
+conf:3dim:TamPWCS25,2025,SceneMotifCoder: Example-Driven Visual Program Learning for Generating 3D Object Arrangements.,title_exact,0.99,SceneMotifCoder: Example-driven Visual Program Learning for Generating 3D Object Arrangements
+conf:3dim:TangRDY25,2025,LSE-NeRF: Learning Sensor Modeling Errors for Deblured Neural Radiance Fields with RGB-Event Stereo.,title_exact,0.99,LSE-NeRF: Learning Sensor Modeling Errors for Deblured Neural Radiance Fields with RGB-Event Stereo
+conf:3dim:TanXTRY25,2025,DressRecon: Freeform 4D Human Reconstruction from Monocular Video.,title_exact,0.99,DressRecon: Freeform 4D Human Reconstruction from Monocular Video
+conf:3dim:ThambirajaPACT25,2025,3Diface: Synthesizing and Editing Holistic 3D Facial Animation.,title_exact,0.99,3DiFACE: Synthesizing and Editing Holistic 3D Facial Animation
+conf:3dim:TosoFJB25,2025,Maps from Motion (MfM): Generating 2D Semantic Maps from Sparse Multi-View Images.,title_exact,0.99,Maps from Motion (MfM): Generating 2D Semantic Maps from Sparse Multi-view Images
+conf:3dim:UzolasEK25,2025,MotionDreamer: Exploring Semantic Video Diffusion Features for Zero-Shot 3D Mesh Animation.,title_exact,0.99,MotionDreamer: Exploring Semantic Video Diffusion features for Zero-Shot 3D Mesh Animation
+conf:3dim:VavilalaVF25,2025,Denoising Monte Carlo Renders with Diffusion Models.,title_exact,0.99,Denoising Monte Carlo Renders with Diffusion Models
+conf:3dim:WangA25,2025,3D Reconstruction with Spatial Memory.,title_exact,0.99,3D Reconstruction with Spatial Memory
+conf:3dim:WangMCSLWFZW25,2025,HeadEvolver: Text to Head Avatars via Expressive and Attribute-Preserving Mesh Deformation.,title_exact,0.99,HeadEvolver: Text to Head Avatars via Expressive and Attribute-Preserving Mesh Deformation
+conf:3dim:WangMZSLP25,2025,Fully-Geometric Cross-Attention for Point Cloud Registration.,title_exact,0.99,Fully-Geometric Cross-attention for Point Cloud Registration
+conf:3dim:WeijlerH25,2025,Efficient Continuous Group Convolutions for Local SE(3) Equivariance in 3D Point Clouds.,title_exact,0.99,Efficient Continuous Group Convolutions for Local SE(3) Equivariance in 3D Point Clouds
+conf:3dim:WeijlerMSEH25,2025,TTT-KD: Test-Time Training for 3D Semantic Segmentation Through Knowledge Distillation From Foundation Models.,title_exact,0.99,TTT-KD: Test-Time Training for 3D Semantic Segmentation through Knowledge Distillation from Foundation Models
+conf:3dim:WimmerONT25,2025,Gaussians-to-Life: Text-Driven Animation of 3D Gaussian Splatting Scenes.,title_exact,0.99,Gaussians-to-Life: Text-Driven Animation of 3D Gaussian Splatting Scenes
+conf:3dim:WuCSYS25,2025,iFusion: Inverting Diffusion for Pose-Free Reconstruction From Sparse Views.,title_exact,0.99,iFusion: Inverting Diffusion for Pose-Free Reconstruction from Sparse Views
+conf:3dim:WuKZBLSH25,2025,Direct and Explicit 3D Generation from a Single Image.,title_exact,0.99,Direct and Explicit 3D Generation from a Single Image
+conf:3dim:WuLLMSH25,2025,FastGrasp: Efficient Grasp Synthesis with Diffusion.,title_exact,0.99,FastGrasp: Efficient Grasp Synthesis with Diffusion
+conf:3dim:WuLZRVDO25,2025,αSurf: Implicit Surface Reconstruction for Semi-Transparent and Thin Objects with Decoupled Geometry and Opacity.,title_exact,0.99,αSurf: Implicit Surface Reconstruction for Semi-Transparent and Thin Objects with Decoupled Geometry and Opacity
+conf:3dim:WuLZWH25,2025,MonoPatchNeRF: Improving Neural Radiance Fields with Patch-Based Monocular Guidance.,title_exact,0.99,MonoPatchNeRF: Improving Neural Radiance Fields with Patch-based Monocular Guidance
+conf:3dim:XiangWHAYDF25,2025,NeuHMR: Neural Rendering-Guided Human Motion Reconstruction.,title_exact,0.99,NeuHMR: Neural Rendering-Guided Human Motion Reconstruction
+conf:3dim:XieHDPTM25,2025,mmDiffusion: mmWave Diffusion for Sequential 3D Human Dense Point Cloud Generation.,title_exact,0.99,mmDiffusion: mmWave Diffusion for Sequential 3D Human Dense Point Cloud Generation
+conf:3dim:XieLP25,2025,InterTrack: Tracking Human Object Interaction Without Object Templates.,title_exact,0.99,InterTrack: Tracking Human Object Interaction without Object Templates
+conf:3dim:XiongMXUCZK25,2025,Sparsegs: Sparse View Synthesis Using 3D Gaussian Splatting.,title_exact,0.99,SparseGS: Sparse View Synthesis using 3D Gaussian Splatting
+conf:3dim:XueCLS25,2025,ZeroPS: High-Quality Cross-Modal Knowledge Transfer for Zero-Shot 3D Part Segmentation.,title_exact,0.99,ZeroPS: High-quality Cross-modal Knowledge Transfer for Zero-Shot 3D Part Segmentation
+conf:3dim:XuYQLTH25,2025,SAMPro3D: Locating SAM Prompts in 3D for Zero-Shot Instance Segmentation.,title_exact,0.99,SAMPro3D: Locating SAM Prompts in 3D for Zero-Shot Instance Segmentation
+conf:3dim:XuZJ25,2025,SPAFormer: Sequential 3D Part Assembly with Transformers.,title_exact,0.99,SPAFormer: Sequential 3D Part Assembly with Transformers
+conf:3dim:YangHWBSV25,2025,mli-NeRF: Multi-Light Intrinsic-Aware Neural Radiance Fields.,title_exact,0.99,MLI-NeRF: Multi-Light Intrinsic-Aware Neural Radiance Fields
+conf:3dim:YanLL25,2025,OD-NeRF: Efficient Training of On-the-Fly Dynamic Neural Radiance Fields.,title_exact,0.99,OD-NeRF: Efficient Training of On-the-Fly Dynamic Neural Radiance Fields
+conf:3dim:YanLWC25,2025,An Object is Worth 64×64 Pixels: Generating 3D Object via Image Diffusion.,title_fuzzy,0.9861,An Object is Worth 64x64 Pixels: Generating 3D Object via Image Diffusion
+conf:3dim:YanWZCLCD25,2025,SphereFusion: Efficient Panorama Depth Estimation via Gated Fusion.,title_exact,0.99,SphereFusion: Efficient Panorama Depth Estimation via Gated Fusion
+conf:3dim:YeLLPY25,2025,Synthesizing Consistent Novel Views Via 3D Epipolar Attention Without Re-Training.,title_exact,0.99,Synthesizing Consistent Novel Views via 3D Epipolar Attention without Re-Training
+conf:3dim:YiCY25,2025,Interactive Humanoid: Online Full Body Human Motion Reaction Synthesis with Social Affordance Forecasting and Canonicalization.,title_exact,0.99,Interactive Humanoid: Online Full Body Human Motion Reaction Synthesis With Social Affordance Forecasting and Canonicalization
+conf:3dim:ZahidRIG25,2025,E-3DGS: Event-Based Novel View Rendering of Large-Scale Scenes Using 3D Gaussian Splatting.,title_exact,0.99,E-3DGS: Event-Based Novel View Rendering of Large-Scale Scenes Using 3D Gaussian Splatting
+conf:3dim:ZengGC25,2025,CoE: Deep Coupled Embedding for Non-Rigid Point Cloud Correspondences.,title_exact,0.99,CoE: Deep Coupled Embedding for Non-Rigid Point Cloud Correspondences
+conf:3dim:ZengSYDZ25,2025,Oblique-MERF: Revisiting and Improving MERF for Oblique Photography.,title_exact,0.99,Oblique-MERF: Revisiting and Improving MERF for Oblique Photography
+conf:3dim:ZhangBSPGDPP25,2025,FORCE: Physics-Aware Human-Object Interaction.,title_exact,0.99,FORCE: Physics-aware Human-object Interaction
+conf:3dim:ZhangCKT25,2025,ShadowSG: Spherical Gaussian Illumination from Shadows.,title_exact,0.99,ShadowSG: Spherical Gaussian Illumination from Shadows
+conf:3dim:ZhangLLBHPGW25,2025,EgoGaussian: Dynamic Scene Understanding from Egocentric Video with 3D Gaussian Splatting.,title_exact,0.99,EgoGaussian: Dynamic Scene Understanding from Egocentric Video with 3D Gaussian Splatting
+conf:3dim:ZhangWK25,2025,A2-GNN: Angle-Annular GNN for Visual Descriptor-Free Camera Relocalization.,title_exact,0.99,A2-GNN: Angle-Annular GNN for Visual Descriptor-free Camera Relocalization
+conf:3dim:ZhangWWMPLT25,2025,RISE-SDF: A Relightable Information-Shared Signed Distance Field for Glossy Object Inverse Rendering.,title_exact,0.99,RISE-SDF: A Relightable Information-Shared Signed Distance Field for Glossy Object Inverse Rendering
+conf:3dim:ZhangZY25,2025,MAC++: Going Further with Maximal Cliques for 3D Registration.,title_exact,0.99,MAC++: Going Further with Maximal Cliques for 3D Registration
+conf:3dim:ZhaoS25,2025,Pushing the Limits of LiDAR: Accurate Performance Analysis of Indoor 3D LiDARs.,title_exact,0.99,Pushing the Limits of LiDAR: Accurate Performance Analysis of Indoor 3D LiDARs
+conf:3dim:ZhengWLZSCZLZZWX25,2025,HeadGAP: Few-Shot 3D Head Avatar via Generalizable Gaussian Priors.,title_exact,0.99,HeadGAP: Few-Shot 3D Head Avatar via Generalizable Gaussian Priors
+conf:3dim:ZhuLSHSA25,2025,LoopSplat: Loop Closure by Registering 3D Gaussian Splats.,title_exact,0.99,LoopSplat: Loop Closure by Registering 3D Gaussian Splats
+conf:3dim:ZielonkaBSZTR25,2025,Drivable 3D Gaussian Avatars.,title_exact,0.99,Drivable 3D Gaussian Avatars
+conf:3dim:ZuoKWJDG25,2025,Towards Foundation Models for 3D Vision: How Close are We?,title_exact,0.99,Towards Foundation Models for 3D Vision: How Close Are We?
+conf:3dim:AguinaKangBGKG26,2026,Seeing Through Clutter Structured 3D Scene Reconstruction via Iterative Object Removal.,title_exact,0.99,Seeing Through Clutter: Structured 3D Scene Reconstruction via Iterative Object Removal
+conf:3dim:AlegretLWLNGNT26,2026,GALA: Guided Attention with Language Alignment for Open Vocabulary Gaussian Splatting.,title_exact,0.99,GALA: Guided Attention with Language Alignment for Open Vocabulary Gaussian Splatting
+conf:3dim:AytekinRDT26,2026,Follow My Hold: Hand-Object Interaction Reconstruction Through Geometric Guidance.,title_exact,0.99,Follow My Hold: Hand-Object Interaction Reconstruction through Geometric Guidance
+conf:3dim:AzzarelliAB26,2026,Splatography: Sparse Multi-View Dynamic Gaussian Splatting for Filmmaking Challenges.,title_fuzzy,0.994,Splatography: Sparse multi-view dynamic Gaussian Splatting for film-making challenges
+conf:3dim:BadkiSWG26,2026,L4P: Towards Unified Low-Level 4D Vision Perception.,title_exact,0.99,L4P: Towards Unified Low-Level 4D Vision Perception
+conf:3dim:BaranowskiEGCG26,2026,ConeGS: Error-Guided Densification Using Pixel Cones for Improved Reconstruction with Fewer Primitives.,title_exact,0.99,ConeGS: Error-Guided Densification Using Pixel Cones for Improved Reconstruction with Fewer Primitives
+conf:3dim:BasticoRCTD26,2026,Rethinking Metrics and Diffusion Architecture for 3D Point Cloud Generation.,title_exact,0.99,Rethinking Metrics and Diffusion Architecture for 3D Point Cloud Generation
+conf:3dim:BozorgmaneshH26,2026,Making Minimal Solvers Inverse-Free Using Null Space Computation.,title_exact,0.99,Making minimal solvers inverse-free using null space computation
+conf:3dim:BuhlerYLHNI26,2026,"Dream, Lift, Animate: From Single Images to Animatable Gaussian Avatars.",title_exact,0.99,"Dream, Lift, Animate: From Single Images to Animatable Gaussian Avatars"
+conf:3dim:CaiJMCH26,2026,Improving Multi-View Reconstruction via Texture-Guided Gaussian-Mesh Joint Optimization.,title_exact,0.99,Improving Multi-View Reconstruction via Texture-Guided Gaussian-Mesh Joint Optimization
+conf:3dim:CaoSHB26,2026,Hyper Diffusion Avatars: Dynamic Human Avatar Generation Using Network Weight Space Diffusion.,title_exact,0.99,Hyper Diffusion Avatars: Dynamic Human Avatar Generation using Network Weight Space Diffusion
+conf:3dim:CataliniNBDGFKV26,2026,GazeD: Context-Aware Diffusion for Accurate 3D Gaze Estimation.,title_exact,0.99,GazeD: Context-Aware Diffusion for Accurate 3D Gaze Estimation
+conf:3dim:CharawiGWDT26,2026,DCCVT: Differentiable Clipped Centroidal Voronoi Tessellation.,title_exact,0.99,DCCVT: Differentiable Clipped Centroidal Voronoi Tessellation
+conf:3dim:ChenC26,2026,Semantic-Free Procedural 3D Shapes are Surprisingly Good Teachers.,title_exact,0.99,Semantic-Free Procedural 3D Shapes Are Surprisingly Good Teachers
+conf:3dim:ChenHH26,2026,Real-Time Facial Animation of Gaussian Head Avatars via Mocap-to-Parametric Expression Mapping.,title_exact,0.99,Real-Time Facial Animation of Gaussian Head Avatars via Mocap-to-Parametric Expression Mapping
+conf:3dim:ChenHPMCROR26,2026,RadarSim: Simulating Single-Chip Radar Via Multimodal Neural Fields.,title_exact,0.99,RadarSim: Simulating Single-Chip Radar via Multimodal Neural Fields
+conf:3dim:ChenSHKJG26,2026,Gaussian Wardrobe: Compositional 3D Gaussian Avatars for Free-Form Virtual Try-On.,title_exact,0.99,Gaussian Wardrobe: Compositional 3D Gaussian Avatars for Free-Form Virtual Try-on
+conf:3dim:ChenSPZWWL26,2026,DevilSight: Augmenting Monocular Human Avatar Reconstruction Through a Virtual Perspective.,title_exact,0.99,DevilSight: Augmenting Monocular Human Avatar Reconstruction through a Virtual Perspective
+conf:3dim:ChenTP26,2026,Patch-Based Representation and Learning for Efficient Deformation Modeling.,title_exact,0.99,Patch-based Representation and Learning for Efficient Deformation Modeling
+conf:3dim:ChiSDMCTK26,2026,C3PO: Canonicalization of 3D Pose from Partial Views With Generalizable Correspondence Features.,title_exact,0.99,C3PO: Canonicalization of 3D Pose from Partial Views with Generalizable Correspondence Features
+conf:3dim:ChoiCKHTK26,2026,Splat-based Gradient-Domain Fusion for Seamless View Transition.,title_exact,0.99,Splat-based Gradient-domain Fusion for Seamless View Transition
+conf:3dim:CongXPFS26,2026,DyTact: Capturing Dynamic Contacts in Hand-Object Manipulation.,title_exact,0.99,DyTact: Capturing Dynamic Contacts in Hand-Object Manipulation
+conf:3dim:CongZWLSCWRFGWWF26,2026,VideoLifter: Lifting Videos to 3D with Fast and Efficient Hierarchical Stereo Alignment.,not_found,0.9114,
+conf:3dim:DanceecekSPB26,2026,Supervising 3D Talking Head Avatars with Analysis-by-Audio-Synthesis.,title_exact,0.99,Supervising 3D Talking Head Avatars with Analysis-by-Audio-Synthesis
+conf:3dim:DengGSZLCCLL26,2026,DetailGen3D: Generative 3D Geometry Enhancement via Data-Dependent Flow.,title_exact,0.99,DetailGen3D: Generative 3D Geometry Enhancement via Data-Dependent Flow
+conf:3dim:DengLXRZTG26,2026,SAIL-Recon: Large SfM by Augmenting Scene Regression with Localization.,title_exact,0.99,SAIL-Recon: Large SfM by Augmenting Scene Regression with Localization
+conf:3dim:DenningerAG26,2026,CamC2V: Context-aware Controllable Video Generation.,title_exact,0.99,CamC2V: Context-aware Controllable Video Generation
+conf:3dim:DoH26,2026,Text-to-3D Generation Using Jensen-Shannon Score Distillation.,title_exact,0.99,Text-to-3D Generation using Jensen-Shannon Score Distillation
+conf:3dim:DUrsoSSRKF26,2026,A Streamlined Attention-Based Network for Descriptor Extraction.,title_exact,0.99,A Streamlined Attention-based Network for Descriptor Extraction
+conf:3dim:EbbedL26,2026,MoAngelo: Motion-Aware Neural Surface Reconstruction for Dynamic Scenes.,title_exact,0.99,MoAngelo: Motion-Aware Neural Surface Reconstruction for Dynamic Scenes
+conf:3dim:EhmRBC26,2026,An Integer Linear Programming Approach to Geometrically Consistent Partial-Partial Shape Matching.,title_exact,0.99,An Integer Linear Programming Approach to Geometrically Consistent Partial-Partial Shape Matching
+conf:3dim:EilermannHN26,2026,ConTiCoM-3D: A Continuous-Time Consistency Model for 3D Point Cloud Generation.,title_exact,0.99,ConTiCoM-3D: A Continuous-Time Consistency Model for 3D Point Cloud Generation
+conf:3dim:ElazabJUH26,2026,"Gamma-from-Mono: Road-Relative, Metric, Self-Supervised Monocular Geometry for Vehicular Applications.",title_exact,0.99,"Gamma-from-Mono: Road-Relative, Metric, Self-Supervised Monocular Geometry for Vehicular Applications"
+conf:3dim:FangLLZMLTZT26,2026,SPATIALGEN: Layout-Guided 3D Indoor Scene Generation.,title_exact,0.99,SpatialGen: Layout-guided 3D Indoor Scene Generation
+conf:3dim:FanRDSGTKH26,2026,PALM: A Dataset and Baseline for Learning Multi-Subject Hand Prior.,title_exact,0.99,PALM: A Dataset and Baseline for Learning Multi-subject Hand Prior
+conf:3dim:FeidenKZSR26,2026,Online Video Depth Anything: Temporally-Consistent Depth Prediction with Low Memory Consumption.,title_exact,0.99,Online Video Depth Anything: Temporally-Consistent Depth Prediction with Low Memory Consumption
+conf:3dim:FeiLYPZ26,2026,A Remeshing Method via Adaptive Multiple Original-Facet-Clipping and Centroidal Voronoi Tessellation.,title_exact,0.99,A Remeshing Method via Adaptive Multiple Original-Facet-Clipping and Centroidal Voronoi Tessellation
+conf:3dim:FischerGGKRD26,2026,SAMa: Material-Aware 3D Selection and Segmentation.,title_exact,0.99,SAMa: Material-aware 3D Selection and Segmentation
+conf:3dim:FogartyCYGO26,2026,Self-Supervised Implicit Attention Priors for Point Cloud Reconstruction.,title_exact,0.99,Self-Supervised Implicit Attention Priors for Point Cloud Reconstruction
+conf:3dim:FortierChouinardZMGBL26,2026,SpotLight: Shadow-Guided Object Relighting via Diffusion.,title_exact,0.99,SpotLight: Shadow-Guided Object Relighting via Diffusion
+conf:3dim:GaloaaBMNRAO26,2026,Look Around and Pay Attention: Multi-Camera Point Tracking Reimagined with Transformers.,title_exact,0.99,Look Around and Pay Attention: Multi-camera Point Tracking Reimagined with Transformers
+conf:3dim:GaoWWLSLGSYLG26,2026,Inverse Rendering for High-Genus Surface Meshes from Multi-View Images.,title_exact,0.99,Inverse Rendering for High-Genus Surface Meshes from Multi-View Images
+conf:3dim:GhilottiBSMBH26,2026,UniLiPs: Unified LiDAR Pseudo-Labeling with Geometry-Grounded Dynamic Scene Decomposition.,title_exact,0.99,UniLiPs: Unified LiDAR Pseudo-Labeling with Geometry-Grounded Dynamic Scene Decomposition
+conf:3dim:GuptaMWCKDRC26,2026,InteriorAgent: LLM Agent for Interior Design-Aware 3D Layout Generation.,title_exact,0.99,INTERIORAGENT: LLM Agent for Interior Design aware 3D Layout Generation
+conf:3dim:GuptaWSRSJ26,2026,SNAP: Towards Segmenting Anything in Any Point Cloud.,title_exact,0.99,SNAP: Towards Segmenting Anything in Any Point Cloud
+conf:3dim:HashimotoAIYZSS26,2026,Event-Based Multi-Range Radiance Separation and 3D Reconstruction via Line-Scan Pseudo-Square Illumination.,title_exact,0.99,Event-based Multi-range Radiance Separation and 3D Reconstruction via Line‑Scan Pseudo‑Square Illumination
+conf:3dim:HeldVDHGRCGVTD26,2026,Triangle Splatting for Real-Time Radiance Field Rendering.,title_exact,0.99,Triangle Splatting for Real-Time Radiance Field Rendering
+conf:3dim:HrubyP26,2026,Minimal Solvers for Full DoF Motion Estimation from Asynchronous Tracks.,title_exact,0.99,Minimal Solvers for Full DoF Motion Estimation from Asynchronous Tracks
+conf:3dim:HuangL26,2026,Unified Geometry and Color Compression Framework for Point Clouds via Generative Diffusion Priors.,title_exact,0.99,Unified Geometry and Color Compression Framework for Point Clouds via Generative Diffusion Priors
+conf:3dim:HuangWYMCZT26,2026,From Blurry to Believable: Enhancing Low-Quality Talking Heads with 3D Generative Priors.,title_exact,0.99,From Blurry to Believable: Enhancing Low-quality Talking Heads with 3D Generative Priors
+conf:3dim:HuangZWT26,2026,3D CoCa: Contrastive Learners are 3D Captioners.,title_exact,0.99,3D CoCa: Contrastive Learners are 3D Captioners
+conf:3dim:HumtHT26,2026,Evaluating Latent Generative Paradigms for High-Fidelity 3D Shape Completion from a Single Depth Image.,title_exact,0.99,Evaluating Latent Generative Paradigms for High-Fidelity 3D Shape Completion from a Single Depth Image
+conf:3dim:IbrahimliKN26,2026,NeuSEditor: From Multi-View Images to Text-Guided Neural Surface Edits.,title_exact,0.99,NeuSEditor: From Multi-View Images to Text-Guided Neural Surface Edits
+conf:3dim:JainJSG26,2026,Smokeseer: 3D Gaussian Splatting for Smoke Removal and Scene Reconstruction.,title_exact,0.99,SmokeSeer: 3D Gaussian Splatting for Smoke Removal and Scene Reconstruction
+conf:3dim:JiangZLMO26,2026,Broadening View Synthesis of Dynamic Scenes from Constrained Monocular Videos.,title_exact,0.99,Broadening View Synthesis of Dynamic Scenes from Constrained Monocular Videos
+conf:3dim:JiangZPL26,2026,Enhancing 3D Object Tracking via Dual-Context Propagation and Temporal Context Fusion.,title_exact,0.99,Enhancing 3D Object Tracking via Dual-Context Propagation and Temporal Context Fusion
+conf:3dim:JinF26,2026,SAT-SKYLINES: 3D Building Generation from Satellite Imagery and Coarse Geometric Priors.,title_exact,0.99,SAT-SKYLINES: 3D Building Generation from Satellite Imagery and Coarse Geometric Priors
+conf:3dim:JungKTD26,2026,Finding NeMO: A Geometry-Aware Representation of Template Views for Few-Shot Perception.,title_exact,0.99,Finding NeMO: A Geometry-Aware Representation of Template Views for Few-Shot Perception
+conf:3dim:KeethaMSPZFKZWALLBRRSK26,2026,MapAnything: Universal Feed-Forward Metric 3D Reconstruction; map-anything.github.io.,not_found,0.8369,
+conf:3dim:KimLFCP26,2026,FASTMESH: Efficient Artistic Mesh Generation Via Component Decoupling.,title_exact,0.99,FastMesh: Efficient Artistic Mesh Generation via Component Decoupling
+conf:3dim:KimYS26,2026,Proxy-Free Gaussian Splats Deformation with Splat-Based Surface Estimation.,title_exact,0.99,Proxy-Free Gaussian Splats Deformation with Splat-Based Surface Estimation
+conf:3dim:KirayUNB26,2026,PromptVFX: Text-Driven Fields for Open-World 3D Gaussian Animation.,title_exact,0.99,PromptVFX: Text-Driven Fields for Open-World 3D Gaussian Animation
+conf:3dim:KisterSWKP26,2026,Are Pose Estimators Ready for the Open World? STAGE: A GenAI Toolkit for Auditing 3D Human Pose Estimators.,title_exact,0.99,Are Pose Estimators Ready for the Open World? STAGE: A GenAI Toolkit for Auditing 3D Human Pose Estimators
+conf:3dim:KnaebelYGHALL26,2026,DINO in the Room: Leveraging 2D Foundation Models for 3D Segmentation.,title_exact,0.99,DINO in the Room: Leveraging 2D Foundation Models for 3D Segmentation
+conf:3dim:KourosWT26,2026,RGS-DR: Deferred Reflections and Residual Shading in 2D Gaussian Splatting.,title_exact,0.99,RGS-DR: Deferred Reflections and Residual Shading in 2D Gaussian Splatting
+conf:3dim:KumarKP26,2026,CAOA - Completion-Assisted Object-CAD Alignment.,title_exact,0.99,CAOA - Completion-Assisted Object-CAD Alignment
+conf:3dim:LaviSA26,2026,Frequency-Aware Gaussian Splatting Decomposition.,title_exact,0.99,Frequency-Aware Gaussian Splatting Decomposition
+conf:3dim:LeeAKC26,2026,TexAvatars: Hybrid Texel-3D Representations for Stable Rigging of Photorealistic Gaussian Head Avatars.,title_exact,0.99,TexAvatars: Hybrid Texel-3D Representations for Stable Rigging of Photorealistic Gaussian Head Avatars
+conf:3dim:LevySLB26,2026,Structurally Disentangled Feature Fields Distillation for 3D Understanding and Editing.,title_exact,0.99,Structurally Disentangled Feature Fields Distillation for 3D Understanding and Editing
+conf:3dim:LiangWLNGLNT26,2026,SuperGSeg: Open-Vocabulary 3D Segmentation with Structured Super-Gaussians.,title_exact,0.99,SuperGSeg: Open-Vocabulary 3D Segmentation with Structured Super-Gaussians
+conf:3dim:LiaoCHGL26,2026,A Lightweight Multi-Variable Spatio-Temporal Convolutional Framework for Dynamic Gesture Recognition.,title_exact,0.99,A Lightweight Multi-Variable Spatio-Temporal Convolutional Framework for Dynamic Gesture Recognition
+conf:3dim:LiCYLCXTZ26,2026,GRADRobot: Geometry-Aware Rendering with Articulation and Diffusion for Robot Modeling.,title_exact,0.99,GRADRobot: Geometry-Aware Rendering with Articulation and Diffusion for Robot Modeling
+conf:3dim:LiGXC26,2026,TRASE: Tracking-Free 4D Segmentation and Editing.,title_exact,0.99,TRASE: Tracking-free 4D Segmentation and Editing
+conf:3dim:LiHFZCGS26,2026,VoxHammer: Training-Free Precise and Coherent 3D Editing in Native 3D Space.,title_exact,0.99,VoxHammer: Training-Free Precise and Coherent 3D Editing in Native 3D Space
+conf:3dim:LiJD26,2026,Next Best View Selections for Semantic and Dynamic 3D Gaussian Splatting.,title_exact,0.99,Next Best View Selections for Semantic and Dynamic 3D Gaussian Splatting
+conf:3dim:LiLGYWZ26,2026,ContA-HOI: Towards Physically Plausible Human-Object Interaction Generation via Contact-Aware Modeling.,title_exact,0.99,ContA-HOI: Towards Physically Plausible Human-Object Interaction Generation via Contact-Aware Modeling
+conf:3dim:LiPG26,2026,PASTA: Controllable Part-Aware Shape Generation with Autoregressive Transformers.,title_exact,0.99,PASTA: Controllable Part-Aware Shape Generation with Autoregressive Transformers
+conf:3dim:LiuXSWC26,2026,Data-Efficient Inference of Neural Fluid Fields via SciML Foundation Model.,title_exact,0.99,Data-Efficient Inference of Neural Fluid Fields via SciML Foundation Model
+conf:3dim:LiWIVWGS26,2026,FastMap: Revisiting Structure from Motion Through First-Order Optimization.,title_exact,0.99,FastMap: Revisiting Structure from Motion through First-Order Optimization
+conf:3dim:LiYHLTYL26,2026,SCIGaussian-D: Dynamic Scene Reconstruction from a Single Snapshot Compressive Image.,title_exact,0.99,SCIGaussian-D: Dynamic Scene Reconstruction from a Single Snapshot Compressive Image
+conf:3dim:LiYLW26,2026,ZeroHSI: Zero-Shot 4D Human-Scene Interaction by Video Generation.,title_exact,0.99,ZeroHSI: Zero-Shot 4D Human-Scene Interaction by Video Generation
+conf:3dim:LuoYLZZWT26,2026,CTR3D: Cross-View Token Reduction for Dense Multi-View Generation.,title_exact,0.99,CTR3D: Cross-view Token Reduction for Dense Multi-view Generation
+conf:3dim:LyuKZT26,2026,LaMP: Learning Robust Latent Motion Prior for Optimization-Based Human Motion Generation.,title_exact,0.99,LaMP: Learning Robust Latent Motion Prior for Optimization-Based Human Motion Generation
+conf:3dim:Maquignaz26,2026,Towards Physically-Based Sky-Modeling for Image Based Lighting.,title_exact,0.99,Towards Physically-Based Sky-Modeling For Image Based Lighting
+conf:3dim:MatmonBRK26,2026,CaricatureGS: Exaggerating 3D Gaussian Splatting Faces with Gaussian Curvature.,title_exact,0.99,CaricatureGS: Exaggerating 3D Gaussian Splatting Faces with Gaussian Curvature
+conf:3dim:MedinLBDHZGDWBM26,2026,LegacyAvatars: Volumetric Face Avatars for Traditional Graphics Pipelines.,title_exact,0.99,LegacyAvatars: Volumetric Face Avatars For Traditional Graphics Pipelines
+conf:3dim:MeliLGM26,2026,Layered Quantum Architecture Search for 3D Point Cloud Classification.,title_exact,0.99,Layered Quantum Architecture Search for 3D Point Cloud Classification
+conf:3dim:MendirattaDTGKT26,2026,GRMM: Real-Time High-Fidelity Gaussian Morphable Head Model with Learned Residuals.,title_exact,0.99,GRMM: Real-Time High-Fidelity Gaussian Morphable Head Model with Learned Residuals
+conf:3dim:MengWZX26,2026,SceneGen: Single-Image 3D Scene Generation in One Feedforward Pass.,title_exact,0.99,SceneGen: Single-Image 3D Scene Generation in One Feedforward Pass
+conf:3dim:MiekkalaBWGRSPBH26,2026,Too Tiny to See: Hazardous Obstacle Detection Dataset and Evaluation.,title_exact,0.99,Too Tiny to See: Hazardous Obstacle Detection Dataset and Evaluation
+conf:3dim:MonaciWW26,2026,What Does Really Matter in Image Goal Navigation?,title_exact,0.99,What does really matter in image goal navigation?
+conf:3dim:NarayananZGC26,2026,Diffusion-Denoised Hyperspectral Gaussian Splatting.,title_exact,0.99,Diffusion-Denoised Hyperspectral Gaussian Splatting
+conf:3dim:NasypanyiR26,2026,Pixel-Accurate Epipolar Guided Matching.,title_exact,0.99,Pixel-Accurate Epipolar Guided Matching
+conf:3dim:NguyenLZGWSWK26,2026,TrueCity: Real and Simulated Urban Data for Cross-Domain 3D Scene Understanding.,title_exact,0.99,TrueCity: Real and Simulated Urban Data for Cross-Domain 3D Scene Understanding
+conf:3dim:OberwegerSS26,2026,PI3DETR: Parametric Instance Detection of 3D Point Cloud Edges with a Geometry-Aware 3DETR.,title_exact,0.99,PI3DETR: Parametric Instance Detection of 3D Point Cloud Edges with a Geometry-Aware 3DETR
+conf:3dim:OuLLBP26,2026,Structure-Grounded Training Strategies Aid Generalization in Stereo Matching.,title_exact,0.99,Structure-grounded Training Strategies Aid Generalization in Stereo Matching
+conf:3dim:PehlivanCFHT26,2026,Matrix-Free Second-Order Optimization of Gaussian Splats with Residual Sampling.,title_exact,0.99,Matrix-free Second-order Optimization of Gaussian Splats with Residual Sampling
+conf:3dim:PengLLS26,2026,iTACO: Interactable Digital Twins of Articulated Objects from Casually Captured RGBD Videos.,title_exact,0.99,iTACO: Interactable Digital Twins of Articulated Objects from Casually Captured RGBD Videos
+conf:3dim:PengSCSSL26,2026,Parametric Gaussian Human Model: Generalizable Prior for Efficient and Realistic Human Avatar Modeling.,title_exact,0.99,Parametric Gaussian Human Model: Generalizable Prior for Efficient and Realistic Human Avatar Modeling
+conf:3dim:PerezLP26,2026,NURBSFit: Robust Fitting of NURBS Surfaces to Point Clouds.,title_exact,0.99,NURBSFit: Robust Fitting of NURBS Surfaces to Point Clouds
+conf:3dim:PiccinelliWSAG26,2026,Video Depth Propagation.,title_exact,0.99,Video Depth Propagation
+conf:3dim:PolizziYCKGL26,2026,VibES: Induced Vibration for Persistent Event-Based Sensing.,title_exact,0.99,VIBES: Induced Vibration for Persistent Event-based Sensing
+conf:3dim:PunTWHCS26,2026,HSM: Hierarchical Scene Motifs for Multi-Scale Indoor Scene Generation.,title_exact,0.99,HSM: Hierarchical Scene Motifs for Multi-Scale Indoor Scene Generation
+conf:3dim:QianZBBT26,2026,Masked Modeling for Human Motion Recovery Under Occlusions.,title_exact,0.99,Masked Modeling for Human Motion Recovery under Occlusions
+conf:3dim:QiuXZYCH26,2026,AvatarTex: High-Fidelity Facial Texture Reconstruction from Single-Image Stylized Avatars.,title_exact,0.99,AvatarTex: High-Fidelity Facial Texture Reconstruction from Single-Image Stylized Avatars
+conf:3dim:RampiniMRZC26,2026,A Scalable Attention-Based Approach for Image-to-3D Texture Mapping.,title_exact,0.99,A Scalable Attention-Based Approach for Image-to-3D Texture Mapping
+conf:3dim:RenWLYLCCL26,2026,Unigaussian: Driving Scene Reconstruction From Multiple Camera Models Via Unified Gaussian Representations.,title_exact,0.99,UniGaussian: Driving Scene Reconstruction from Multiple Camera Models via Unified Gaussian Representations
+conf:3dim:RichSSH26,2026,Prism: Semi-Supervised Multi-View Stereo with Monocular Structure Priors.,title_exact,0.99,Prism: Semi-Supervised Multi-View Stereo with Monocular Structure Priors
+conf:3dim:RydellB26,2026,A Framework for Reducing the Complexity of Geometric Vision Problems and its Application to Two-View Triangulation with Approximation Bounds.,title_exact,0.99,A Framework for Reducing the Complexity of Geometric Vision Problems and its Application to Two-View Triangulation with Approximation Bounds
+conf:3dim:SachanRETG26,2026,EventNeuS: 3D Mesh Reconstruction From a Single Event Camera.,title_exact,0.99,EventNeuS: 3D Mesh Reconstruction from a Single Event Camera
+conf:3dim:SagawaNIK26,2026,Neural 4D Scene Reconstruction with Multiple One-Shot Scanning Systems.,title_exact,0.99,Neural 4D Scene Reconstruction with Multiple One-Shot Scanning Systems
+conf:3dim:SametPM26,2026,LOSC: LiDAR Open-Voc Segmentation Consolidator.,title_exact,0.99,LOSC: LiDAR Open-voc Segmentation Consolidator
+conf:3dim:SangCCMBC26,2026,TwoSquared: 4D Generation from 2D Image Pairs.,title_exact,0.99,TwoSquared: 4D Generation from 2D Image Pairs
+conf:3dim:SautierPBML26,2026,Is Clustering Enough for LiDAR Instance Segmentation? A State-of-the-Art Training-Free Baseline.,title_exact,0.99,Is clustering enough for LiDAR instance segmentation? A state-of-the-art training-free baseline
+conf:3dim:SchmidH26,2026,XRefine: Attention-Guided Keypoint Match Refinement.,title_exact,0.99,XRefine - Attention-Guided Keypoint Match Refinement
+conf:3dim:ShahjahanH26,2026,Adaptive Graph Kolmogorov-Arnold Network for 3D Human Pose Estimation.,title_exact,0.99,Adaptive Graph Kolmogorov-Arnold Network for 3D Human Pose Estimation
+conf:3dim:ShenoiLSP26,2026,RaCo: Ranking and Covariance for Practical Learned Keypoints.,title_exact,0.99,RaCo: Ranking and Covariance for Practical Learned Keypoints
+conf:3dim:ShenZLYHZZ26,2026,GaussianArt: Unified Modeling of Geometry and Motion for Articulated Objects.,title_exact,0.99,GaussianArt: Unified Modeling of Geometry and Motion for Articulated Objects
+conf:3dim:ShinLCSHK26,2026,BodyContact4D: A Multi-view Video Dataset for Understanding Human and Environment Interactions.,title_exact,0.99,BodyContact4D: A Multi-view Video Dataset for Understanding Human and Environment Interactions
+conf:3dim:ShinPRKSCXHB26,2026,EgoMDM: Diffusion-Based Human Motion Synthesis from Sparse Egocentric Sensors.,title_exact,0.99,EgoMDM: Diffusion-based Human Motion Synthesis from Sparse Egocentric Sensors
+conf:3dim:ShiWCZBZ26,2026,Revisiting Depth Representations for Feed-Forward 3D Gaussian Splatting.,title_exact,0.99,Revisiting Depth Representations for Feed-Forward 3D Gaussian Splatting
+conf:3dim:ShvetsovaBTKT26,2026,M2SVid: End-to-End Inpainting and Refinement for Monocular-to-Stereo Video Conversion.,title_exact,0.99,M2SVid: End-to-End Inpainting and Refinement for Monocular-to-Stereo Video Conversion
+conf:3dim:SklyarovaKYBBT26,2026,NeuralFur: Animal Fur Reconstruction from Multi-View Images.,title_exact,0.99,NeuralFur: Animal Fur Reconstruction from Multi-view Images
+conf:3dim:SmartZLP26,2026,Learning Compact 3D Gaussians via Feed-Forward Point Fusion.,title_exact,0.99,Learning Compact 3D Gaussians via Feed-Forward Point Fusion
+conf:3dim:SongKCLYK26,2026,Contact4D: A Video Dataset for Whole-Body Human Motion and Finger Contact in Dexterous Operations.,title_exact,0.99,Contact4D: A Video Dataset for Whole-Body Human Motion and Finger Contact in Dexterous Operations
+conf:3dim:SternSL26,2026,Appreciate the View: A Task-Aware Evaluation Framework for Novel View Synthesis.,title_exact,0.99,Appreciate the View: A Task-Aware Evaluation Framework for Novel View Synthesis
+conf:3dim:SunGC26,2026,SemLayoutDiff: Semantic Layout Generation with Diffusion Model for Indoor Scene Synthesis.,title_exact,0.99,SemLayoutDiff: Semantic Layout Generation with Diffusion Model for Indoor Scene Synthesis
+conf:3dim:SunWJYZZLCCWEBTWBH26,2026,3D-GENERALIST: Vision-Language-Action Models for Crafting 3D Worlds.,title_exact,0.99,3D-GENERALIST: Vision-Language-Action Models for Crafting 3D Worlds
+conf:3dim:TangL26,2026,Hierarchical Space Partition for Surface Reconstruction.,title_exact,0.99,Hierarchical space partition for surface reconstruction
+conf:3dim:TanJLZXYJ26,2026,PhysMotion: Physics-Grounded Dynamics From a Single Image.,title_exact,0.99,PhysMotion: Physics-Grounded Dynamics From a Single Image
+conf:3dim:TaoZTWL26,2026,Tessellation GS: Neural Mesh Gaussians for Robust Monocular Reconstruction of Dynamic Objects.,title_fuzzy,0.9945,Tesselation GS: Neural Mesh Gaussians for Robust Monocular Reconstruction of Dynamic Objects
+conf:3dim:VavilalaKJRBF26,2026,Improved Convex Decomposition with Ensembling and Negative Primitives.,title_exact,0.99,Improved Convex Decomposition with Ensembling and Negative Primitives
+conf:3dim:VengurlekarPJ26,2026,SH-SAS: An Implicit Neural Representation for Complex Spherical-Harmonic Scattering Fields for 3D Synthetic Aperture Sonar.,title_exact,0.99,SH-SAS: An Implicit Neural Representation for Complex Spherical-Harmonic Scattering Fields for 3D Synthetic Aperture Sonar
+conf:3dim:VoraGTZ26,2026,HiT: Hierarchical Transformers for Unsupervised 3D Shape Abstraction.,title_exact,0.99,HiT: Hierarchical Transformers for Unsupervised 3D Shape Abstraction
+conf:3dim:WadenbackOE26,2026,"Radially Distorted Homographies, Revisited.",title_exact,0.99,"Radially Distorted Homographies, Revisited"
+conf:3dim:WangDMS26,2026,J-Neus: Joint Field Optimization for Neural Surface Reconstruction in Urban Scenes With Limited Image Overlap.,title_exact,0.99,J-NeuS: Joint field optimization for Neural Surface reconstruction in urban scenes with limited image overlap
+conf:3dim:WangJDQ26,2026,Improved Cinematic-Guided Camera Language Transfer in 3D Scene.,title_exact,0.99,Improved Cinematic-Guided Camera Language Transfer in 3D Scene
+conf:3dim:WangLLAMNG26,2026,Visibility-Aware Language Aggregation for Open-Vocabulary Segmentation in 3D Gaussian Splatting.,title_exact,0.99,Visibility-Aware Language Aggregation for Open-Vocabulary Segmentation in 3D Gaussian Splatting
+conf:3dim:WangMLL26,2026,Learning High-Fidelity Garment Deformation via Skinning-Free Image Transfer.,title_exact,0.99,Learning High-Fidelity Garment Deformation via Skinning-Free Image Transfer
+conf:3dim:WangMMG26,2026,Quantum Multiple Rotation Averaging.,title_exact,0.99,Quantum Multiple Rotation Averaging
+conf:3dim:WangNCTBT26,2026,Momentum-Conserving Graph Neural Networks for Deformable Objects.,title_exact,0.99,Momentum-Conserving Graph Neural Networks for Deformable Objects
+conf:3dim:WangZFYIBT26,2026,GarmentCrafter: Progressive Novel View Synthesis for Single-View 3D Garment Reconstruction and Editing.,title_exact,0.99,GarmentCrafter: Progressive Novel View Synthesis for Single-View 3D Garment Reconstruction and Editing
+conf:3dim:WangZZ26,2026,ACT-R: Adaptive Camera Trajectories for Single-View 3D Reconstruction.,title_exact,0.99,ACT-R: Adaptive Camera Trajectories for Single View 3D Reconstruction
+conf:3dim:WeberMKAZKR26,2026,Fillerbuster: Unified Generative Scene Completion Model for Casual Captures.,not_found,0.9197,
+conf:3dim:WeberPMWEK26,2026,Toon3d: Seeing Cartoons From New Perspectives.,title_exact,0.99,Toon3D: Seeing Cartoons from New Perspectives
+conf:3dim:WehrbeinR26,2026,Improving 3D Foot Motion Reconstruction in Markerless Monocular Human Motion Capture.,title_exact,0.99,Improving 3D Foot Motion Reconstruction in Markerless Monocular Human Motion Capture
+conf:3dim:WeiLS26,2026,GSFix3D: Diffusion-Guided Repair of Novel Views in Gaussian Splatting.,title_exact,0.99,GSFix3D: Diffusion-Guided Repair of Novel Views in Gaussian Splatting
+conf:3dim:WeissbergWRAB26,2026,Symmetry Informative and Agnostic Feature Disentanglement for 3D Shapes.,title_exact,0.99,Symmetry Informative and Agnostic Feature Disentanglement for 3D Shapes
+conf:3dim:WuPGM26,2026,Reconstructing Hand-Held Objects in 3D from Images and Videos.,title_exact,0.99,Reconstructing Hand-Held Objects in 3D from Images and Videos
+conf:3dim:WuWLP26,2026,Reflect3r: Single-View 3D Stereo Reconstruction Aided by Mirror Reflections.,title_exact,0.99,Reflect3r: Single-View 3D Stereo Reconstruction Aided by Mirror Reflections
+conf:3dim:XueZLXM26,2026,NVC-GS: Monocular Dynamic Scene Reconstruction via Normal-Regularized and Multi-View-Consistent 3D Gaussian Splatting.,title_exact,0.99,NVC-GS: Monocular Dynamic Scene Reconstruction via Normal-Regularized and Multi-View-Consistent 3D Gaussian Splatting
+conf:3dim:XuLVR26,2026,Dense Motion Captioning.,title_exact,0.99,Dense Motion Captioning
+conf:3dim:YangZLSXFL26,2026,Unlocking the Video Prior for High-Fidelity Sparse Multi-View Image Synthesis.,title_exact,0.99,Unlocking the Video Prior for High Fidelity Sparse Multi-View Image Synthesis
+conf:3dim:YanLHL26,2026,1000FPS+ Novel View Synthesis from End-To-End Opaque Triangle Optimization.,title_exact,0.99,1000FPS+ Novel View Synthesis from End-to-End Opaque Triangle Optimization
+conf:3dim:YaoGCWC26,2026,Open Vocabulary Monocular 3D Object Detection.,title_exact,0.99,Open Vocabulary Monocular 3D Object Detection
+conf:3dim:YeFTFTB26,2026,Predicting 4D Hand Trajectory from Monocular Videos.,title_exact,0.99,Predicting 4D Hand Trajectory from Monocular Videos
+conf:3dim:YounesB26,2026,TextureSplat: Per-Primitive Texture Mapping for Reflective Gaussian Splatting.,title_exact,0.99,TextureSplat: Per-Primitive Texture Mapping for Reflective Gaussian Splatting
+conf:3dim:YounisKC26,2026,SplatFusion: Training-Free 3D Scene Completion From Sparse Views Using Temporal Diffusion Priors and Gaussian Splatting.,title_exact,0.99,SplatFusion: Training-Free 3D Scene Completion from Sparse Views Using Temporal Diffusion Priors and Gaussian Splatting
+conf:3dim:YousafAAMO26,2026,Towards Enhanced Sparse-View Tomographic Reconstruction Using 3D Gaussian Splatting.,title_exact,0.99,Towards Enhanced Sparse-View Tomographic Reconstruction Using 3D Gaussian Splatting
+conf:3dim:YuGXWZC26,2026,Recovering 3D Shapes from Ultra-Fast Motion-Blurred Images.,title_exact,0.99,Recovering 3D Shapes from Ultra-Fast Motion-Blurred Images
+conf:3dim:YuZCXFNA26,2026,SocialGen: Modeling Multi-Human Social Interaction with Language Models.,title_exact,0.99,SocialGen: Modeling Multi-Human Social Interaction with Language Models
+conf:3dim:ZengSCW26,2026,GMT: Goal-Conditioned Multimodal Transformer for 6-DOF Object Trajectory Synthesis in 3D Scenes.,title_exact,0.99,GMT: Goal-Conditioned Multimodal Transformer for 6-DOF Object Trajectory Synthesis in 3D Scenes
+conf:3dim:ZhaiWLJZWJGW26,2026,CropCraft: Complete Structural Characterization of Crop Plants from Images.,title_exact,0.99,CropCraft: Complete Structural Characterization of Crop Plants from Images
+conf:3dim:ZhangBVL26,2026,InterPose: Learning to Generate Human-Object Interactions from Large-Scale Web Videos.,title_exact,0.99,InterPose: Learning to Generate Human-Object Interactions from Large-Scale Web Videos
+conf:3dim:ZhangCLW26,2026,HDEdit: Editing Videos and 3D Scenes with Video Diffusion Through Hierarchical Task Decomposition.,title_exact,0.99,HDEdit: Editing Videos and 3D Scenes with Video Diffusion Through Hierarchical Task Decomposition
+conf:3dim:ZhangQWC26,2026,ViSTA-SLAM: Visual SLAM with Symmetric Two-View Association.,title_exact,0.99,ViSTA-SLAM: Visual SLAM with Symmetric Two-view Association
+conf:3dim:ZhangSGZPP26,2026,SCENIC: Scene-Aware Semantic Navigation with Instruction-Guided Control.,title_exact,0.99,SCENIC: Scene-aware Semantic Navigation with Instruction-guided Control
+conf:3dim:ZhangVPL26,2026,PAPR Up-Close: Close-Up Neural Point Rendering Without Holes.,title_exact,0.99,PAPR Up-close: Close-up Neural Point Rendering without Holes
+conf:3dim:ZhangZHLYLC26,2026,X-LRM: X-Ray Large Reconstruction Model for Extremely Sparse-View Computed Tomography Recovery in One Second.,title_exact,0.99,X-LRM: X-ray Large Reconstruction Model for Extremely Sparse-View Computed Tomography Recovery in One Second
+conf:3dim:ZhouFLWCZ26,2026,MonoSISTR: Monocular 3D Object Detection via Staged Iterative Structure and Target Refinement.,title_exact,0.99,MonoSISTR: Monocular 3D Object Detection via Staged Iterative Structure and Target Refinement
+conf:3dim:ZhouL26,2026,Laplace-Beltrami Operator for Gaussian Splatting.,title_exact,0.99,Laplace-Beltrami Operator for Gaussian Splatting
+conf:3dim:ZhouMHLZ26,2026,Uncertainty-Aware 3D Edge Reconstruction with Difference of Gaussians.,title_exact,0.99,Uncertainty-aware 3D Edge Reconstruction with Difference of Gaussians
+conf:3dim:ZhouNZCH26,2026,3D Scene Change Modeling With Consistent Multi-View Aggregation.,title_exact,0.99,3D Scene Change Modeling with Consistent Multi-View Aggregation
+conf:3dim:ZhouSMWBLL26,2026,FreeFix: Boosting 3D Gaussian Splatting via Fine-Tuning-Free Diffusion Models.,title_exact,0.99,FreeFix: Boosting 3D Gaussian Splatting via Fine-Tuning-Free Diffusion Models
+conf:3dim:ZhuAMLC26,2026,Marginalized Bundle Adjustment: Multi-View Camera Pose from Monocular Depth Estimates.,title_exact,0.99,Marginalized Bundle Adjustment: Multi-View Camera Pose from Monocular Depth Estimates
+conf:3dim:ZhuCWZT26,2026,KaoLRM: Repurposing Pre-Trained Large Reconstruction Models for Parametric 3D Face Reconstruction.,title_exact,0.99,KaoLRM: Repurposing Pre-trained Large Reconstruction Models for Parametric 3D Face Reconstruction
+conf:3dim:ZubekhinZGBHT26,2026,GIGA: Generalizable Sparse Image-Driven Gaussian Humans.,title_exact,0.99,GIGA: Generalizable Sparse Image-driven Gaussian Humans

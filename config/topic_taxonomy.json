@@ -1,0 +1,1188 @@
+{
+  "version": "0.3",
+  "released_at": "2026-08-27",
+  "design": {
+    "principle": "One dominant research problem per paper, with zero to two secondary topics only when they are substantive contributions rather than incidental data, methods, or evaluation settings.",
+    "primary_category_count": 17,
+    "supergroup_count": 4,
+    "chart_recommendation": "Use short_label for readable historical bar charts; count primary topics for a mutually exclusive distribution and use secondary topics for overlap analyses.",
+    "manual_review_rule": "Read the full title and abstract. Choose the category that best describes the paper’s central research output; assign at most two secondary categories for genuine additional tasks or contributions.",
+    "source_alignment": "Adapted for the evolving 3DV corpus from recurring 3DV/CVPR research areas, with representation learning separated from geometry processing."
+  },
+  "supergroups": [
+    {
+      "id": "capture_geometry",
+      "label": "Capture & Geometry",
+      "display_order": 1,
+      "description": "How 3D measurements, camera geometry, correspondences, maps, and reconstructed geometry are obtained."
+    },
+    {
+      "id": "representation_understanding",
+      "label": "Representation & Understanding",
+      "display_order": 2,
+      "description": "How 3D data is represented, analyzed, recognized, segmented, and understood over objects, scenes, people, and time."
+    },
+    {
+      "id": "synthesis_interaction",
+      "label": "Synthesis & Interaction",
+      "display_order": 3,
+      "description": "How 3D content is rendered, generated, edited, or used by embodied and interactive systems."
+    },
+    {
+      "id": "resources_applications",
+      "label": "Resources & Applied Systems",
+      "display_order": 4,
+      "description": "Datasets, evaluation resources, AR/VR/HCI, and application-led 3D systems."
+    }
+  ],
+  "primary_topics": [
+    {
+      "id": "sensing_acquisition_calibration",
+      "label": "Sensing, Acquisition & Calibration",
+      "short_label": "Sensing & Calibration",
+      "supergroup": "capture_geometry",
+      "display_order": 1,
+      "central_problem": "Acquire reliable 3D measurements and determine the sensing system parameters needed to interpret them correctly.",
+      "description": "3D cameras and scanners, active/passive sensing, event and radar acquisition, capture hardware, intrinsic/extrinsic or sensor calibration, metrology, and measurement quality.",
+      "strong_patterns": [
+        "3d sensor",
+        "depth sensor",
+        "camera calibration",
+        "sensor calibration",
+        "multi-sensor calibration",
+        "structured light",
+        "time of flight",
+        "tof sensor",
+        "lidar sensor",
+        "laser scanner",
+        "3d scanner",
+        "event camera",
+        "radar sensing",
+        "capture system",
+        "imaging system",
+        "adaptive lidar",
+        "metrology",
+        "acquisition system"
+      ],
+      "patterns": [
+        "sensor",
+        "sensing",
+        "acquisition",
+        "capture",
+        "calibration",
+        "scanner",
+        "scanning",
+        "lidar",
+        "time-of-flight",
+        "tof",
+        "structured-light",
+        "event-based sensing",
+        "radar",
+        "camera model",
+        "imaging device",
+        "measurement system",
+        "range camera"
+      ],
+      "negative_patterns": [
+        "depth estimation",
+        "stereo matching",
+        "structure from motion",
+        "slam"
+      ]
+    },
+    {
+      "id": "depth_stereo_shape_from_x",
+      "label": "Depth, Stereo & Shape-from-X",
+      "short_label": "Depth & Stereo",
+      "supergroup": "capture_geometry",
+      "display_order": 2,
+      "central_problem": "Infer depth, disparity, normals, or local shape from visual or physical cues without making persistent localization or full model construction the main task.",
+      "description": "Monocular, stereo, multi-view-stereo, RGB-D completion, photometric, shading, defocus, polarization, reflection, and related methods for depth, disparity, normal, or shape estimation.",
+      "strong_patterns": [
+        "depth estimation",
+        "monocular depth",
+        "stereo matching",
+        "multi-view stereo",
+        "multiview stereo",
+        "mvs",
+        "dense matching",
+        "depth completion",
+        "depth prediction",
+        "surface normal estimation",
+        "shape from shading",
+        "shape-from-shading",
+        "shape from defocus",
+        "shape-from-defocus",
+        "photometric stereo",
+        "disparity estimation",
+        "depth propagation"
+      ],
+      "patterns": [
+        "depth",
+        "stereo",
+        "disparity",
+        "shape from",
+        "shape-from",
+        "surface normal",
+        "dense correspondence",
+        "plane sweeping",
+        "plane-sweeping",
+        "defocus",
+        "shading",
+        "polarization",
+        "normal prediction",
+        "inverse depth"
+      ],
+      "negative_patterns": [
+        "slam",
+        "localization",
+        "registration",
+        "dataset"
+      ]
+    },
+    {
+      "id": "multiview_geometry_sfm_photogrammetry",
+      "label": "Multi-view Geometry, SfM & Photogrammetry",
+      "short_label": "Multi-view Geometry & SfM",
+      "supergroup": "capture_geometry",
+      "display_order": 3,
+      "central_problem": "Recover camera geometry and scene structure across views through geometric constraints, global estimation, SfM, bundle adjustment, or photogrammetric reasoning.",
+      "description": "Epipolar and multi-view geometry, relative/absolute/generalized pose solvers, triangulation, rotation or translation averaging, structure from motion, bundle adjustment, and photogrammetry.",
+      "strong_patterns": [
+        "structure from motion",
+        "structure-from-motion",
+        "sfm",
+        "bundle adjustment",
+        "photogrammetry",
+        "multi-view geometry",
+        "multiview geometry",
+        "relative pose",
+        "absolute pose",
+        "camera pose estimation",
+        "resectioning",
+        "triangulation",
+        "epipolar geometry",
+        "essential matrix",
+        "fundamental matrix",
+        "generalized pose",
+        "geometric solver",
+        "rotation averaging",
+        "translation averaging"
+      ],
+      "patterns": [
+        "camera pose",
+        "view geometry",
+        "reprojection",
+        "resection",
+        "triangulate",
+        "camera motion",
+        "pose-and-scale",
+        "pose and scale",
+        "homography",
+        "two-view geometry",
+        "multi-camera geometry"
+      ],
+      "negative_patterns": [
+        "slam",
+        "relocalization",
+        "loop closure",
+        "point cloud registration",
+        "shape correspondence"
+      ]
+    },
+    {
+      "id": "registration_correspondence_matching",
+      "label": "Registration, Correspondence & Shape Matching",
+      "short_label": "Registration & Correspondence",
+      "supergroup": "capture_geometry",
+      "display_order": 4,
+      "central_problem": "Establish correspondences or align already observed images, point sets, surfaces, meshes, or shapes rather than reconstruct camera trajectories or scene geometry as the main output.",
+      "description": "Rigid and non-rigid registration, local/global feature matching, keypoints and descriptors for matching, point or surface correspondence, shape matching, canonicalization, and model-to-observation alignment.",
+      "strong_patterns": [
+        "point cloud registration",
+        "point set registration",
+        "3d registration",
+        "shape correspondence",
+        "dense correspondence",
+        "shape matching",
+        "point matching",
+        "rigid registration",
+        "non-rigid registration",
+        "nonrigid registration",
+        "iterative closest point",
+        "icp",
+        "graph matching",
+        "feature matching",
+        "keypoint matching",
+        "model alignment"
+      ],
+      "patterns": [
+        "registration",
+        "correspondence",
+        "matching",
+        "alignment",
+        "aligning",
+        "inlier points",
+        "local feature matches",
+        "descriptor matching",
+        "keypoint",
+        "canonicalization"
+      ],
+      "negative_patterns": [
+        "stereo matching",
+        "semantic correspondence",
+        "image retrieval",
+        "visual localization"
+      ]
+    },
+    {
+      "id": "slam_localization_mapping",
+      "label": "SLAM, Localization & Mapping",
+      "short_label": "SLAM & Mapping",
+      "supergroup": "capture_geometry",
+      "display_order": 5,
+      "central_problem": "Estimate a sensor or agent pose over time and construct, maintain, recognize, or query a map for localization.",
+      "description": "Visual/LiDAR/radar/inertial odometry, SLAM, online or long-term mapping, relocalization, place recognition, loop closure, map-based localization, and localization-oriented sensor fusion.",
+      "strong_patterns": [
+        "slam",
+        "simultaneous localization and mapping",
+        "visual localization",
+        "relocalization",
+        "visual odometry",
+        "lidar odometry",
+        "radar odometry",
+        "odometry",
+        "place recognition",
+        "loop closure",
+        "visual-inertial",
+        "visual inertial",
+        "vio",
+        "sensor fusion",
+        "continuous-time slam",
+        "mapping system",
+        "map-based localization"
+      ],
+      "patterns": [
+        "localization",
+        "localisation",
+        "mapping",
+        "map-based",
+        "map based",
+        "ego-motion",
+        "egomotion",
+        "trajectory estimation",
+        "long-term localization",
+        "scene localization",
+        "camera relocalization"
+      ],
+      "negative_patterns": [
+        "object pose estimation",
+        "pose estimation of objects",
+        "shape correspondence",
+        "semantic mapping only"
+      ]
+    },
+    {
+      "id": "reconstruction_fusion_modeling",
+      "label": "Reconstruction, Fusion & Geometric Modeling",
+      "short_label": "Reconstruction & Fusion",
+      "supergroup": "capture_geometry",
+      "display_order": 6,
+      "central_problem": "Recover an explicit or implicit 3D object or scene model from measurements, including fusion, meshing, and geometric model construction.",
+      "description": "Single-/multi-view, RGB-D, event, tomographic, neural or Gaussian reconstruction; surface and volumetric fusion; meshing; geometric modeling; and scene completion when recovery of geometry is the main task.",
+      "strong_patterns": [
+        "3d reconstruction",
+        "scene reconstruction",
+        "shape reconstruction",
+        "surface reconstruction",
+        "object reconstruction",
+        "mesh reconstruction",
+        "single-view reconstruction",
+        "single view reconstruction",
+        "multi-view reconstruction",
+        "multiview reconstruction",
+        "volumetric fusion",
+        "surface fusion",
+        "geometric modeling",
+        "geometric modelling",
+        "implicit surface reconstruction",
+        "point cloud reconstruction",
+        "3d modeling",
+        "3d modelling",
+        "tomographic reconstruction"
+      ],
+      "patterns": [
+        "reconstruction",
+        "reconstructing",
+        "fusion",
+        "meshing",
+        "geometric model",
+        "surface model",
+        "shape recovery",
+        "geometry recovery",
+        "modeling",
+        "modelling",
+        "mesh generation",
+        "scene completion",
+        "geometry enhancement"
+      ],
+      "negative_patterns": [
+        "novel view synthesis only",
+        "image synthesis only",
+        "object detection"
+      ]
+    },
+    {
+      "id": "representations_features",
+      "label": "3D Representations & Embeddings",
+      "short_label": "3D Representations & Embeddings",
+      "supergroup": "representation_understanding",
+      "display_order": 7,
+      "central_problem": "Design general 3D encodings, descriptors, feature fields, backbones, or learned representations that can support multiple downstream tasks.",
+      "description": "Task-general point, voxel, mesh, implicit, Gaussian or hybrid representations; learned backbones; local/global descriptors; invariant/equivariant features; embeddings; compact encoding; and 3D compression.",
+      "strong_patterns": [
+        "shape representation",
+        "3d representation",
+        "representation learning",
+        "point cloud representation",
+        "shape descriptor",
+        "3d descriptor",
+        "local descriptor",
+        "point convolution",
+        "point cloud compression",
+        "3d compression",
+        "mesh compression",
+        "shape embedding",
+        "feature backbone",
+        "equivariant representation",
+        "rotation-invariant representation",
+        "rotation invariant representation",
+        "multi-resolution representation",
+        "multiresolution representation",
+        "feature field"
+      ],
+      "patterns": [
+        "representation",
+        "descriptor",
+        "embedding",
+        "feature extraction",
+        "point network",
+        "point convolution",
+        "compression",
+        "transmission",
+        "encoding",
+        "backbone",
+        "equivariant",
+        "invariant feature",
+        "shape feature",
+        "pretraining",
+        "feature learning"
+      ],
+      "negative_patterns": [
+        "object detection as central task",
+        "semantic segmentation as central task",
+        "shape retrieval as central task",
+        "scene reconstruction as central task",
+        "remeshing"
+      ]
+    },
+    {
+      "id": "geometry_shape_processing",
+      "label": "Geometry & Shape Processing",
+      "short_label": "Geometry Processing",
+      "supergroup": "representation_understanding",
+      "display_order": 8,
+      "central_problem": "Analyze, regularize, transform, or improve already available geometry rather than infer it from sensor observations.",
+      "description": "Point/mesh denoising and filtering, resampling, remeshing, simplification, fairing, fitting, parameterization, topology, spectral geometry, geometric operators, static deformation, and shape-quality processing.",
+      "strong_patterns": [
+        "geometry processing",
+        "geometric processing",
+        "mesh denoising",
+        "point cloud denoising",
+        "mesh filtering",
+        "point cloud filtering",
+        "remeshing",
+        "mesh simplification",
+        "surface fairing",
+        "surface fitting",
+        "mesh parameterization",
+        "mesh parametrization",
+        "spectral geometry",
+        "geometric operator",
+        "topology optimization"
+      ],
+      "patterns": [
+        "denoising",
+        "filtering",
+        "resampling",
+        "remeshing",
+        "simplification",
+        "fairness",
+        "fairing",
+        "parameterization",
+        "parametrization",
+        "topology",
+        "manifold",
+        "spectral",
+        "curvature",
+        "surface fitting",
+        "mesh deformation",
+        "shape processing",
+        "mesh quality"
+      ],
+      "negative_patterns": [
+        "depth estimation",
+        "surface reconstruction from images",
+        "object detection",
+        "semantic segmentation",
+        "dynamic reconstruction"
+      ]
+    },
+    {
+      "id": "recognition_detection_retrieval",
+      "label": "Recognition, Detection & Retrieval",
+      "short_label": "Recognition & Detection",
+      "supergroup": "representation_understanding",
+      "display_order": 9,
+      "central_problem": "Identify, categorize, retrieve, detect, or estimate the spatial pose of objects or shapes in 3D data.",
+      "description": "Object/shape classification and recognition, 3D object detection, retrieval, identification, authentication, keypoint/landmark detection when object understanding is central, and category- or instance-level object pose estimation.",
+      "strong_patterns": [
+        "3d object detection",
+        "object detection",
+        "shape recognition",
+        "object recognition",
+        "shape classification",
+        "point cloud classification",
+        "3d classification",
+        "shape retrieval",
+        "3d retrieval",
+        "object retrieval",
+        "face authentication",
+        "category-level pose estimation",
+        "6d object pose",
+        "object pose estimation"
+      ],
+      "patterns": [
+        "detection",
+        "recognition",
+        "classification",
+        "retrieval",
+        "identification",
+        "authentication",
+        "category-level recognition",
+        "category level recognition",
+        "object pose",
+        "pose estimation"
+      ],
+      "negative_patterns": [
+        "segmentation",
+        "tracking",
+        "human pose estimation",
+        "place recognition",
+        "camera pose estimation"
+      ]
+    },
+    {
+      "id": "segmentation_scene_understanding",
+      "label": "Segmentation & Scene Understanding",
+      "short_label": "Segmentation & Scene Understanding",
+      "supergroup": "representation_understanding",
+      "display_order": 10,
+      "central_problem": "Assign semantic or instance structure to 3D data and reason about scene contents, layout, relations, language, occupancy, or change.",
+      "description": "Semantic, instance, panoptic, part, and object segmentation; open-vocabulary grounding; scene parsing, graphs, captions and relations; semantic scene completion; occupancy; affordances; change understanding; and high-level 3D scene understanding.",
+      "strong_patterns": [
+        "semantic segmentation",
+        "instance segmentation",
+        "panoptic segmentation",
+        "3d segmentation",
+        "point cloud segmentation",
+        "scene understanding",
+        "scene parsing",
+        "semantic scene completion",
+        "semantic completion",
+        "part segmentation",
+        "object segmentation",
+        "occupancy prediction",
+        "semantic mapping",
+        "scene graph",
+        "open-vocabulary segmentation",
+        "3d captioning",
+        "scene change detection"
+      ],
+      "patterns": [
+        "segmentation",
+        "semantic",
+        "panoptic",
+        "scene understanding",
+        "scene analysis",
+        "scene parsing",
+        "labeling",
+        "labelling",
+        "occupancy",
+        "scene graph",
+        "part parsing",
+        "object-level segmentation",
+        "language grounding",
+        "captioning",
+        "affordance",
+        "change detection"
+      ],
+      "negative_patterns": [
+        "human segmentation as avatar reconstruction",
+        "motion segmentation only",
+        "dataset"
+      ]
+    },
+    {
+      "id": "humans_faces_hands_avatars",
+      "label": "Humans, Faces, Hands & Avatars",
+      "short_label": "Humans & Avatars",
+      "supergroup": "representation_understanding",
+      "display_order": 11,
+      "central_problem": "Recover, model, recognize, synthesize, or animate human bodies, faces, heads, hands, garments, or avatars using human-specific structure.",
+      "description": "Human body/face/head/hand pose and shape, facial analysis, gesture, garment and clothing capture, digital humans, avatars, human-object interaction reconstruction, and human-specific generative or rendering models.",
+      "strong_patterns": [
+        "3d human",
+        "human body",
+        "human pose",
+        "body pose",
+        "face model",
+        "facial model",
+        "3d face",
+        "hand pose",
+        "3d hand",
+        "neural avatar",
+        "human avatar",
+        "digital human",
+        "gesture recognition",
+        "garment reconstruction",
+        "clothing capture",
+        "virtual try-on",
+        "virtual try on",
+        "smpl",
+        "morphable face model",
+        "morphable body model",
+        "talking head"
+      ],
+      "patterns": [
+        "human",
+        "person",
+        "body",
+        "face",
+        "facial",
+        "head",
+        "hand",
+        "gesture",
+        "avatar",
+        "garment",
+        "clothing",
+        "cloth",
+        "skeleton",
+        "pose estimation",
+        "body model",
+        "digital wardrobe",
+        "gaze"
+      ],
+      "negative_patterns": [
+        "robot arm",
+        "robot hand",
+        "human-computer interaction without human modeling"
+      ]
+    },
+    {
+      "id": "motion_tracking_dynamic_4d",
+      "label": "Motion, Tracking & Dynamic/4D Vision",
+      "short_label": "Motion & 4D",
+      "supergroup": "representation_understanding",
+      "display_order": 12,
+      "central_problem": "Estimate, represent, reconstruct, predict, or generate temporal change, trajectories, deformation, tracking, or dynamic 3D/4D content.",
+      "description": "Object/camera/body tracking, scene flow, motion estimation and synthesis, temporal correspondence, dynamic or non-rigid reconstruction, 4D representations, deformation, and time-varying scenes or shapes.",
+      "strong_patterns": [
+        "4d reconstruction",
+        "4d scene",
+        "4d segmentation",
+        "dynamic scene",
+        "dynamic reconstruction",
+        "dynamic 3d",
+        "scene flow",
+        "3d tracking",
+        "object tracking",
+        "camera tracking",
+        "motion capture",
+        "motion tracking",
+        "motion synthesis",
+        "motion generation",
+        "non-rigid motion",
+        "nonrigid motion",
+        "non-rigid reconstruction",
+        "nonrigid reconstruction",
+        "temporal reconstruction"
+      ],
+      "patterns": [
+        "tracking",
+        "motion",
+        "dynamic",
+        "4d",
+        "temporal",
+        "scene flow",
+        "trajectory",
+        "non-rigid",
+        "nonrigid",
+        "deformation",
+        "deformable",
+        "moving object",
+        "mocap",
+        "animation"
+      ],
+      "negative_patterns": [
+        "static human pose",
+        "gesture recognition",
+        "visual odometry"
+      ]
+    },
+    {
+      "id": "rendering_novel_views_appearance",
+      "label": "Rendering, Novel Views & Appearance",
+      "short_label": "Rendering & Novel Views",
+      "supergroup": "synthesis_interaction",
+      "display_order": 13,
+      "central_problem": "Produce images, views, lighting, texture, or appearance from a 3D scene representation or estimate appearance properties for rendering.",
+      "description": "Neural and image-based rendering, novel-view synthesis, radiance fields and Gaussian splatting when image synthesis is central, relighting, texture mapping, reflectance/material/illumination modeling, inverse rendering, and appearance editing.",
+      "strong_patterns": [
+        "neural rendering",
+        "novel view synthesis",
+        "novel-view synthesis",
+        "view synthesis",
+        "image-based rendering",
+        "image based rendering",
+        "inverse rendering",
+        "relighting",
+        "appearance modeling",
+        "appearance modelling",
+        "reflectance estimation",
+        "material estimation",
+        "radiance field",
+        "light field",
+        "surface light field",
+        "neural radiance field",
+        "nerf",
+        "gaussian splatting rendering"
+      ],
+      "patterns": [
+        "rendering",
+        "renderer",
+        "render",
+        "novel view",
+        "relighting",
+        "appearance",
+        "reflectance",
+        "material",
+        "radiance",
+        "light field",
+        "view interpolation",
+        "image formation",
+        "texture mapping",
+        "illumination"
+      ],
+      "negative_patterns": [
+        "3d generation as central task",
+        "shape generation",
+        "object detection"
+      ]
+    },
+    {
+      "id": "generation_completion_editing",
+      "label": "Generation, Completion & Editing",
+      "short_label": "Generation & Completion",
+      "supergroup": "synthesis_interaction",
+      "display_order": 14,
+      "central_problem": "Create, complete, synthesize, assemble, inpaint, or edit 3D objects, scenes, layouts, or temporally coherent 3D content.",
+      "description": "Generative 3D models, text/image-conditioned 3D creation, shape/scene/point completion, scene synthesis, controllable generation, assembly, inpainting, geometry enhancement, and 3D editing.",
+      "strong_patterns": [
+        "3d generation",
+        "shape generation",
+        "scene generation",
+        "text-to-3d",
+        "text to 3d",
+        "shape completion",
+        "point cloud completion",
+        "scene completion",
+        "3d completion",
+        "shape editing",
+        "scene editing",
+        "3d editing",
+        "generative model",
+        "shape synthesis",
+        "component assembly",
+        "3d synthesis",
+        "content creation",
+        "layout generation"
+      ],
+      "patterns": [
+        "generation",
+        "generative",
+        "completion",
+        "editing",
+        "synthesis",
+        "inpainting",
+        "assembly",
+        "diffusion",
+        "gan",
+        "vae",
+        "autoencoder",
+        "content creation",
+        "enhancement"
+      ],
+      "negative_patterns": [
+        "novel view synthesis only",
+        "rendering only",
+        "semantic scene completion"
+      ]
+    },
+    {
+      "id": "robotics_embodied_interaction",
+      "label": "Robotics, Embodied Vision & Interaction",
+      "short_label": "Robotics & Embodied Vision",
+      "supergroup": "synthesis_interaction",
+      "display_order": 15,
+      "central_problem": "Use 3D perception and modeling to choose or execute actions in the physical world through navigation, manipulation, grasping, embodied agents, or active perception.",
+      "description": "Robot perception and modeling, manipulation and grasping, navigation, embodied agents, action and trajectory generation, active perception, physical interaction, and real-to-sim/sim-to-real 3D systems.",
+      "strong_patterns": [
+        "robot perception",
+        "robot modeling",
+        "robot modelling",
+        "robot manipulation",
+        "robot grasping",
+        "robot navigation",
+        "embodied vision",
+        "embodied ai",
+        "active perception",
+        "active agent",
+        "sim-to-real",
+        "sim to real",
+        "real-to-sim",
+        "real to sim",
+        "robot body",
+        "robot articulation",
+        "image goal navigation",
+        "semantic navigation"
+      ],
+      "patterns": [
+        "robot",
+        "robotic",
+        "robotics",
+        "manipulation",
+        "grasp",
+        "embodied",
+        "navigation",
+        "action",
+        "active vision",
+        "physical interaction",
+        "articulation",
+        "kinematic",
+        "control"
+      ],
+      "negative_patterns": [
+        "human grasp",
+        "human interaction without an embodied agent",
+        "virtual reality"
+      ]
+    },
+    {
+      "id": "datasets_benchmarks_evaluation",
+      "label": "Datasets, Benchmarks & Evaluation",
+      "short_label": "Datasets & Benchmarks",
+      "supergroup": "resources_applications",
+      "display_order": 16,
+      "central_problem": "Create data, annotations, benchmarks, metrics, protocols, or systematic evaluations that enable or assess 3D-vision research.",
+      "description": "Datasets, benchmarks, challenges, annotation resources, evaluation protocols and metrics, auditing studies, surveys, leaderboards, and reproducibility infrastructure; primary only when the resource or evaluation is the paper’s main contribution.",
+      "strong_patterns": [
+        "3d dataset",
+        "dataset",
+        "benchmark",
+        "benchmarking",
+        "challenge",
+        "evaluation protocol",
+        "evaluation metric",
+        "annotation dataset",
+        "data collection",
+        "database",
+        "survey",
+        "leaderboard",
+        "evaluation framework",
+        "auditing toolkit"
+      ],
+      "patterns": [
+        "dataset",
+        "benchmark",
+        "evaluation",
+        "metric",
+        "challenge",
+        "annotation",
+        "database",
+        "survey",
+        "protocol",
+        "ground truth",
+        "reproducibility",
+        "audit"
+      ],
+      "negative_patterns": [
+        "benchmark performance",
+        "evaluation on",
+        "we evaluate"
+      ]
+    },
+    {
+      "id": "ar_vr_hci_applied_systems",
+      "label": "AR/VR, HCI & Applied 3D Systems",
+      "short_label": "AR/VR & HCI",
+      "supergroup": "resources_applications",
+      "display_order": 17,
+      "central_problem": "Deliver interactive or user-facing 3D experiences and end-to-end applied systems in AR/VR/XR, HCI, telepresence, visualization, or fabrication.",
+      "description": "Augmented, virtual, and mixed reality; spatial computing; human-computer interaction; telepresence; interactive visualization; 3D displays; 3D printing/fabrication; and application-led systems whose central contribution is the end-to-end experience rather than another core 3D task.",
+      "strong_patterns": [
+        "augmented reality",
+        "virtual reality",
+        "mixed reality",
+        "extended reality",
+        "spatial computing",
+        "human-computer interaction",
+        "human computer interaction",
+        "telepresence",
+        "tele-immersion",
+        "tele immersion",
+        "3d printing",
+        "digital fabrication",
+        "interactive system",
+        "applied 3d system",
+        "prototype system",
+        "immersive visualization"
+      ],
+      "patterns": [
+        "ar/vr",
+        "xr",
+        "interaction",
+        "interactive",
+        "hci",
+        "application system",
+        "visualization system",
+        "visualisation system",
+        "3d display",
+        "rapid prototyping",
+        "fabrication",
+        "teleoperation",
+        "immersive"
+      ],
+      "negative_patterns": [
+        "robot interaction",
+        "object interaction",
+        "interaction field"
+      ]
+    }
+  ],
+  "method_tags": [
+    {
+      "id": "classical_geometry_optimization",
+      "label": "Classical Geometry & Optimization",
+      "patterns": [
+        "optimization",
+        "optimisation",
+        "energy minimization",
+        "bundle adjustment",
+        "graph cut",
+        "markov random field",
+        "mrf",
+        "ransac",
+        "icp",
+        "variational",
+        "geometric prior"
+      ]
+    },
+    {
+      "id": "deep_learning",
+      "label": "Deep Learning",
+      "patterns": [
+        "deep learning",
+        "neural network",
+        "convolutional",
+        "cnn",
+        "learned",
+        "end-to-end",
+        "end to end"
+      ]
+    },
+    {
+      "id": "transformers_attention",
+      "label": "Transformers & Attention",
+      "patterns": [
+        "transformer",
+        "attention",
+        "self-attention",
+        "cross-attention"
+      ]
+    },
+    {
+      "id": "point_clouds",
+      "label": "Point Clouds",
+      "patterns": [
+        "point cloud",
+        "point-cloud",
+        "point set",
+        "point-based"
+      ]
+    },
+    {
+      "id": "rgbd_depth",
+      "label": "RGB-D & Depth",
+      "patterns": [
+        "rgb-d",
+        "rgbd",
+        "depth map",
+        "depth image",
+        "depth sensor"
+      ]
+    },
+    {
+      "id": "multiview_stereo",
+      "label": "Multi-view & Stereo",
+      "patterns": [
+        "multi-view",
+        "multiview",
+        "stereo",
+        "structure from motion",
+        "sfm",
+        "mvs"
+      ]
+    },
+    {
+      "id": "voxels_volumes",
+      "label": "Voxels & Volumes",
+      "patterns": [
+        "voxel",
+        "volumetric",
+        "volume"
+      ]
+    },
+    {
+      "id": "meshes",
+      "label": "Meshes",
+      "patterns": [
+        "mesh",
+        "meshing",
+        "triangular surface"
+      ]
+    },
+    {
+      "id": "implicit_sdf_occupancy",
+      "label": "Implicit, SDF & Occupancy",
+      "patterns": [
+        "implicit representation",
+        "implicit surface",
+        "signed distance",
+        "sdf",
+        "occupancy network",
+        "occupancy field",
+        "level set"
+      ]
+    },
+    {
+      "id": "neural_fields_nerf",
+      "label": "Neural Fields & NeRF",
+      "patterns": [
+        "neural field",
+        "radiance field",
+        "nerf",
+        "neural implicit"
+      ]
+    },
+    {
+      "id": "gaussian_splatting",
+      "label": "Gaussian Splatting",
+      "patterns": [
+        "gaussian splatting",
+        "3d gaussian",
+        "gaussian field",
+        "gaussian primitive",
+        "gaussian avatar",
+        "gaussian scene",
+        "gaussian representation"
+      ]
+    },
+    {
+      "id": "diffusion_generative",
+      "label": "Diffusion & Generative Models",
+      "patterns": [
+        "diffusion",
+        "generative adversarial",
+        "gan",
+        "variational autoencoder",
+        "vae",
+        "generative model",
+        "score-based"
+      ]
+    },
+    {
+      "id": "foundation_language_multimodal",
+      "label": "Foundation, Language & Multimodal",
+      "patterns": [
+        "foundation model",
+        "vision-language",
+        "language model",
+        "multimodal",
+        "multi-modal",
+        "open vocabulary",
+        "open-vocabulary",
+        "clip",
+        "large language model",
+        "llm",
+        "vision language model",
+        "vision-language model",
+        "3d language model",
+        "spatial intelligence"
+      ]
+    },
+    {
+      "id": "self_weak_unsupervised",
+      "label": "Self/Weak/Unsupervised Learning",
+      "patterns": [
+        "self-supervised",
+        "self supervised",
+        "unsupervised",
+        "weakly supervised",
+        "weak supervision",
+        "semi-supervised",
+        "contrastive learning"
+      ]
+    }
+  ],
+  "domain_tags": [
+    {
+      "id": "objects_shapes",
+      "label": "Objects & Shapes",
+      "patterns": [
+        "object",
+        "shape",
+        "cad",
+        "category-level",
+        "category level"
+      ]
+    },
+    {
+      "id": "indoor_scenes",
+      "label": "Indoor Scenes",
+      "patterns": [
+        "indoor",
+        "room",
+        "building interior",
+        "scannet",
+        "matterport"
+      ]
+    },
+    {
+      "id": "outdoor_urban_autonomous",
+      "label": "Outdoor, Urban & Autonomous",
+      "patterns": [
+        "outdoor",
+        "urban",
+        "street",
+        "city",
+        "autonomous driving",
+        "vehicle",
+        "kitti",
+        "driving scene"
+      ]
+    },
+    {
+      "id": "humans_faces_hands",
+      "label": "Humans, Faces & Hands",
+      "patterns": [
+        "human",
+        "person",
+        "body",
+        "face",
+        "facial",
+        "hand",
+        "avatar",
+        "garment",
+        "clothed"
+      ]
+    },
+    {
+      "id": "robotics_embodied",
+      "label": "Robotics & Embodied",
+      "patterns": [
+        "robot",
+        "robotic",
+        "manipulation",
+        "grasp",
+        "navigation",
+        "embodied"
+      ]
+    },
+    {
+      "id": "medical_biological",
+      "label": "Medical & Biological",
+      "patterns": [
+        "medical",
+        "clinical",
+        "surgical",
+        "organ",
+        "tumor",
+        "tumour",
+        "biological",
+        "microscopy",
+        "mri",
+        "ct scan"
+      ]
+    },
+    {
+      "id": "heritage_archaeology",
+      "label": "Cultural Heritage & Archaeology",
+      "patterns": [
+        "cultural heritage",
+        "heritage",
+        "archaeology",
+        "archaeological",
+        "museum"
+      ]
+    },
+    {
+      "id": "aerial_remote_sensing",
+      "label": "Aerial & Remote Sensing",
+      "patterns": [
+        "aerial",
+        "satellite",
+        "remote sensing",
+        "drone",
+        "uav"
+      ]
+    },
+    {
+      "id": "specialized_industrial_sports",
+      "label": "Industrial, Sports & Specialized",
+      "patterns": [
+        "industrial",
+        "manufacturing",
+        "sports",
+        "agriculture",
+        "underwater",
+        "space",
+        "inspection"
+      ]
+    },
+    {
+      "id": "xr_spatial_computing",
+      "label": "XR & Spatial Computing",
+      "patterns": [
+        "augmented reality",
+        "virtual reality",
+        "mixed reality",
+        "extended reality",
+        "spatial computing",
+        "telepresence",
+        "tele-immersion",
+        "immersive"
+      ]
+    }
+  ]
+}

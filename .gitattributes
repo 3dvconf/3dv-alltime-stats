@@ -1,0 +1,2 @@
+# CSV files use RFC 4180 CRLF records; the carriage return is part of the EOL.
+*.csv whitespace=cr-at-eol

@@ -1,0 +1,4 @@
+snapshot_date,provider,corpus_sha256,paper_count,matched_count,notes
+2026-08-25,OpenAlex,77ae3c0bbe999ac13ba81cabd5cb4c3934cb0c61679f6989e12fc55c8ff66048,1351,1350,Final post-review corpus hash; the exact-DOI Crossref fallback is recorded separately for the single OpenAlex not_found row.
+2026-08-26,Semantic Scholar,1df43a43a3d7d1c5a46b02b46fea696f4e08019ebd8d5ccef2fe459db7b71995,1351,1342,Unauthenticated exact-DOI batch audit; 400 papers/request; 2-second pause between requests; unmatched records flagged for manual review.
+2026-08-27,Google Scholar,9e2d6362e3f8164233645e14416f1f2369b0d502903f008d7cc958ec8ac2d2e6,1351,65,Direct website review of the OpenAlex top-50 / Semantic Scholar top-50 union; variable 4.3-7.9 second pauses; 63 exact-context matches and 2 human-verified variants; no API used.

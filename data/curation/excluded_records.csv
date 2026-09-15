@@ -1,0 +1,3 @@
+record_id,publication_year,paper_title,doi,dblp_key,dblp_url,exclusion_reason,exclusion_detail
+conf:3dim:HiltonKLS20,2020,Message from the 3DV 2020 Program Chairs.,10.1109/3dv50981.2020.00006,conf/3dim/HiltonKLS20,https://dblp.org/rec/conf/3dim/HiltonKLS20,administrative_record,Title and abstract identify non-research conference front matter.
+conf:3dim:DaiKLS22,2022,Message from the Program Chairs: 3DV 2022.,10.1109/3dv57658.2022.00006,conf/3dim/DaiKLS22,https://dblp.org/rec/conf/3dim/DaiKLS22,administrative_record,Title identifies non-research conference front matter.

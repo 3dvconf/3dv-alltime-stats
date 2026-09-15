@@ -1,0 +1,41 @@
+field,type,description,source_or_rule
+record_id,string,Stable internal ID derived from DBLP key or normalized title/year,DBLP/pipeline
+publication_year,integer,Conference publication year,DBLP
+edition_number,integer,3DV edition number; blank for the non-edition year 2023,Source manifest
+paper_title,string,Canonical title,DBLP
+authors,string,Semicolon-separated author names,DBLP
+author_count,integer,Number of authors,Derived
+doi,string,Normalized DOI without URL prefix,DBLP/Crossref
+pages,string,Proceedings pages,DBLP
+dblp_key,string,DBLP publication key,DBLP
+dblp_url,string,Persistent DBLP record URL,DBLP
+publisher_url,string,Publisher or DOI landing page,DBLP
+paper_type,string,Publication type,DBLP
+abstract,string,Paper abstract when available; never generated silently,Source/OpenAlex/Semantic Scholar
+source_keywords,string,Semicolon-separated source/author keywords,Supplemental source
+openalex_id,string,OpenAlex work ID,OpenAlex
+openalex_cited_by_count,integer,Citation count at the recorded snapshot,OpenAlex
+openalex_counts_by_year_json,json,Citation counts by year,OpenAlex
+openalex_topics_json,json,Automatically assigned hierarchical topics with scores,OpenAlex
+openalex_keywords_json,json,Automatically assigned keywords with scores,OpenAlex
+openalex_snapshot_date,date,Date OpenAlex metadata was retrieved,Pipeline
+openalex_match_method,string,doi_exact/title_search/ambiguous/not_found,Pipeline
+openalex_match_confidence,number,0–1 confidence in the match,Pipeline
+s2_paper_id,string,Semantic Scholar paper ID,Semantic Scholar
+s2_citation_count,integer,Citation count at the recorded snapshot,Semantic Scholar
+s2_influential_citation_count,integer,Influential citation count,Semantic Scholar
+s2_fields_of_study_json,json,Semantic Scholar fields of study,Semantic Scholar
+s2_snapshot_date,date,Date Semantic Scholar data was retrieved,Pipeline
+s2_match_status,string,doi_exact/dblp_exact/not_found status for the attempted lookup,Pipeline
+google_scholar_citation_count,integer,Citation count for the manually reviewed union of the OpenAlex top 50 and Semantic Scholar top 50,Google Scholar website snapshot
+citation_primary_source,string,Provider selected for the public ranking; recommended OpenAlex,Policy
+citation_primary_count,integer,Citation value from the selected provider,Derived
+citation_snapshot_date,date,Snapshot date for the selected citation value,Derived
+taxonomy_version,string,Research Atlas taxonomy version used for the reviewed classification,Taxonomy config/manual review
+primary_topic,string,Exactly one of the 17 stable task-oriented Atlas categories,Full-title-and-abstract expert review
+primary_topic_group,string,One of four macro groups used to organize the 17 Atlas categories,Taxonomy config
+secondary_topics,string,"Zero to two substantive additional Atlas categories; incidental inputs, methods, or evaluation settings are excluded",Full-title-and-abstract expert review
+method_tags,string,Multi-label representations and methods,Classifier/manual review
+domain_tags,string,Multi-label subjects/application domains,Classifier/manual review
+source_provenance,string,Semicolon-separated sources used for the row,Pipeline
+manual_notes,string,Curator notes for non-taxonomy metadata exceptions,Manual

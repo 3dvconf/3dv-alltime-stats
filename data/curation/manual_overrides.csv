@@ -1,0 +1,5 @@
+record_id,field,new_value,reason,reviewer,reviewed_at
+conf:3dim:OberwegerSS26,citation_primary_source,Crossref,OpenAlex not_found; exact DOI manually verified,Codex,2026-08-25
+conf:3dim:OberwegerSS26,citation_primary_count,1,Crossref is-referenced-by-count for the exact DOI,Codex,2026-08-25
+conf:3dim:OberwegerSS26,citation_snapshot_date,2026-08-25,Manual fallback citation snapshot,Codex,2026-08-25
+conf:3dim:OberwegerSS26,manual_notes,OpenAlex work not found on 2026-08-25. Exact DOI manually verified with Crossref title match and is-referenced-by-count=1. Google Scholar PI3DETR search returned no indexed articles. Official 3DV accepted-paper page plus arXiv:2509.03262 and OpenReview:N8DB2jDHJi verified identity.,Manual review of the OpenAlex gap,Codex,2026-08-25

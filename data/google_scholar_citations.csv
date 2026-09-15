@@ -1,0 +1,66 @@
+record_id,paper_title,publication_year,google_scholar_citation_count,snapshot_date,match_method
+conf:3dim:MilletariNA16,V-Net: Fully Convolutional Neural Networks for Volumetric Medical Image Segmentation.,2016,16570,2026-08-27,matched_exact_context
+conf:3dim:ChangDFHNSSZZ17,Matterport3D: Learning from RGB-D Data in Indoor Environments.,2017,3253,2026-08-27,matched_exact_context
+conf:3dim:LainaRBTN16,Deeper Depth Prediction with Fully Convolutional Residual Networks.,2016,2783,2026-08-27,matched_exact_context
+conf:3dim:Wu13,Towards Linear-Time Incremental Structure from Motion.,2013,1853,2026-08-27,matched_human_verified
+conf:3dim:MehtaRCFSXT17,Monocular 3D Human Pose Estimation in the Wild Using Improved CNN Supervision.,2017,1738,2026-08-27,matched_exact_context
+conf:3dim:YuanKHMH18,PCN: Point Completion Network.,2018,1563,2026-08-27,matched_exact_context
+conf:3dim:UhrigSSFBG17,Sparsity Invariant CNNs.,2017,1254,2026-08-27,matched_exact_context
+conf:3dim:TchapmiCAGS17,SEGCloud: Semantic Segmentation of 3D Point Clouds.,2017,1161,2026-08-27,matched_exact_context
+conf:3dim:LuitenKLR24,Dynamic 3D Gaussians: Tracking by Persistent Dynamic View Synthesis.,2024,1071,2026-08-27,matched_exact_context
+conf:3dim:LipsonTD21,RAFT-Stereo: Multilevel Recurrent Field Transforms for Stereo Matching.,2021,899,2026-08-27,matched_exact_context
+conf:3dim:Zhou0SGYDY19,IoU Loss for 2D/3D Object Detection.,2019,724,2026-08-27,matched_exact_context
+conf:3dim:OmranLPGS18,Neural Body Fitting: Unifying Deep Learning and Model Based Human Pose and Shape Estimation.,2018,633,2026-08-27,matched_exact_context
+conf:3dim:MehtaSMX0PT18,Single-Shot Multi-person 3D Pose Estimation from Monocular RGB.,2018,621,2026-08-27,matched_exact_context
+conf:3dim:KellerLLIWK13,Real-Time 3D Reconstruction in Dynamic Scenes Using Point-Based Fusion.,2013,552,2026-08-27,matched_exact_context
+conf:3dim:AhujaM19,Language2Pose: Natural Language Grounded Pose Forecasting.,2019,497,2026-08-27,matched_exact_context
+conf:3dim:HuaPNTYY16,SceneNN: A Scene Meshes Dataset with aNNotations.,2016,482,2026-08-27,matched_exact_context
+conf:3dim:AksanKCH21,A Spatio-temporal Transformer for 3D Human Motion Prediction.,2021,464,2026-08-27,matched_exact_context
+conf:3dim:ZhaoZPTGZHTM22,MonoViT: Self-Supervised Monocular Depth Estimation with a Vision Transformer.,2022,463,2026-08-27,matched_exact_context
+conf:3dim:McCormacCBDL18,Fusion++: Volumetric Object-Level SLAM.,2018,429,2026-08-27,matched_exact_context
+conf:3dim:RichardsonSK16,3D Face Reconstruction by Learning from Synthetic Data.,2016,397,2026-08-27,matched_exact_context
+conf:3dim:HaneTM17,Hierarchical Surface Prediction for 3D Object Reconstruction.,2017,388,2026-08-27,matched_exact_context
+conf:3dim:GadelhaMW17,3D Shape Induction from 2D Views of Multiple Objects.,2017,388,2026-08-27,matched_exact_context
+conf:3dim:JooNV21,Exemplar Fine-Tuning for 3D Human Model Fitting Towards In-the-Wild 3D Human Pose Estimation.,2021,372,2026-08-27,matched_exact_context
+conf:3dim:JaritzCWPN18,Sparse and Dense Data with CNNs: Depth Completion and Semantic Segmentation.,2018,365,2026-08-27,matched_exact_context
+conf:3dim:ChenWLSWTLCC16,Synthesizing Training Images for Boosting Human 3D Pose Estimation.,2016,362,2026-08-27,matched_exact_context
+conf:3dim:RoldaoCV20,LMSCNet: Lightweight Multiscale 3D Semantic Completion.,2020,320,2026-08-27,matched_exact_context
+conf:3dim:AlldieckMXTP18,Detailed Human Avatars from Monocular Video.,2018,310,2026-08-27,matched_exact_context
+conf:3dim:KarunratanakulY20,Grasping Field: Learning Implicit Representations for Human Grasps.,2020,308,2026-08-27,matched_exact_context
+conf:3dim:Ghosh0AH17,Learning Human Motion Models for Long-Term Predictions.,2017,303,2026-08-27,matched_exact_context
+conf:3dim:ZhuPLCOGP24,NICER-SLAM: Neural Implicit Scene Encoding for RGB SLAM.,2024,302,2026-08-27,matched_exact_context
+conf:3dim:GehrigMGS21,E-RAFT: Dense Optical Flow from Event Cameras.,2021,294,2026-08-27,matched_exact_context
+conf:3dim:WangA25,3D Reconstruction with Spatial Memory.,2025,284,2026-08-27,matched_exact_context
+conf:3dim:TschernezkiLLV22,Neural Feature Fusion Fields: 3D Distillation of Self-Supervised 2D Image Representations.,2022,273,2026-08-27,matched_exact_context
+conf:3dim:AthanasiouPBV22,TEACH: Temporal Action Composition for 3D Humans.,2022,273,2026-08-27,matched_exact_context
+conf:3dim:WangYN21,SceneFormer: Indoor Scene Generation with Transformers.,2021,271,2026-08-27,matched_exact_context
+conf:3dim:YanZBJ21,Channel-Wise Attention-Based Network for Self-Supervised Monocular Depth Estimation.,2021,270,2026-08-27,matched_exact_context
+conf:3dim:Huang17,Towards Accurate Marker-Less Human Shape and Pose Estimation over Time.,2017,269,2026-08-27,matched_exact_context
+conf:3dim:LunGKMW17,3D Shape Reconstruction from Sketches via Multi-view Convolutional Networks.,2017,261,2026-08-27,matched_exact_context
+conf:3dim:RieglerUBG17,OctNetFusion: Learning Depth Fusion from Data.,2017,244,2026-08-27,matched_exact_context
+conf:3dim:Pilzer0P0S18,Unsupervised Adversarial Depth Estimation Using Cycled Generative Networks.,2018,243,2026-08-27,matched_exact_context
+conf:3dim:ZhangHRY19,Rotation Invariant Convolutions for 3D Point Clouds Deep Learning.,2019,242,2026-08-27,matched_exact_context
+conf:3dim:FengCBTB21,Collaborative Regression of Expressive Bodies using Moderation.,2021,237,2026-08-27,matched_exact_context
+conf:3dim:FuZCLZZGL22,Panoptic NeRF: 3D-to-2D Label Transfer for Panoptic Urban Scene Segmentation.,2022,235,2026-08-27,matched_exact_context
+conf:3dim:ValentinDNKTIK16,Learning to Navigate the Energy Landscape.,2016,225,2026-08-27,matched_exact_context
+conf:3dim:Hidalgo-CarrioG20,Learning Monocular Dense Depth from Events.,2020,223,2026-08-27,matched_exact_context
+conf:3dim:NekrasovSLLE21,Mix3D: Out-of-Context Data Augmentation for 3D Scenes.,2021,215,2026-08-27,matched_exact_context
+conf:3dim:PoggiTM18,Learning Monocular Depth Estimation with Unsupervised Trinocular Assumptions.,2018,210,2026-08-27,matched_exact_context
+conf:3dim:ThomasGDM18,Semantic Classification of 3D Point Clouds with Multiscale Spherical Neighborhoods.,2018,209,2026-08-27,matched_exact_context
+conf:3dim:ZhuX0FY18,A 3D Coarse-to-Fine Framework for Volumetric Medical Image Segmentation.,2018,200,2026-08-27,matched_exact_context
+conf:3dim:MousavianPK16,Joint Semantic Segmentation and Depth Estimation with Deep Convolutional Networks.,2016,197,2026-08-27,matched_exact_context
+conf:3dim:WangS18,MVDepthNet: Real-Time Multiview Depth Estimation Neural Network.,2018,193,2026-08-27,matched_exact_context
+conf:3dim:HanKKIRFULN19,Synthesizing Diverse Lung Nodules Wherever Massively: 3D Multi-Conditional GAN-Based CT Image Augmentation for Object Detection.,2019,186,2026-08-27,matched_exact_context
+conf:3dim:TsalicoglouMTNT24,TextMesh: Generation of Realistic 3D Meshes From Text Prompts.,2024,170,2026-08-27,matched_exact_context
+conf:3dim:BirdalI15,Point Pair Features Based Object Detection and Pose Estimation Revisited.,2015,168,2026-08-27,matched_exact_context
+conf:3dim:KowalskiND15,Live Scan3D: A Fast and Inexpensive 3D Data Acquisition System for Multiple Kinect v2 Sensors.,2015,167,2026-08-27,matched_human_verified
+conf:3dim:ZhuLYYX19,V-NAS: Neural Architecture Search for Volumetric Medical Image Segmentation.,2019,155,2026-08-27,matched_exact_context
+conf:3dim:WangLPW19,Web Stereo Video Supervision for Depth Prediction from Dynamic Scenes.,2019,149,2026-08-27,matched_exact_context
+conf:3dim:GwakCCGS17,Weakly Supervised 3D Reconstruction with Adversarial Constraint.,2017,144,2026-08-27,matched_exact_context
+conf:3dim:HaoLYL18,Detail Preserving Depth Estimation from a Single Image Using Attention Guided Networks.,2018,144,2026-08-27,matched_exact_context
+conf:3dim:ShanWCFHS14,Accurate Geo-Registration by Ground-to-Aerial Image Matching.,2014,138,2026-08-27,matched_exact_context
+conf:3dim:SchopsSHP15,3D Modeling on the Go: Interactive 3D Reconstruction of Large-Scale Scenes on Mobile Devices.,2015,132,2026-08-27,matched_exact_context
+conf:3dim:ShanACFS13,The Visual Turing Test for Scene Reconstruction.,2013,131,2026-08-27,matched_exact_context
+conf:3dim:MallesonGTCHV17,Real-Time Full-Body Motion Capture from Video and IMUs.,2017,122,2026-08-27,matched_exact_context
+conf:3dim:DuisterhofZWLCR25,MASt3R-SfM: A Fully-Integrated Solution for Unconstrained Structure-from-Motion.,2025,113,2026-08-27,matched_exact_context
+conf:3dim:XiongMXUCZK25,Sparsegs: Sparse View Synthesis Using 3D Gaussian Splatting.,2025,30,2026-08-27,matched_exact_context

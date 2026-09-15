@@ -1,0 +1,18 @@
+display_order,supergroup,category_id,label,short_label,taxonomy_version
+1,capture_geometry,sensing_acquisition_calibration,"Sensing, Acquisition & Calibration",Sensing & Calibration,0.3
+2,capture_geometry,depth_stereo_shape_from_x,"Depth, Stereo & Shape-from-X",Depth & Stereo,0.3
+3,capture_geometry,multiview_geometry_sfm_photogrammetry,"Multi-view Geometry, SfM & Photogrammetry",Multi-view Geometry & SfM,0.3
+4,capture_geometry,registration_correspondence_matching,"Registration, Correspondence & Shape Matching",Registration & Correspondence,0.3
+5,capture_geometry,slam_localization_mapping,"SLAM, Localization & Mapping",SLAM & Mapping,0.3
+6,capture_geometry,reconstruction_fusion_modeling,"Reconstruction, Fusion & Geometric Modeling",Reconstruction & Fusion,0.3
+7,representation_understanding,representations_features,3D Representations & Embeddings,3D Representations & Embeddings,0.3
+8,representation_understanding,geometry_shape_processing,Geometry & Shape Processing,Geometry Processing,0.3
+9,representation_understanding,recognition_detection_retrieval,"Recognition, Detection & Retrieval",Recognition & Detection,0.3
+10,representation_understanding,segmentation_scene_understanding,Segmentation & Scene Understanding,Segmentation & Scene Understanding,0.3
+11,representation_understanding,humans_faces_hands_avatars,"Humans, Faces, Hands & Avatars",Humans & Avatars,0.3
+12,representation_understanding,motion_tracking_dynamic_4d,"Motion, Tracking & Dynamic/4D Vision",Motion & 4D,0.3
+13,synthesis_interaction,rendering_novel_views_appearance,"Rendering, Novel Views & Appearance",Rendering & Novel Views,0.3
+14,synthesis_interaction,generation_completion_editing,"Generation, Completion & Editing",Generation & Completion,0.3
+15,synthesis_interaction,robotics_embodied_interaction,"Robotics, Embodied Vision & Interaction",Robotics & Embodied Vision,0.3
+16,resources_applications,datasets_benchmarks_evaluation,"Datasets, Benchmarks & Evaluation",Datasets & Benchmarks,0.3
+17,resources_applications,ar_vr_hci_applied_systems,"AR/VR, HCI & Applied 3D Systems",AR/VR & HCI,0.3

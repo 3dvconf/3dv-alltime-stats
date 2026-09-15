@@ -1,0 +1,12 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+.ruff_cache/
+.pytest_cache/
+.env
+.env.*
+!.env.example
+.work/
+tests/
+*.tmp
+data/*_checkpoint.csv

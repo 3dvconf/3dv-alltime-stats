@@ -1,0 +1,222 @@
+taxonomy_version,category_type,year,category,label,short_label,supergroup,display_order,paper_count,count,share_of_papers
+0.3,primary,2013,sensing_acquisition_calibration,"Sensing, Acquisition & Calibration",Sensing & Calibration,capture_geometry,1,56,3,0.053571
+0.3,primary,2013,depth_stereo_shape_from_x,"Depth, Stereo & Shape-from-X",Depth & Stereo,capture_geometry,2,56,5,0.089286
+0.3,primary,2013,multiview_geometry_sfm_photogrammetry,"Multi-view Geometry, SfM & Photogrammetry",Multi-view Geometry & SfM,capture_geometry,3,56,3,0.053571
+0.3,primary,2013,registration_correspondence_matching,"Registration, Correspondence & Shape Matching",Registration & Correspondence,capture_geometry,4,56,5,0.089286
+0.3,primary,2013,slam_localization_mapping,"SLAM, Localization & Mapping",SLAM & Mapping,capture_geometry,5,56,2,0.035714
+0.3,primary,2013,reconstruction_fusion_modeling,"Reconstruction, Fusion & Geometric Modeling",Reconstruction & Fusion,capture_geometry,6,56,10,0.178571
+0.3,primary,2013,representations_features,3D Representations & Embeddings,3D Representations & Embeddings,representation_understanding,7,56,0,0.0
+0.3,primary,2013,geometry_shape_processing,Geometry & Shape Processing,Geometry Processing,representation_understanding,8,56,0,0.0
+0.3,primary,2013,recognition_detection_retrieval,"Recognition, Detection & Retrieval",Recognition & Detection,representation_understanding,9,56,5,0.089286
+0.3,primary,2013,segmentation_scene_understanding,Segmentation & Scene Understanding,Segmentation & Scene Understanding,representation_understanding,10,56,3,0.053571
+0.3,primary,2013,humans_faces_hands_avatars,"Humans, Faces, Hands & Avatars",Humans & Avatars,representation_understanding,11,56,10,0.178571
+0.3,primary,2013,motion_tracking_dynamic_4d,"Motion, Tracking & Dynamic/4D Vision",Motion & 4D,representation_understanding,12,56,2,0.035714
+0.3,primary,2013,rendering_novel_views_appearance,"Rendering, Novel Views & Appearance",Rendering & Novel Views,synthesis_interaction,13,56,3,0.053571
+0.3,primary,2013,generation_completion_editing,"Generation, Completion & Editing",Generation & Completion,synthesis_interaction,14,56,1,0.017857
+0.3,primary,2013,robotics_embodied_interaction,"Robotics, Embodied Vision & Interaction",Robotics & Embodied Vision,synthesis_interaction,15,56,0,0.0
+0.3,primary,2013,datasets_benchmarks_evaluation,"Datasets, Benchmarks & Evaluation",Datasets & Benchmarks,resources_applications,16,56,2,0.035714
+0.3,primary,2013,ar_vr_hci_applied_systems,"AR/VR, HCI & Applied 3D Systems",AR/VR & HCI,resources_applications,17,56,2,0.035714
+0.3,primary,2014,sensing_acquisition_calibration,"Sensing, Acquisition & Calibration",Sensing & Calibration,capture_geometry,1,105,9,0.085714
+0.3,primary,2014,depth_stereo_shape_from_x,"Depth, Stereo & Shape-from-X",Depth & Stereo,capture_geometry,2,105,12,0.114286
+0.3,primary,2014,multiview_geometry_sfm_photogrammetry,"Multi-view Geometry, SfM & Photogrammetry",Multi-view Geometry & SfM,capture_geometry,3,105,6,0.057143
+0.3,primary,2014,registration_correspondence_matching,"Registration, Correspondence & Shape Matching",Registration & Correspondence,capture_geometry,4,105,11,0.104762
+0.3,primary,2014,slam_localization_mapping,"SLAM, Localization & Mapping",SLAM & Mapping,capture_geometry,5,105,5,0.047619
+0.3,primary,2014,reconstruction_fusion_modeling,"Reconstruction, Fusion & Geometric Modeling",Reconstruction & Fusion,capture_geometry,6,105,13,0.12381
+0.3,primary,2014,representations_features,3D Representations & Embeddings,3D Representations & Embeddings,representation_understanding,7,105,3,0.028571
+0.3,primary,2014,geometry_shape_processing,Geometry & Shape Processing,Geometry Processing,representation_understanding,8,105,3,0.028571
+0.3,primary,2014,recognition_detection_retrieval,"Recognition, Detection & Retrieval",Recognition & Detection,representation_understanding,9,105,8,0.07619
+0.3,primary,2014,segmentation_scene_understanding,Segmentation & Scene Understanding,Segmentation & Scene Understanding,representation_understanding,10,105,6,0.057143
+0.3,primary,2014,humans_faces_hands_avatars,"Humans, Faces, Hands & Avatars",Humans & Avatars,representation_understanding,11,105,9,0.085714
+0.3,primary,2014,motion_tracking_dynamic_4d,"Motion, Tracking & Dynamic/4D Vision",Motion & 4D,representation_understanding,12,105,9,0.085714
+0.3,primary,2014,rendering_novel_views_appearance,"Rendering, Novel Views & Appearance",Rendering & Novel Views,synthesis_interaction,13,105,8,0.07619
+0.3,primary,2014,generation_completion_editing,"Generation, Completion & Editing",Generation & Completion,synthesis_interaction,14,105,1,0.009524
+0.3,primary,2014,robotics_embodied_interaction,"Robotics, Embodied Vision & Interaction",Robotics & Embodied Vision,synthesis_interaction,15,105,0,0.0
+0.3,primary,2014,datasets_benchmarks_evaluation,"Datasets, Benchmarks & Evaluation",Datasets & Benchmarks,resources_applications,16,105,2,0.019048
+0.3,primary,2014,ar_vr_hci_applied_systems,"AR/VR, HCI & Applied 3D Systems",AR/VR & HCI,resources_applications,17,105,0,0.0
+0.3,primary,2015,sensing_acquisition_calibration,"Sensing, Acquisition & Calibration",Sensing & Calibration,capture_geometry,1,74,12,0.162162
+0.3,primary,2015,depth_stereo_shape_from_x,"Depth, Stereo & Shape-from-X",Depth & Stereo,capture_geometry,2,74,9,0.121622
+0.3,primary,2015,multiview_geometry_sfm_photogrammetry,"Multi-view Geometry, SfM & Photogrammetry",Multi-view Geometry & SfM,capture_geometry,3,74,2,0.027027
+0.3,primary,2015,registration_correspondence_matching,"Registration, Correspondence & Shape Matching",Registration & Correspondence,capture_geometry,4,74,8,0.108108
+0.3,primary,2015,slam_localization_mapping,"SLAM, Localization & Mapping",SLAM & Mapping,capture_geometry,5,74,1,0.013514
+0.3,primary,2015,reconstruction_fusion_modeling,"Reconstruction, Fusion & Geometric Modeling",Reconstruction & Fusion,capture_geometry,6,74,12,0.162162
+0.3,primary,2015,representations_features,3D Representations & Embeddings,3D Representations & Embeddings,representation_understanding,7,74,0,0.0
+0.3,primary,2015,geometry_shape_processing,Geometry & Shape Processing,Geometry Processing,representation_understanding,8,74,4,0.054054
+0.3,primary,2015,recognition_detection_retrieval,"Recognition, Detection & Retrieval",Recognition & Detection,representation_understanding,9,74,9,0.121622
+0.3,primary,2015,segmentation_scene_understanding,Segmentation & Scene Understanding,Segmentation & Scene Understanding,representation_understanding,10,74,4,0.054054
+0.3,primary,2015,humans_faces_hands_avatars,"Humans, Faces, Hands & Avatars",Humans & Avatars,representation_understanding,11,74,3,0.040541
+0.3,primary,2015,motion_tracking_dynamic_4d,"Motion, Tracking & Dynamic/4D Vision",Motion & 4D,representation_understanding,12,74,5,0.067568
+0.3,primary,2015,rendering_novel_views_appearance,"Rendering, Novel Views & Appearance",Rendering & Novel Views,synthesis_interaction,13,74,2,0.027027
+0.3,primary,2015,generation_completion_editing,"Generation, Completion & Editing",Generation & Completion,synthesis_interaction,14,74,1,0.013514
+0.3,primary,2015,robotics_embodied_interaction,"Robotics, Embodied Vision & Interaction",Robotics & Embodied Vision,synthesis_interaction,15,74,0,0.0
+0.3,primary,2015,datasets_benchmarks_evaluation,"Datasets, Benchmarks & Evaluation",Datasets & Benchmarks,resources_applications,16,74,0,0.0
+0.3,primary,2015,ar_vr_hci_applied_systems,"AR/VR, HCI & Applied 3D Systems",AR/VR & HCI,resources_applications,17,74,2,0.027027
+0.3,primary,2016,sensing_acquisition_calibration,"Sensing, Acquisition & Calibration",Sensing & Calibration,capture_geometry,1,75,8,0.106667
+0.3,primary,2016,depth_stereo_shape_from_x,"Depth, Stereo & Shape-from-X",Depth & Stereo,capture_geometry,2,75,8,0.106667
+0.3,primary,2016,multiview_geometry_sfm_photogrammetry,"Multi-view Geometry, SfM & Photogrammetry",Multi-view Geometry & SfM,capture_geometry,3,75,5,0.066667
+0.3,primary,2016,registration_correspondence_matching,"Registration, Correspondence & Shape Matching",Registration & Correspondence,capture_geometry,4,75,3,0.04
+0.3,primary,2016,slam_localization_mapping,"SLAM, Localization & Mapping",SLAM & Mapping,capture_geometry,5,75,3,0.04
+0.3,primary,2016,reconstruction_fusion_modeling,"Reconstruction, Fusion & Geometric Modeling",Reconstruction & Fusion,capture_geometry,6,75,5,0.066667
+0.3,primary,2016,representations_features,3D Representations & Embeddings,3D Representations & Embeddings,representation_understanding,7,75,2,0.026667
+0.3,primary,2016,geometry_shape_processing,Geometry & Shape Processing,Geometry Processing,representation_understanding,8,75,5,0.066667
+0.3,primary,2016,recognition_detection_retrieval,"Recognition, Detection & Retrieval",Recognition & Detection,representation_understanding,9,75,3,0.04
+0.3,primary,2016,segmentation_scene_understanding,Segmentation & Scene Understanding,Segmentation & Scene Understanding,representation_understanding,10,75,7,0.093333
+0.3,primary,2016,humans_faces_hands_avatars,"Humans, Faces, Hands & Avatars",Humans & Avatars,representation_understanding,11,75,9,0.12
+0.3,primary,2016,motion_tracking_dynamic_4d,"Motion, Tracking & Dynamic/4D Vision",Motion & 4D,representation_understanding,12,75,8,0.106667
+0.3,primary,2016,rendering_novel_views_appearance,"Rendering, Novel Views & Appearance",Rendering & Novel Views,synthesis_interaction,13,75,3,0.04
+0.3,primary,2016,generation_completion_editing,"Generation, Completion & Editing",Generation & Completion,synthesis_interaction,14,75,2,0.026667
+0.3,primary,2016,robotics_embodied_interaction,"Robotics, Embodied Vision & Interaction",Robotics & Embodied Vision,synthesis_interaction,15,75,0,0.0
+0.3,primary,2016,datasets_benchmarks_evaluation,"Datasets, Benchmarks & Evaluation",Datasets & Benchmarks,resources_applications,16,75,4,0.053333
+0.3,primary,2016,ar_vr_hci_applied_systems,"AR/VR, HCI & Applied 3D Systems",AR/VR & HCI,resources_applications,17,75,0,0.0
+0.3,primary,2017,sensing_acquisition_calibration,"Sensing, Acquisition & Calibration",Sensing & Calibration,capture_geometry,1,73,4,0.054795
+0.3,primary,2017,depth_stereo_shape_from_x,"Depth, Stereo & Shape-from-X",Depth & Stereo,capture_geometry,2,73,5,0.068493
+0.3,primary,2017,multiview_geometry_sfm_photogrammetry,"Multi-view Geometry, SfM & Photogrammetry",Multi-view Geometry & SfM,capture_geometry,3,73,8,0.109589
+0.3,primary,2017,registration_correspondence_matching,"Registration, Correspondence & Shape Matching",Registration & Correspondence,capture_geometry,4,73,7,0.09589
+0.3,primary,2017,slam_localization_mapping,"SLAM, Localization & Mapping",SLAM & Mapping,capture_geometry,5,73,6,0.082192
+0.3,primary,2017,reconstruction_fusion_modeling,"Reconstruction, Fusion & Geometric Modeling",Reconstruction & Fusion,capture_geometry,6,73,10,0.136986
+0.3,primary,2017,representations_features,3D Representations & Embeddings,3D Representations & Embeddings,representation_understanding,7,73,2,0.027397
+0.3,primary,2017,geometry_shape_processing,Geometry & Shape Processing,Geometry Processing,representation_understanding,8,73,2,0.027397
+0.3,primary,2017,recognition_detection_retrieval,"Recognition, Detection & Retrieval",Recognition & Detection,representation_understanding,9,73,2,0.027397
+0.3,primary,2017,segmentation_scene_understanding,Segmentation & Scene Understanding,Segmentation & Scene Understanding,representation_understanding,10,73,3,0.041096
+0.3,primary,2017,humans_faces_hands_avatars,"Humans, Faces, Hands & Avatars",Humans & Avatars,representation_understanding,11,73,7,0.09589
+0.3,primary,2017,motion_tracking_dynamic_4d,"Motion, Tracking & Dynamic/4D Vision",Motion & 4D,representation_understanding,12,73,10,0.136986
+0.3,primary,2017,rendering_novel_views_appearance,"Rendering, Novel Views & Appearance",Rendering & Novel Views,synthesis_interaction,13,73,0,0.0
+0.3,primary,2017,generation_completion_editing,"Generation, Completion & Editing",Generation & Completion,synthesis_interaction,14,73,2,0.027397
+0.3,primary,2017,robotics_embodied_interaction,"Robotics, Embodied Vision & Interaction",Robotics & Embodied Vision,synthesis_interaction,15,73,1,0.013699
+0.3,primary,2017,datasets_benchmarks_evaluation,"Datasets, Benchmarks & Evaluation",Datasets & Benchmarks,resources_applications,16,73,4,0.054795
+0.3,primary,2017,ar_vr_hci_applied_systems,"AR/VR, HCI & Applied 3D Systems",AR/VR & HCI,resources_applications,17,73,0,0.0
+0.3,primary,2018,sensing_acquisition_calibration,"Sensing, Acquisition & Calibration",Sensing & Calibration,capture_geometry,1,81,3,0.037037
+0.3,primary,2018,depth_stereo_shape_from_x,"Depth, Stereo & Shape-from-X",Depth & Stereo,capture_geometry,2,81,13,0.160494
+0.3,primary,2018,multiview_geometry_sfm_photogrammetry,"Multi-view Geometry, SfM & Photogrammetry",Multi-view Geometry & SfM,capture_geometry,3,81,4,0.049383
+0.3,primary,2018,registration_correspondence_matching,"Registration, Correspondence & Shape Matching",Registration & Correspondence,capture_geometry,4,81,8,0.098765
+0.3,primary,2018,slam_localization_mapping,"SLAM, Localization & Mapping",SLAM & Mapping,capture_geometry,5,81,3,0.037037
+0.3,primary,2018,reconstruction_fusion_modeling,"Reconstruction, Fusion & Geometric Modeling",Reconstruction & Fusion,capture_geometry,6,81,6,0.074074
+0.3,primary,2018,representations_features,3D Representations & Embeddings,3D Representations & Embeddings,representation_understanding,7,81,6,0.074074
+0.3,primary,2018,geometry_shape_processing,Geometry & Shape Processing,Geometry Processing,representation_understanding,8,81,4,0.049383
+0.3,primary,2018,recognition_detection_retrieval,"Recognition, Detection & Retrieval",Recognition & Detection,representation_understanding,9,81,2,0.024691
+0.3,primary,2018,segmentation_scene_understanding,Segmentation & Scene Understanding,Segmentation & Scene Understanding,representation_understanding,10,81,8,0.098765
+0.3,primary,2018,humans_faces_hands_avatars,"Humans, Faces, Hands & Avatars",Humans & Avatars,representation_understanding,11,81,9,0.111111
+0.3,primary,2018,motion_tracking_dynamic_4d,"Motion, Tracking & Dynamic/4D Vision",Motion & 4D,representation_understanding,12,81,2,0.024691
+0.3,primary,2018,rendering_novel_views_appearance,"Rendering, Novel Views & Appearance",Rendering & Novel Views,synthesis_interaction,13,81,4,0.049383
+0.3,primary,2018,generation_completion_editing,"Generation, Completion & Editing",Generation & Completion,synthesis_interaction,14,81,5,0.061728
+0.3,primary,2018,robotics_embodied_interaction,"Robotics, Embodied Vision & Interaction",Robotics & Embodied Vision,synthesis_interaction,15,81,0,0.0
+0.3,primary,2018,datasets_benchmarks_evaluation,"Datasets, Benchmarks & Evaluation",Datasets & Benchmarks,resources_applications,16,81,4,0.049383
+0.3,primary,2018,ar_vr_hci_applied_systems,"AR/VR, HCI & Applied 3D Systems",AR/VR & HCI,resources_applications,17,81,0,0.0
+0.3,primary,2019,sensing_acquisition_calibration,"Sensing, Acquisition & Calibration",Sensing & Calibration,capture_geometry,1,79,2,0.025316
+0.3,primary,2019,depth_stereo_shape_from_x,"Depth, Stereo & Shape-from-X",Depth & Stereo,capture_geometry,2,79,13,0.164557
+0.3,primary,2019,multiview_geometry_sfm_photogrammetry,"Multi-view Geometry, SfM & Photogrammetry",Multi-view Geometry & SfM,capture_geometry,3,79,2,0.025316
+0.3,primary,2019,registration_correspondence_matching,"Registration, Correspondence & Shape Matching",Registration & Correspondence,capture_geometry,4,79,6,0.075949
+0.3,primary,2019,slam_localization_mapping,"SLAM, Localization & Mapping",SLAM & Mapping,capture_geometry,5,79,6,0.075949
+0.3,primary,2019,reconstruction_fusion_modeling,"Reconstruction, Fusion & Geometric Modeling",Reconstruction & Fusion,capture_geometry,6,79,7,0.088608
+0.3,primary,2019,representations_features,3D Representations & Embeddings,3D Representations & Embeddings,representation_understanding,7,79,6,0.075949
+0.3,primary,2019,geometry_shape_processing,Geometry & Shape Processing,Geometry Processing,representation_understanding,8,79,0,0.0
+0.3,primary,2019,recognition_detection_retrieval,"Recognition, Detection & Retrieval",Recognition & Detection,representation_understanding,9,79,7,0.088608
+0.3,primary,2019,segmentation_scene_understanding,Segmentation & Scene Understanding,Segmentation & Scene Understanding,representation_understanding,10,79,6,0.075949
+0.3,primary,2019,humans_faces_hands_avatars,"Humans, Faces, Hands & Avatars",Humans & Avatars,representation_understanding,11,79,7,0.088608
+0.3,primary,2019,motion_tracking_dynamic_4d,"Motion, Tracking & Dynamic/4D Vision",Motion & 4D,representation_understanding,12,79,6,0.075949
+0.3,primary,2019,rendering_novel_views_appearance,"Rendering, Novel Views & Appearance",Rendering & Novel Views,synthesis_interaction,13,79,5,0.063291
+0.3,primary,2019,generation_completion_editing,"Generation, Completion & Editing",Generation & Completion,synthesis_interaction,14,79,2,0.025316
+0.3,primary,2019,robotics_embodied_interaction,"Robotics, Embodied Vision & Interaction",Robotics & Embodied Vision,synthesis_interaction,15,79,1,0.012658
+0.3,primary,2019,datasets_benchmarks_evaluation,"Datasets, Benchmarks & Evaluation",Datasets & Benchmarks,resources_applications,16,79,2,0.025316
+0.3,primary,2019,ar_vr_hci_applied_systems,"AR/VR, HCI & Applied 3D Systems",AR/VR & HCI,resources_applications,17,79,1,0.012658
+0.3,primary,2020,sensing_acquisition_calibration,"Sensing, Acquisition & Calibration",Sensing & Calibration,capture_geometry,1,123,6,0.04878
+0.3,primary,2020,depth_stereo_shape_from_x,"Depth, Stereo & Shape-from-X",Depth & Stereo,capture_geometry,2,123,15,0.121951
+0.3,primary,2020,multiview_geometry_sfm_photogrammetry,"Multi-view Geometry, SfM & Photogrammetry",Multi-view Geometry & SfM,capture_geometry,3,123,9,0.073171
+0.3,primary,2020,registration_correspondence_matching,"Registration, Correspondence & Shape Matching",Registration & Correspondence,capture_geometry,4,123,10,0.081301
+0.3,primary,2020,slam_localization_mapping,"SLAM, Localization & Mapping",SLAM & Mapping,capture_geometry,5,123,8,0.065041
+0.3,primary,2020,reconstruction_fusion_modeling,"Reconstruction, Fusion & Geometric Modeling",Reconstruction & Fusion,capture_geometry,6,123,11,0.089431
+0.3,primary,2020,representations_features,3D Representations & Embeddings,3D Representations & Embeddings,representation_understanding,7,123,13,0.105691
+0.3,primary,2020,geometry_shape_processing,Geometry & Shape Processing,Geometry Processing,representation_understanding,8,123,1,0.00813
+0.3,primary,2020,recognition_detection_retrieval,"Recognition, Detection & Retrieval",Recognition & Detection,representation_understanding,9,123,8,0.065041
+0.3,primary,2020,segmentation_scene_understanding,Segmentation & Scene Understanding,Segmentation & Scene Understanding,representation_understanding,10,123,4,0.03252
+0.3,primary,2020,humans_faces_hands_avatars,"Humans, Faces, Hands & Avatars",Humans & Avatars,representation_understanding,11,123,11,0.089431
+0.3,primary,2020,motion_tracking_dynamic_4d,"Motion, Tracking & Dynamic/4D Vision",Motion & 4D,representation_understanding,12,123,7,0.056911
+0.3,primary,2020,rendering_novel_views_appearance,"Rendering, Novel Views & Appearance",Rendering & Novel Views,synthesis_interaction,13,123,8,0.065041
+0.3,primary,2020,generation_completion_editing,"Generation, Completion & Editing",Generation & Completion,synthesis_interaction,14,123,6,0.04878
+0.3,primary,2020,robotics_embodied_interaction,"Robotics, Embodied Vision & Interaction",Robotics & Embodied Vision,synthesis_interaction,15,123,0,0.0
+0.3,primary,2020,datasets_benchmarks_evaluation,"Datasets, Benchmarks & Evaluation",Datasets & Benchmarks,resources_applications,16,123,5,0.04065
+0.3,primary,2020,ar_vr_hci_applied_systems,"AR/VR, HCI & Applied 3D Systems",AR/VR & HCI,resources_applications,17,123,1,0.00813
+0.3,primary,2021,sensing_acquisition_calibration,"Sensing, Acquisition & Calibration",Sensing & Calibration,capture_geometry,1,141,8,0.056738
+0.3,primary,2021,depth_stereo_shape_from_x,"Depth, Stereo & Shape-from-X",Depth & Stereo,capture_geometry,2,141,17,0.120567
+0.3,primary,2021,multiview_geometry_sfm_photogrammetry,"Multi-view Geometry, SfM & Photogrammetry",Multi-view Geometry & SfM,capture_geometry,3,141,5,0.035461
+0.3,primary,2021,registration_correspondence_matching,"Registration, Correspondence & Shape Matching",Registration & Correspondence,capture_geometry,4,141,9,0.06383
+0.3,primary,2021,slam_localization_mapping,"SLAM, Localization & Mapping",SLAM & Mapping,capture_geometry,5,141,6,0.042553
+0.3,primary,2021,reconstruction_fusion_modeling,"Reconstruction, Fusion & Geometric Modeling",Reconstruction & Fusion,capture_geometry,6,141,10,0.070922
+0.3,primary,2021,representations_features,3D Representations & Embeddings,3D Representations & Embeddings,representation_understanding,7,141,9,0.06383
+0.3,primary,2021,geometry_shape_processing,Geometry & Shape Processing,Geometry Processing,representation_understanding,8,141,2,0.014184
+0.3,primary,2021,recognition_detection_retrieval,"Recognition, Detection & Retrieval",Recognition & Detection,representation_understanding,9,141,10,0.070922
+0.3,primary,2021,segmentation_scene_understanding,Segmentation & Scene Understanding,Segmentation & Scene Understanding,representation_understanding,10,141,6,0.042553
+0.3,primary,2021,humans_faces_hands_avatars,"Humans, Faces, Hands & Avatars",Humans & Avatars,representation_understanding,11,141,24,0.170213
+0.3,primary,2021,motion_tracking_dynamic_4d,"Motion, Tracking & Dynamic/4D Vision",Motion & 4D,representation_understanding,12,141,16,0.113475
+0.3,primary,2021,rendering_novel_views_appearance,"Rendering, Novel Views & Appearance",Rendering & Novel Views,synthesis_interaction,13,141,6,0.042553
+0.3,primary,2021,generation_completion_editing,"Generation, Completion & Editing",Generation & Completion,synthesis_interaction,14,141,7,0.049645
+0.3,primary,2021,robotics_embodied_interaction,"Robotics, Embodied Vision & Interaction",Robotics & Embodied Vision,synthesis_interaction,15,141,2,0.014184
+0.3,primary,2021,datasets_benchmarks_evaluation,"Datasets, Benchmarks & Evaluation",Datasets & Benchmarks,resources_applications,16,141,4,0.028369
+0.3,primary,2021,ar_vr_hci_applied_systems,"AR/VR, HCI & Applied 3D Systems",AR/VR & HCI,resources_applications,17,141,0,0.0
+0.3,primary,2022,sensing_acquisition_calibration,"Sensing, Acquisition & Calibration",Sensing & Calibration,capture_geometry,1,71,2,0.028169
+0.3,primary,2022,depth_stereo_shape_from_x,"Depth, Stereo & Shape-from-X",Depth & Stereo,capture_geometry,2,71,5,0.070423
+0.3,primary,2022,multiview_geometry_sfm_photogrammetry,"Multi-view Geometry, SfM & Photogrammetry",Multi-view Geometry & SfM,capture_geometry,3,71,1,0.014085
+0.3,primary,2022,registration_correspondence_matching,"Registration, Correspondence & Shape Matching",Registration & Correspondence,capture_geometry,4,71,4,0.056338
+0.3,primary,2022,slam_localization_mapping,"SLAM, Localization & Mapping",SLAM & Mapping,capture_geometry,5,71,3,0.042254
+0.3,primary,2022,reconstruction_fusion_modeling,"Reconstruction, Fusion & Geometric Modeling",Reconstruction & Fusion,capture_geometry,6,71,3,0.042254
+0.3,primary,2022,representations_features,3D Representations & Embeddings,3D Representations & Embeddings,representation_understanding,7,71,7,0.098592
+0.3,primary,2022,geometry_shape_processing,Geometry & Shape Processing,Geometry Processing,representation_understanding,8,71,1,0.014085
+0.3,primary,2022,recognition_detection_retrieval,"Recognition, Detection & Retrieval",Recognition & Detection,representation_understanding,9,71,4,0.056338
+0.3,primary,2022,segmentation_scene_understanding,Segmentation & Scene Understanding,Segmentation & Scene Understanding,representation_understanding,10,71,5,0.070423
+0.3,primary,2022,humans_faces_hands_avatars,"Humans, Faces, Hands & Avatars",Humans & Avatars,representation_understanding,11,71,16,0.225352
+0.3,primary,2022,motion_tracking_dynamic_4d,"Motion, Tracking & Dynamic/4D Vision",Motion & 4D,representation_understanding,12,71,5,0.070423
+0.3,primary,2022,rendering_novel_views_appearance,"Rendering, Novel Views & Appearance",Rendering & Novel Views,synthesis_interaction,13,71,3,0.042254
+0.3,primary,2022,generation_completion_editing,"Generation, Completion & Editing",Generation & Completion,synthesis_interaction,14,71,7,0.098592
+0.3,primary,2022,robotics_embodied_interaction,"Robotics, Embodied Vision & Interaction",Robotics & Embodied Vision,synthesis_interaction,15,71,0,0.0
+0.3,primary,2022,datasets_benchmarks_evaluation,"Datasets, Benchmarks & Evaluation",Datasets & Benchmarks,resources_applications,16,71,4,0.056338
+0.3,primary,2022,ar_vr_hci_applied_systems,"AR/VR, HCI & Applied 3D Systems",AR/VR & HCI,resources_applications,17,71,1,0.014085
+0.3,primary,2024,sensing_acquisition_calibration,"Sensing, Acquisition & Calibration",Sensing & Calibration,capture_geometry,1,154,2,0.012987
+0.3,primary,2024,depth_stereo_shape_from_x,"Depth, Stereo & Shape-from-X",Depth & Stereo,capture_geometry,2,154,10,0.064935
+0.3,primary,2024,multiview_geometry_sfm_photogrammetry,"Multi-view Geometry, SfM & Photogrammetry",Multi-view Geometry & SfM,capture_geometry,3,154,7,0.045455
+0.3,primary,2024,registration_correspondence_matching,"Registration, Correspondence & Shape Matching",Registration & Correspondence,capture_geometry,4,154,9,0.058442
+0.3,primary,2024,slam_localization_mapping,"SLAM, Localization & Mapping",SLAM & Mapping,capture_geometry,5,154,5,0.032468
+0.3,primary,2024,reconstruction_fusion_modeling,"Reconstruction, Fusion & Geometric Modeling",Reconstruction & Fusion,capture_geometry,6,154,12,0.077922
+0.3,primary,2024,representations_features,3D Representations & Embeddings,3D Representations & Embeddings,representation_understanding,7,154,13,0.084416
+0.3,primary,2024,geometry_shape_processing,Geometry & Shape Processing,Geometry Processing,representation_understanding,8,154,4,0.025974
+0.3,primary,2024,recognition_detection_retrieval,"Recognition, Detection & Retrieval",Recognition & Detection,representation_understanding,9,154,10,0.064935
+0.3,primary,2024,segmentation_scene_understanding,Segmentation & Scene Understanding,Segmentation & Scene Understanding,representation_understanding,10,154,8,0.051948
+0.3,primary,2024,humans_faces_hands_avatars,"Humans, Faces, Hands & Avatars",Humans & Avatars,representation_understanding,11,154,26,0.168831
+0.3,primary,2024,motion_tracking_dynamic_4d,"Motion, Tracking & Dynamic/4D Vision",Motion & 4D,representation_understanding,12,154,14,0.090909
+0.3,primary,2024,rendering_novel_views_appearance,"Rendering, Novel Views & Appearance",Rendering & Novel Views,synthesis_interaction,13,154,14,0.090909
+0.3,primary,2024,generation_completion_editing,"Generation, Completion & Editing",Generation & Completion,synthesis_interaction,14,154,8,0.051948
+0.3,primary,2024,robotics_embodied_interaction,"Robotics, Embodied Vision & Interaction",Robotics & Embodied Vision,synthesis_interaction,15,154,4,0.025974
+0.3,primary,2024,datasets_benchmarks_evaluation,"Datasets, Benchmarks & Evaluation",Datasets & Benchmarks,resources_applications,16,154,8,0.051948
+0.3,primary,2024,ar_vr_hci_applied_systems,"AR/VR, HCI & Applied 3D Systems",AR/VR & HCI,resources_applications,17,154,0,0.0
+0.3,primary,2025,sensing_acquisition_calibration,"Sensing, Acquisition & Calibration",Sensing & Calibration,capture_geometry,1,142,0,0.0
+0.3,primary,2025,depth_stereo_shape_from_x,"Depth, Stereo & Shape-from-X",Depth & Stereo,capture_geometry,2,142,3,0.021127
+0.3,primary,2025,multiview_geometry_sfm_photogrammetry,"Multi-view Geometry, SfM & Photogrammetry",Multi-view Geometry & SfM,capture_geometry,3,142,5,0.035211
+0.3,primary,2025,registration_correspondence_matching,"Registration, Correspondence & Shape Matching",Registration & Correspondence,capture_geometry,4,142,6,0.042254
+0.3,primary,2025,slam_localization_mapping,"SLAM, Localization & Mapping",SLAM & Mapping,capture_geometry,5,142,4,0.028169
+0.3,primary,2025,reconstruction_fusion_modeling,"Reconstruction, Fusion & Geometric Modeling",Reconstruction & Fusion,capture_geometry,6,142,16,0.112676
+0.3,primary,2025,representations_features,3D Representations & Embeddings,3D Representations & Embeddings,representation_understanding,7,142,5,0.035211
+0.3,primary,2025,geometry_shape_processing,Geometry & Shape Processing,Geometry Processing,representation_understanding,8,142,2,0.014085
+0.3,primary,2025,recognition_detection_retrieval,"Recognition, Detection & Retrieval",Recognition & Detection,representation_understanding,9,142,5,0.035211
+0.3,primary,2025,segmentation_scene_understanding,Segmentation & Scene Understanding,Segmentation & Scene Understanding,representation_understanding,10,142,8,0.056338
+0.3,primary,2025,humans_faces_hands_avatars,"Humans, Faces, Hands & Avatars",Humans & Avatars,representation_understanding,11,142,23,0.161972
+0.3,primary,2025,motion_tracking_dynamic_4d,"Motion, Tracking & Dynamic/4D Vision",Motion & 4D,representation_understanding,12,142,15,0.105634
+0.3,primary,2025,rendering_novel_views_appearance,"Rendering, Novel Views & Appearance",Rendering & Novel Views,synthesis_interaction,13,142,22,0.15493
+0.3,primary,2025,generation_completion_editing,"Generation, Completion & Editing",Generation & Completion,synthesis_interaction,14,142,18,0.126761
+0.3,primary,2025,robotics_embodied_interaction,"Robotics, Embodied Vision & Interaction",Robotics & Embodied Vision,synthesis_interaction,15,142,3,0.021127
+0.3,primary,2025,datasets_benchmarks_evaluation,"Datasets, Benchmarks & Evaluation",Datasets & Benchmarks,resources_applications,16,142,6,0.042254
+0.3,primary,2025,ar_vr_hci_applied_systems,"AR/VR, HCI & Applied 3D Systems",AR/VR & HCI,resources_applications,17,142,1,0.007042
+0.3,primary,2026,sensing_acquisition_calibration,"Sensing, Acquisition & Calibration",Sensing & Calibration,capture_geometry,1,177,2,0.011299
+0.3,primary,2026,depth_stereo_shape_from_x,"Depth, Stereo & Shape-from-X",Depth & Stereo,capture_geometry,2,177,5,0.028249
+0.3,primary,2026,multiview_geometry_sfm_photogrammetry,"Multi-view Geometry, SfM & Photogrammetry",Multi-view Geometry & SfM,capture_geometry,3,177,8,0.045198
+0.3,primary,2026,registration_correspondence_matching,"Registration, Correspondence & Shape Matching",Registration & Correspondence,capture_geometry,4,177,7,0.039548
+0.3,primary,2026,slam_localization_mapping,"SLAM, Localization & Mapping",SLAM & Mapping,capture_geometry,5,177,1,0.00565
+0.3,primary,2026,reconstruction_fusion_modeling,"Reconstruction, Fusion & Geometric Modeling",Reconstruction & Fusion,capture_geometry,6,177,25,0.141243
+0.3,primary,2026,representations_features,3D Representations & Embeddings,3D Representations & Embeddings,representation_understanding,7,177,8,0.045198
+0.3,primary,2026,geometry_shape_processing,Geometry & Shape Processing,Geometry Processing,representation_understanding,8,177,5,0.028249
+0.3,primary,2026,recognition_detection_retrieval,"Recognition, Detection & Retrieval",Recognition & Detection,representation_understanding,9,177,6,0.033898
+0.3,primary,2026,segmentation_scene_understanding,Segmentation & Scene Understanding,Segmentation & Scene Understanding,representation_understanding,10,177,12,0.067797
+0.3,primary,2026,humans_faces_hands_avatars,"Humans, Faces, Hands & Avatars",Humans & Avatars,representation_understanding,11,177,16,0.090395
+0.3,primary,2026,motion_tracking_dynamic_4d,"Motion, Tracking & Dynamic/4D Vision",Motion & 4D,representation_understanding,12,177,29,0.163842
+0.3,primary,2026,rendering_novel_views_appearance,"Rendering, Novel Views & Appearance",Rendering & Novel Views,synthesis_interaction,13,177,20,0.112994
+0.3,primary,2026,generation_completion_editing,"Generation, Completion & Editing",Generation & Completion,synthesis_interaction,14,177,21,0.118644
+0.3,primary,2026,robotics_embodied_interaction,"Robotics, Embodied Vision & Interaction",Robotics & Embodied Vision,synthesis_interaction,15,177,4,0.022599
+0.3,primary,2026,datasets_benchmarks_evaluation,"Datasets, Benchmarks & Evaluation",Datasets & Benchmarks,resources_applications,16,177,8,0.045198
+0.3,primary,2026,ar_vr_hci_applied_systems,"AR/VR, HCI & Applied 3D Systems",AR/VR & HCI,resources_applications,17,177,0,0.0

@@ -1,0 +1,15 @@
+year,edition_status,canonical_source_available,supplemental_snapshot_available,supplemental_raw_record_count,live_paper_rows,openalex_citation_rows,semantic_scholar_citation_rows,topic_classified_rows,build_status
+2013,held,yes,no,,56,56,55,56,complete
+2014,held,yes,no,,105,105,103,105,complete
+2015,held,yes,no,,74,74,74,74,complete
+2016,held,yes,no,,75,75,74,75,complete
+2017,held,yes,no,,73,73,72,73,complete
+2018,held,yes,no,,81,81,81,81,complete
+2019,held,yes,no,,79,79,79,79,complete
+2020,held,yes,yes,124,123,123,122,123,complete
+2021,held,yes,yes,144,141,141,140,141,complete
+2022,held,yes,yes,73,71,71,71,71,complete
+2023,no edition,n/a,n/a,,0,0,,0,not_applicable
+2024,held,yes,yes,157,154,154,154,154,complete
+2025,held,yes,yes,142,142,142,141,142,complete
+2026,held,yes,yes,177,177,176,176,177,complete

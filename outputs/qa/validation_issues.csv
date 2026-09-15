@@ -1,0 +1,2 @@
+severity,issue_type,record_id,publication_year,paper_title,detail
+warning,missing_openalex_match,conf:3dim:OberwegerSS26,2026,PI3DETR: Parametric Instance Detection of 3D Point Cloud Edges with a Geometry-Aware 3DETR.,OpenAlex metadata is unavailable; citation fallback Crossref=1 is recorded.
