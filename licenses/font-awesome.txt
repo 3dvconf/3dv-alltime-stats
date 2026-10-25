@@ -1,0 +1,19 @@
+Font Awesome Free 5.0.13
+Copyright Fonticons, Inc. https://fontawesome.com/
+
+The Twitter, cloud, LinkedIn, and book icon paths used by this site are from
+Font Awesome Free 5.0.13. The original paths are unchanged; presentation colors
+and rendered sizes match the 3DV 2027 social links.
+
+These icons are licensed under Creative Commons Attribution 4.0 International:
+https://creativecommons.org/licenses/by/4.0/
+Full legal terms: https://creativecommons.org/licenses/by/4.0/legalcode
+Font Awesome license information: https://fontawesome.com/license/free
+
+Original version-pinned assets:
+https://use.fontawesome.com/releases/v5.0.13/svgs/brands/twitter.svg
+https://use.fontawesome.com/releases/v5.0.13/svgs/solid/cloud.svg
+https://use.fontawesome.com/releases/v5.0.13/svgs/brands/linkedin.svg
+https://use.fontawesome.com/releases/v5.0.13/svgs/solid/book.svg
+
+No endorsement by Fonticons, Inc. or the social platforms is implied.
